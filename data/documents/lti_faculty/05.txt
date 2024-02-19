@@ -1,0 +1,5 @@
+Language Technologies Institute - Faculty
+Name: Fernando Diaz
+Email: diazf@cmu.edu
+Research Areas: Information Retrieval: Recommender Systems, Retrieval and Ranking Models, Natural Language Processing: Fairness and Ethics in Language Technology, Creativity, Evaluation
+Phone: 412-268-4229

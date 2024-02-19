@@ -1,0 +1,6 @@
+Language Technologies Institute - Faculty
+Name: Alexander Hauptmann
+Email: alex@cs.cmu.edu
+Office: 5519 Gates & Hillman Centers
+Research Areas: Information Extraction, Summarization and Question Answering, Information Retrieval, Text Mining and Analytics, Machine Learning, Multimodal Computing and Interaction
+Phone: 412-268-1448

@@ -1,0 +1,5 @@
+Language Technologies Institute - Faculty
+Name: Yonatan Bisk
+Email: ybisk@cs.cmu.edu
+Office: Gates & Hillman Centers
+Research Areas: Grounding, RoboNLP, Vision and Language, Embodiment, Unsupervised Learning

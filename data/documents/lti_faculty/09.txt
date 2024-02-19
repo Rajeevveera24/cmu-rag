@@ -1,0 +1,6 @@
+Language Technologies Institute - Faculty
+Name: Anatole Gershman
+Email: anatole.gershman@cs.cmu.edu
+Office: 6415 Gates & Hillman Centers
+Research Areas: Information Extraction, Summarization and Question Answering
+Phone: 412-268-8259

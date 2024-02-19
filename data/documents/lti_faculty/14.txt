@@ -1,0 +1,6 @@
+Language Technologies Institute - Faculty
+Name: Teruko Mitamura
+Email: teruko@cs.cmu.edu
+Office: 6711 Gates & Hillman Centers
+Research Areas: Information Extraction, Summarization and Question Answering, Information Retrieval, Text Mining and Analytics, Language Technologies for Education, Natural Language Processing and Computational Linguistics
+Phone: 412-268-6596

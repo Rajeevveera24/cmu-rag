@@ -1,0 +1,6 @@
+Language Technologies Institute - Faculty
+Name: Scott Fahlman
+Email: sef@cs.cmu.edu
+Office: 6417 Gates & Hillman Centers
+Research Areas: AI, Knowledge Representation and Reasoning, Natural Language Understanding
+Phone: 412-268-2575

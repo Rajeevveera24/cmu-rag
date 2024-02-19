@@ -1,0 +1,6 @@
+Language Technologies Institute - Faculty
+Name: Louis-Philippe Morency
+Email: morency@cs.cmu.edu
+Office: 5411 Gates & Hillman Centers
+Research Areas: Machine Learning, Multimodal Computing and Interaction, Spoken Interfaces and Dialogue Processing
+Phone: 412-268-5508

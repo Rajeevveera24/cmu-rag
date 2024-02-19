@@ -1,0 +1,6 @@
+Language Technologies Institute - Faculty
+Name: Eric Nyberg
+Email: ehn@cs.cmu.edu
+Office: 6715 Gates & Hillman Centers
+Research Areas: Information Extraction, Summarization and Question Answering, Information Retrieval, Text Mining and Analytics, Language Technologies for Education
+Phone: 412-268-7281

@@ -1,0 +1,5 @@
+Language Technologies Institute - Faculty
+Name: Lei Li
+Email: leili@andrew.cmu.edu
+Research Areas: Machine Learning, Machine Translation, Large Language Models, AI Drug Discovery
+Phone: 412-268-6355
