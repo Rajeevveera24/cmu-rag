@@ -1,4 +1,5 @@
 Language Technologies Institute - Adjunct Faculty
-Name: Matthias Grabmair
-Email: mgrabmai@andrew.cmu.edu
+Name: Yulia Tsvetkov
+Email: yuliats@cs.washington.edu
+Office: Gates & Hillman Centers
 Phone:

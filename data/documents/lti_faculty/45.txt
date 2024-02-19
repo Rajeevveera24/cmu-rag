@@ -1,5 +1,4 @@
-Language Technologies Institute - Affiliated Faculty
-Name: Jack Mostow
-Email: mostow@cs.cmu.edu
-Office: 3113 Newell-Simon Hall
-Phone: 412-268-1330
+Language Technologies Institute - Adjunct Faculty
+Name: Taylor Berg-Kirkpatrick
+Email: tberg@cs.cmu.edu
+Office: 6403 Gates & Hillman Centers

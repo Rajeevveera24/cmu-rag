@@ -1,4 +1,3 @@
 Language Technologies Institute - Affiliated Faculty
-Name: Brian MacWhinney
-Email: macw@cmu.edu
-Office: 254M Baker Hall
+Name: Rodolfo M Vega
+Email: rmvega@andrew.cmu.edu

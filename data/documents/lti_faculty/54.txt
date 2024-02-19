@@ -1,5 +1,2 @@
 Language Technologies Institute - Adjunct Faculty
-Name: Christopher Dyer
-Email: cdyer@cs.cmu.edu
-Research Areas: Machine Learning, Machine Translation, Natural Language Processing and Computational Linguistics
-Phone:
+Name: Thomas Schaaf

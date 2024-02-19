@@ -1,6 +1,5 @@
-Language Technologies Institute - Adjunct Faculty
-Name: Florian Metze
-Email: fmetze@cs.cmu.edu
-Office: 202 407 South Craig Street
-Research Areas: Machine Learning, Speech Processing
-Phone: 412-268-8984
+Language Technologies Institute - Staff
+Name: Bryan Burtner
+Email: bburtner@cs.cmu.edu
+Office: 6413 TCS Hall
+Phone: 412-268-2805

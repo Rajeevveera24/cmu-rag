@@ -1,4 +1,2 @@
 Language Technologies Institute - Adjunct Faculty
-Name: Taylor Berg-Kirkpatrick
-Email: tberg@cs.cmu.edu
-Office: 6403 Gates & Hillman Centers
+Name: Michael Mauldin

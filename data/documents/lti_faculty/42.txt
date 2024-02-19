@@ -1,4 +1,5 @@
 Language Technologies Institute - Affiliated Faculty
-Name: Ian Lane
-Email: lane@cmu.edu
-Phone: 408-505-3178
+Name: Richard Stern
+Email: rms@cs.cmu.edu
+Office: B24 Baker-Porter Hall
+Phone: 412-268-2535

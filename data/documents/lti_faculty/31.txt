@@ -1,5 +1,4 @@
-Language Technologies Institute - Staff
-Name: Karen Kirk
-Email: karensuk@andrew.cmu.edu
-Office: 6719 Gates & Hillman Centers
-Phone: +1 412 268 6904
+Language Technologies Institute - Faculty
+Name: Chenyan Xiong
+Email: cx@andrew.cmu.edu
+Phone: 412-268-7641

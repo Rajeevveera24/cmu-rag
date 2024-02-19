@@ -1,5 +1,6 @@
 Language Technologies Institute - Adjunct Faculty
-Name: William Cohen
-Email: wcohen@cs.cmu.edu
-Office: 8217 Gates & Hillman Centers
-Phone: 412-268-7664
+Name: Florian Metze
+Email: fmetze@cs.cmu.edu
+Office: 202 407 South Craig Street
+Research Areas: Machine Learning, Speech Processing
+Phone: 412-268-8984

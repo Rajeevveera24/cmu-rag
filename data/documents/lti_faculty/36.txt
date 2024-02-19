@@ -1,3 +1,4 @@
-Language Technologies Institute - Staff
-Name: Soumi Maiti
-Email: smaiti@andrew.cmu.edu
+Language Technologies Institute - Affiliated Faculty
+Name: Brian MacWhinney
+Email: macw@cmu.edu
+Office: 254M Baker Hall

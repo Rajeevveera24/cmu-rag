@@ -1,5 +1,4 @@
-Language Technologies Institute - Staff
-Name: John Friday
-Email: jfriday@andrew.cmu.edu
-Office: 5715 Gates & Hillman Centers
-Phone: 412-268-1810
+Language Technologies Institute - Faculty
+Name: Emma Strubell
+Email: estrubel@andrew.cmu.edu
+Office: Gates & Hillman Centers

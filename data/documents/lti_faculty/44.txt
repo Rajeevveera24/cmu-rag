@@ -1,5 +1,3 @@
-Language Technologies Institute - Affiliated Faculty
-Name: Tom Mitchell
-Email: mitchell@andrew.cmu.edu
-Office: 8211 Gates & Hillman Centers
-Phone: 412-268-2611
+Language Technologies Institute - Adjunct Faculty
+Name: Malihe Alikhani
+Email: malihe@pitt.edu

@@ -1,3 +1,5 @@
-Language Technologies Institute - Staff
-Name: Jennifer Clark
-Email: jclark2@andrew.cmu.edu
+Language Technologies Institute - Faculty
+Name: Michael Shamos
+Email: shamos@cs.cmu.edu
+Office: 6707 Gates & Hillman Centers
+Phone: 412-268-8193

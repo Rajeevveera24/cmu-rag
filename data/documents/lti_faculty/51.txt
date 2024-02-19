@@ -1,3 +1,5 @@
 Language Technologies Institute - Adjunct Faculty
-Name: Malihe Alikhani
-Email: malihe@pitt.edu
+Name: Alon Lavie
+Email: alavie@cs.cmu.edu
+Research Areas: Machine Translation, Natural Language Processing and Computational Linguistics
+Phone:

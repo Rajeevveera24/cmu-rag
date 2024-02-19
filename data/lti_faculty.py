@@ -38,8 +38,13 @@ def write_to_file(f, text):
 if __name__ == "__main__":
     urls = [
         "https://lti.cs.cmu.edu/directory/all/154/1",
-        "https://lti.cs.cmu.edu/directory/all/154/2",
+        "https://lti.cs.cmu.edu/directory/all/154/1?page=1",
         "https://lti.cs.cmu.edu/directory/all/154/2728",
-        "https://lti.cs.cmu.edu/directory/all/154/200"
+        "https://lti.cs.cmu.edu/directory/all/154/200",
+        "https://lti.cs.cmu.edu/directory/all/154/2",
+        "https://lti.cs.cmu.edu/directory/all/154/2?page=1",
+        "https://lti.cs.cmu.edu/directory/all/154/2731",
+        "https://lti.cs.cmu.edu/directory/all/154/2731?page=1",
+        "https://lti.cs.cmu.edu/directory/all/154/2730"
     ]
     parse_data(urls=urls, out_dir="documents/lti_faculty")

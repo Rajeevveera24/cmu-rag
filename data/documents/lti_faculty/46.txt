@@ -1,5 +1,5 @@
-Language Technologies Institute - Affiliated Faculty
-Name: Raj Reddy
-Email: rr0s@andrew.cmu.edu
-Office: 5327 Wean Hall
-Phone: 412-268-2597
+Language Technologies Institute - Adjunct Faculty
+Name: William Cohen
+Email: wcohen@cs.cmu.edu
+Office: 8217 Gates & Hillman Centers
+Phone: 412-268-7664
