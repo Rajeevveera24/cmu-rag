@@ -1,0 +1,5 @@
+25 Great Things About SCS
+What’s so great about computer science at Carnegie Mellon?
+We're glad you asked! Here are 25 great ideas from CMU computer scientists to think about as we celebrate the birthday of the School of Computer Science.
+5. Emoticons, 1982
+Sure, it was just a joke, but (for better or worse) it’s endured for more than three decades. CMU researcher Scott Fahlman created the emoticon to clear up misunderstandings on computer message boards. We’ve been looking at the world sideways ever since. :-)

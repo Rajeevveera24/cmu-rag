@@ -1,0 +1,5 @@
+25 Great Things About SCS
+What’s so great about computer science at Carnegie Mellon?
+We're glad you asked! Here are 25 great ideas from CMU computer scientists to think about as we celebrate the birthday of the School of Computer Science.
+8. User interfaces, 1983
+Why should humans adapt to fit computers? Shouldn’t computers adapt to fit humans? That was the attitude of CMU researchers, who applied design principles to computer science to develop better, easier-to-use interfaces. They called the new field “human-computer interaction.”

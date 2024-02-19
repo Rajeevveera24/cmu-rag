@@ -1,0 +1,5 @@
+25 Great Things About SCS
+What’s so great about computer science at Carnegie Mellon?
+We're glad you asked! Here are 25 great ideas from CMU computer scientists to think about as we celebrate the birthday of the School of Computer Science.
+12. Java, 1991
+As a CMU grad student, James Gosling (CS’83) worked on the Andrew project, which stressed interoperability between computers, whether they were Macs, IBMs or Unix machines. Those lessons served Gosling well when he developed Java, the first programming language able to run on almost any platform.

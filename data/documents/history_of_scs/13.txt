@@ -1,0 +1,5 @@
+25 Great Things About SCS
+What’s so great about computer science at Carnegie Mellon?
+We're glad you asked! Here are 25 great ideas from CMU computer scientists to think about as we celebrate the birthday of the School of Computer Science.
+13. Email attachments, 1992
+Steve Jobs liked the email system built into CMU’s Andrew so much that he tried to hire Nathaniel Borenstein (CS’81,’85) and the rest of his team to create a similar program for Apple. Borenstein didn’t take the offer, but he did like Jobs’ idea about attaching documents to email. Borenstein went on to develop the MIME standard that’s used by all email programs to send photos and other files over the Internet.

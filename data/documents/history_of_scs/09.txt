@@ -1,0 +1,5 @@
+25 Great Things About SCS
+What’s so great about computer science at Carnegie Mellon?
+We're glad you asked! Here are 25 great ideas from CMU computer scientists to think about as we celebrate the birthday of the School of Computer Science.
+9. Machine translation, 1984
+Every “Star Trek” fan knows about the universal translator. Scientists in the Language Technologies Institute are moving those gadgets from science fiction to real life. Their pioneering systems include handheld, portable speech-to-speech translators, just like those depicted on the USS Enterprise.

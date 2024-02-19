@@ -47,4 +47,4 @@ if __name__ == "__main__":
         "https://lti.cs.cmu.edu/directory/all/154/2731?page=1",
         "https://lti.cs.cmu.edu/directory/all/154/2730"
     ]
-    parse_data(urls=urls, out_dir="documents/lti_faculty")
+    parse_data(urls=urls, out_dir="../documents/lti_faculty")
