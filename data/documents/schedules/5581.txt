@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Language Technologies Institute
+Course: 11485
+Title: Introduction to Deep Learning:
+Units: 9.0
+Lec/Sec: Lec
+Days:  
+Begin:  
+End:  
+Bldg/Room:  
+Instructor(s): Singh, Ramakrishnan
+Location:  

@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Business Administration
+Course: 45741
+Title: Managing Networks & Organizations:
+Units: 6.0
+Lec/Sec: C4
+Days:  
+Begin:  
+End:  
+Bldg/Room:  
+Instructor(s): Ales
+Location:  

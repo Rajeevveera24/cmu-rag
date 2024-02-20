@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category:  
+Course: 54432
+Title: Scenic Design for Screen Spaces
+Units: 4.5
+Lec/Sec: A4
+Days: W
+Begin: 02:00PM
+End: 04:50PM
+Bldg/Room: PCA 305
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Downs

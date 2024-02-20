@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Business Administration
+Course: 47902
+Title: Structural Models
+Units: 6.0
+Lec/Sec: A4
+Days: TR
+Begin: 10:00AM
+End: 11:50AM
+Bldg/Room: TEP 5219
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Lessem

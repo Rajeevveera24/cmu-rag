@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: English
+Course: 76270
+Title: Writing for the Professions
+Units: 9.0
+Lec/Sec: K
+Days: TR
+Begin: 09:30AM
+End: 10:50AM
+Bldg/Room: WEH 5316
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Wang

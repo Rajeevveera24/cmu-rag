@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Information Systems Program
+Course: 67352
+Title: Electronic Business and Design Thinking
+Units: 9.0
+Lec/Sec: W
+Days: UT
+Begin: 04:00PM
+End: 05:15PM
+Bldg/Room: CMB 3048
+Location: Doha, Qatar
+Instructor(s): Vatanasakdakul

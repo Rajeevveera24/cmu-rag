@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Physical Education
+Course: 69136
+Title: Basketball Skills
+Units: 3.0
+Lec/Sec: A3
+Days: TR
+Begin: 02:00PM
+End: 03:20PM
+Bldg/Room: CUC W GYM
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Gauntner, Yawman

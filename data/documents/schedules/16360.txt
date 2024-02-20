@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Music
+Course: 57257
+Title: Orchestration I
+Units: 6.0
+Lec/Sec: B
+Days: TR
+Begin: 10:00AM
+End: 10:50AM
+Bldg/Room: CFA M160
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Marthaler

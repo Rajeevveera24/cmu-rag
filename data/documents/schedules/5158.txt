@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Information Systems Program
+Course: 67427
+Title: Privacy and Security Capstone
+Units: 9.0
+Lec/Sec: W
+Days: UT
+Begin: 10:00AM
+End: 11:15AM
+Bldg/Room: CMB 1030
+Location: Doha, Qatar
+Instructor(s): Phelps

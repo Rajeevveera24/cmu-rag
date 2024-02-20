@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Information Systems:Sch of IS & Mgt
+Course: 95760
+Title: Decision Making Under Uncertainty
+Units: 6.0
+Lec/Sec: F4
+Days: F
+Begin: 11:00AM
+End: 12:20PM
+Bldg/Room: HBH 1206
+Instructor(s): Choi
+Location: Pittsburgh, Pennsylvania

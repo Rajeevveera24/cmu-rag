@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Information & Communication Technology
+Course: 05997
+Title: Reading and Research in HCI:
+Units: 24-48
+Lec/Sec: A
+Days: F
+Begin: 10:00AM
+End: 11:50AM
+Bldg/Room: CMR F305
+Instructor(s): Kravitz, Kaufman
+Location: Kigali, Rwanda

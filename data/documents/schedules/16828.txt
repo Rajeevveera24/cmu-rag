@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category:  
+Course: 57606
+Title: Music History for Graduate Students 1
+Units: 6.0
+Lec/Sec: A1
+Days: W
+Begin: 09:00AM
+End: 09:50AM
+Bldg/Room: HOA 223
+Instructor(s): Lynch
+Location: Pittsburgh, Pennsylvania

@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Architecture
+Course: 48797
+Title: PhD Dissertation Defense
+Units: 5.0,36
+Lec/Sec: A
+Days: TBA
+Begin: 
+End: 
+Bldg/Room: TBA
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Sawyer

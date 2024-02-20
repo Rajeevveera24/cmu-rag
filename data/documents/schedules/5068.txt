@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Information Systems Program
+Course: 67235
+Title: Puzzles, Games, and Problem Solving
+Units: 3.0
+Lec/Sec: W4
+Days: TBA
+Begin: 
+End: 
+Bldg/Room: TBA
+Location: Doha, Qatar
+Instructor(s): Sooriamurthi

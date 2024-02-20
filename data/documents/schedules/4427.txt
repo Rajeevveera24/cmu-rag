@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: English
+Course: 76704
+Title: Independent Study
+Units: 6.0
+Lec/Sec: A4
+Days: TBA
+Begin: 
+End: 
+Bldg/Room: DNM DNM
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Ishizaki

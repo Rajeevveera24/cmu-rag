@@ -1,0 +1,12 @@
+Semester: Summer Two 2023
+Category: Mathematical Sciences
+Course: 21241
+Title: Matrices and Linear Transformations
+Units: 11.0
+Lec/Sec: U
+Days: MTWRF
+Begin: 11:00AM
+End: 12:20PM
+Bldg/Room: HH B103
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Gheorghiciuc

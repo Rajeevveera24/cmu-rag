@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Statistics and Data Science
+Course: 36202
+Title: Methods for Statistics & Data Science
+Units: 9.0
+Lec/Sec: C
+Days: F
+Begin: 01:00PM
+End: 01:50PM
+Bldg/Room: BH 140A
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Weinberg

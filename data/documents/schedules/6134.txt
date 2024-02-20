@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Mathematical Sciences
+Course: 21820
+Title: Convex Functions
+Units: 12.0
+Lec/Sec: B
+Days: MWF
+Begin: 02:00PM
+End: 02:50PM
+Bldg/Room: WEH 7218
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Leoni

@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Mathematical Sciences
+Course: 21241
+Title: Matrices and Linear Transformations
+Units: 11.0
+Lec/Sec: D
+Days: TR
+Begin: 09:00AM
+End: 09:50AM
+Bldg/Room: WEH 8220
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Zhang

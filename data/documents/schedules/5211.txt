@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Information Systems:Sch of IS & Mgt
+Course: 95719
+Title: Accounting and Finance Analytics
+Units: 6.0
+Lec/Sec: E4
+Days: TR
+Begin: 05:00PM
+End: 06:20PM
+Bldg/Room: HBH 1206
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Gogolak

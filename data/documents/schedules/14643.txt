@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Information Systems Program
+Course: 67415
+Title: Cyber Ethics and Regulation
+Units: 9.0
+Lec/Sec: W
+Days: UT
+Begin: 04:00PM
+End: 05:15PM
+Bldg/Room: CMB 2051
+Location: Doha, Qatar
+Instructor(s): Aoun

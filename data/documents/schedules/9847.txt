@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Architecture
+Course: 48769
+Title: Thesis/Project
+Units: VAR
+Lec/Sec: E
+Days: TBA
+Begin: 
+End: 
+Bldg/Room: DNM DNM
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Varma

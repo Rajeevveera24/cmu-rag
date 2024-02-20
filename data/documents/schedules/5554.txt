@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Integrated Innovation Institute
+Course: 49790
+Title: Software Management Independent Study:
+Units: 3,6,12,24
+Lec/Sec: R4
+Days:  
+Begin:  
+End:  
+Bldg/Room:  
+Instructor(s): Fang
+Location:  

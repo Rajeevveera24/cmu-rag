@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category:  
+Course: 18788
+Title: Big Data Science
+Units: 6.0
+Lec/Sec: A4
+Days: F
+Begin: 08:00AM
+End: 08:50AM
+Bldg/Room: CMU REMOTE
+Instructor(s): McSharry
+Location: Pittsburgh, Pennsylvania

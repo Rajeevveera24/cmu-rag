@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Materials Science & Engineering
+Course: 27100
+Title: Engineering the Materials of the Future
+Units: 12.0
+Lec/Sec: D
+Days: R
+Begin: 03:00PM
+End: 03:50PM
+Bldg/Room: WEH 5421
+Instructor(s): Heard
+Location: Pittsburgh, Pennsylvania

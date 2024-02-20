@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Business Administration
+Course: 45730
+Title: Marketing Management:
+Units: 6.0
+Lec/Sec: O2
+Days:  
+Begin:  
+End:  
+Bldg/Room:  
+Instructor(s): Boatwright
+Location:  

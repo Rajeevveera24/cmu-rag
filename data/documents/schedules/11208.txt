@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category:  
+Course: 15151
+Title: Mathematical Foundations for Computer Science
+Units: 12.0
+Lec/Sec: C
+Days: TR
+Begin: 10:00AM
+End: 10:50AM
+Bldg/Room: BH 235B
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Mackey

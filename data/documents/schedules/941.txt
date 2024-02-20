@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Business Administration
+Course: 70122
+Title: Introduction to Accounting
+Units: 9.0
+Lec/Sec: E
+Days: F
+Begin: 02:00PM
+End: 02:50PM
+Bldg/Room: TEP 3801
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Ytsma

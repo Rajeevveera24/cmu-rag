@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Information Systems Program
+Course: 67443
+Title: Mobile Application Design and Development
+Units: 12.0
+Lec/Sec: W
+Days: MW
+Begin: 10:00AM
+End: 11:15AM
+Bldg/Room: CMB 2062
+Location: Doha, Qatar
+Instructor(s): AAZAM

@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category:  
+Course: 54903
+Title: Scenic
+Units: 6.0
+Lec/Sec: E
+Days: TBA
+Begin: 
+End: 
+Bldg/Room: TBA
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Block, Warren

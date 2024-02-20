@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Architecture
+Course: 48568
+Title: Advanced CAD, BIM, and 3D Visualization
+Units: VAR
+Lec/Sec: A
+Days: TR
+Begin: 09:30AM
+End: 10:50AM
+Bldg/Room: TBA
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Kurland

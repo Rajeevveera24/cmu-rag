@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Human-Computer Interaction
+Course: 05899
+Title: Sustainable Design: Materials, Artifacts and Computational Tools
+Units: 12.0
+Lec/Sec: F
+Days: MW
+Begin: 02:00PM
+End: 03:20PM
+Bldg/Room: 3SC 172
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Yao

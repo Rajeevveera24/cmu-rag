@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category:  
+Course: 04801
+Title: Planning for Digital Transformation
+Units: 6.0
+Lec/Sec: S3
+Days: TR
+Begin: 10:00AM
+End: 11:50AM
+Bldg/Room: CMR F307
+Location: Kigali, Rwanda
+Instructor(s): Biyabani

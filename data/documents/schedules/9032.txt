@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Statistics and Data Science
+Course: 36995
+Title: Reading and Research
+Units: 1-48
+Lec/Sec: M
+Days: TBA
+Begin: 
+End: 
+Bldg/Room: TBA
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Ben-Michael

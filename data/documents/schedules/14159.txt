@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: History
+Course: 79189
+Title: Democracy and History: Thinking Beyond the Self
+Units: 9.0
+Lec/Sec: H
+Days: F
+Begin: 01:00PM
+End: 01:50PM
+Bldg/Room: BH 237B
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Johnson

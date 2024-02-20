@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category:  
+Course: 18989
+Title: Introduction to Graduate Studies
+Units: 1.0
+Lec/Sec: R
+Days: TBA
+Begin: 
+End: 
+Bldg/Room: TBA
+Location: Kigali, Rwanda
+Instructor(s): Bain

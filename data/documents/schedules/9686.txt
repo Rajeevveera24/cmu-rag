@@ -1,0 +1,12 @@
+Semester: Summer Two 2023
+Category: Physics
+Course: 33142
+Title: Physics II for Engineering and Physics Students:
+Units: 12.0
+Lec/Sec: U
+Days:  
+Begin:  
+End:  
+Bldg/Room:  
+Instructor(s): Klein
+Location:  

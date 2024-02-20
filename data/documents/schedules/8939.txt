@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Statistics and Data Science
+Course: 36315
+Title: Statistical Graphics and Visualization
+Units: 9.0
+Lec/Sec: A
+Days: F
+Begin: 03:00PM
+End: 03:50PM
+Bldg/Room: BH 140A
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Yurko

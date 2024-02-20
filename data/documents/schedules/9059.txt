@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: StuCo (Student Led Courses)
+Course: 98040
+Title: Student Taught Courses (StuCo): Sew Sustainable
+Units: 3.0
+Lec/Sec: A
+Days: T
+Begin: 07:00PM
+End: 08:20PM
+Bldg/Room: HL 106C
+Location: Pittsburgh, Pennsylvania
+Instructor(s): D'Arms

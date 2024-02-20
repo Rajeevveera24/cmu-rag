@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Architecture
+Course: 48736
+Title: Master's Independent Study
+Units: 0-99
+Lec/Sec: L
+Days: TBA
+Begin: 
+End: 
+Bldg/Room: TBA
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Byrne

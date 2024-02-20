@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Music
+Course: 57181
+Title: Solfege I
+Units: 3.0
+Lec/Sec: C
+Days: TR
+Begin: 08:00AM
+End: 09:20AM
+Bldg/Room: CFA M157
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Moskal

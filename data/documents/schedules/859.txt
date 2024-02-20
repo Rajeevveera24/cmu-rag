@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Business Administration
+Course: 46945
+Title: Stochastic Calculus for Finance II
+Units: 6.0
+Lec/Sec: I3
+Days: TR
+Begin: 10:00AM
+End: 11:30AM
+Bldg/Room: TCS 250
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Shreve

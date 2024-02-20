@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Heinz College Wide Courses
+Course: 94401
+Title: Acting for Leadership and Communication
+Units: 6.0
+Lec/Sec: C4
+Days: MW
+Begin: 02:00PM
+End: 03:20PM
+Bldg/Room: HBH 2008
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Murphy

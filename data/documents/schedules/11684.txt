@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Drama
+Course: 54151
+Title: Stagecraft:
+Units: VAR
+Lec/Sec: E1
+Days: MTWRF
+Begin: 06:30PM
+End: 10:30PM
+Bldg/Room: TBA
+Instructor(s): Lager
+Location: Pittsburgh, Pennsylvania

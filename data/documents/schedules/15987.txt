@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Modern Languages
+Course: 82137
+Title: Chinese Calligraphy: Culture and Skills
+Units: 9.0
+Lec/Sec: E
+Days: MW
+Begin: 11:00AM
+End: 12:20PM
+Bldg/Room: WEH 5421
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Sun

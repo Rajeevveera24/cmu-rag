@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category:  
+Course: 54639
+Title: Production Prep: SOM 3:
+Units: VAR
+Lec/Sec: D
+Days: W
+Begin: 05:00PM
+End: 06:20PM
+Bldg/Room: TBA
+Instructor(s): Instructor TBA
+Location: Pittsburgh, Pennsylvania

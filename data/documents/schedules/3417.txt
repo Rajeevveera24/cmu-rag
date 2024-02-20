@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category:  
+Course: 54656
+Title: Production Preparation:
+Units: VAR
+Lec/Sec: N
+Days: S
+Begin: 11:00AM
+End: 03:00PM
+Bldg/Room: TBA
+Instructor(s): Brown
+Location: Pittsburgh, Pennsylvania

@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: CFA Interdisciplinary
+Course: 62142
+Title: TBA
+Units: 10.0
+Lec/Sec: B
+Days: TR
+Begin: 02:00PM
+End: 04:50PM
+Bldg/Room: MM B2
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Blum

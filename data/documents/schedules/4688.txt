@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: History
+Course: 79198
+Title: The History of Biostatistics
+Units: 9.0
+Lec/Sec: B
+Days: TBA
+Begin: 
+End: 
+Bldg/Room: TBA
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Phillips

@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Heinz College Wide Courses
+Course: 94413
+Title: Project Management
+Units: 6.0
+Lec/Sec: A1
+Days: TR
+Begin: 11:00AM
+End: 12:20PM
+Bldg/Room: HBH 1006
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Synnott

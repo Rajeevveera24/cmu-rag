@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Art
+Course: 60335
+Title: IDeATe Special Topics in Animation: Story Development
+Units: 6.0
+Lec/Sec: A1
+Days: MW
+Begin: 07:00PM
+End: 08:50PM
+Bldg/Room: CMU REMOTE
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Lim Haas

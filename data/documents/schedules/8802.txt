@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Software & Societal Systems
+Course: 17645
+Title: Machine Learning in Production:
+Units: 12.0
+Lec/Sec: G
+Days: F
+Begin: 11:00AM
+End: 12:20PM
+Bldg/Room: CMU REMOTE
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Kaestner, Le Goues

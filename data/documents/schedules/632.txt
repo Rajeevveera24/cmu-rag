@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Business Administration
+Course: 45820
+Title: Finance II:
+Units: 6.0
+Lec/Sec: A3
+Days:  
+Begin:  
+End:  
+Bldg/Room:  
+Instructor(s): Kuehn
+Location:  

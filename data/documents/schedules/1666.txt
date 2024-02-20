@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category:  
+Course: 15316
+Title: Software Foundations of Security and Privacy
+Units: 9.0
+Lec/Sec: W
+Days: MW
+Begin: 11:30AM
+End: 12:45PM
+Bldg/Room: CMB 1199
+Location: Doha, Qatar
+Instructor(s): Riley

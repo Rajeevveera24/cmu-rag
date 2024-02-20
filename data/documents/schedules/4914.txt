@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Human-Computer Interaction
+Course: 05774
+Title: Design Perspectives in HCI
+Units: 6.0
+Lec/Sec: B3
+Days: TBA
+Begin: 
+End: 
+Bldg/Room: DNM DNM
+Location: Lisbon, Portugal
+Instructor(s): Zimmerman

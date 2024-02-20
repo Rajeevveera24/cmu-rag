@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Architecture
+Course: 48599
+Title: Independent Study
+Units: 3-9
+Lec/Sec: C
+Days: TBA
+Begin: 
+End: 
+Bldg/Room: TBA
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Instructor TBA

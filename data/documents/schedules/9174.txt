@@ -1,0 +1,12 @@
+Semester: Summer One/All 2023
+Category: Carnegie Mellon University-Wide Studies
+Course: 39660
+Title: Masters EST&P Project:
+Units: VAR
+Lec/Sec: W
+Days: UMTWR
+Begin: 09:00AM
+End: 03:00PM
+Bldg/Room: CMB 3025
+Location: Doha, Qatar
+Instructor(s): Younis

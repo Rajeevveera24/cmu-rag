@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Biological Sciences
+Course: 03135
+Title: Structure and Function of the Human Body:
+Units: 9.0
+Lec/Sec: W
+Days:  
+Begin:  
+End:  
+Bldg/Room:  
+Instructor(s): Affara
+Location:  

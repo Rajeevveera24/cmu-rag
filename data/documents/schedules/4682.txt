@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: History
+Course: 79160
+Title: Introduction to the History of Science
+Units: 9.0
+Lec/Sec: D
+Days: F
+Begin: 12:00PM
+End: 12:50PM
+Bldg/Room: DH 1212
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Turetsky

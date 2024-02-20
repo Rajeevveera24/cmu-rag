@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Information Systems:Sch of IS & Mgt
+Course: 95889
+Title: Applied Threat Analysis
+Units: 6.0
+Lec/Sec: A4
+Days: T
+Begin: 06:30PM
+End: 09:20PM
+Bldg/Room: HBH 1004
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Snoke

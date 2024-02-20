@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Statistics and Data Science
+Course: 36235
+Title: Probability and Statistical Inference I
+Units: 9.0
+Lec/Sec: D
+Days: M
+Begin: 07:00PM
+End: 07:50PM
+Bldg/Room: PH 226A
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Freeman

@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: MCS Interdisciplinary
+Course: 38612
+Title: Informational Visualization for Scientists
+Units: 6.0
+Lec/Sec: A3
+Days: TR
+Begin: 11:00AM
+End: 12:20PM
+Bldg/Room: 3SC 110
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Welling

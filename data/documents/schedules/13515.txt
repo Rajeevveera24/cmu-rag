@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category:  
+Course: 18652
+Title: Foundations of Software Engineering
+Units: 12.0
+Lec/Sec: SB
+Days: F
+Begin: 01:00PM
+End: 02:50PM
+Bldg/Room: CMU REMOTE
+Location: San Jose, California
+Instructor(s): Peraire, Wlodarski

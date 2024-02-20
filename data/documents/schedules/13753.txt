@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: English
+Course: 76101
+Title: Interpretation and Argument
+Units: 9.0
+Lec/Sec: K
+Days: TR
+Begin: 08:00AM
+End: 09:20AM
+Bldg/Room: DH 1117
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Gasson

@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Business Administration
+Course: 47877
+Title: Public Economics I
+Units: 6.0
+Lec/Sec: A1
+Days: TR
+Begin: 11:00AM
+End: 12:50PM
+Bldg/Room: TEP 5222
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Shourideh

@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category:  
+Course: 15641
+Title: Networking and the Internet
+Units: 12.0
+Lec/Sec: C
+Days: F
+Begin: 01:00PM
+End: 01:50PM
+Bldg/Room: POS 153
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Sherry

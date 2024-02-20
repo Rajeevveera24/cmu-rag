@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Drama
+Course: 54151
+Title: Rigging (2 units)
+Units: VAR
+Lec/Sec: D2
+Days: MTWR
+Begin: 03:30PM
+End: 04:50PM
+Bldg/Room: TBA
+Location: Pittsburgh, Pennsylvania
+Instructor(s): West

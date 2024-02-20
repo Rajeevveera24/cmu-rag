@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: English
+Course: 76270
+Title: Writing for the Professions
+Units: 9.0
+Lec/Sec: P
+Days: MWF
+Begin: 10:00AM
+End: 10:50AM
+Bldg/Room: HOA 107
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Wright

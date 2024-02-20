@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Modern Languages
+Course: 82171
+Title: Elementary Japanese I
+Units: 12.0
+Lec/Sec: B
+Days: TBA
+Begin: 
+End: 
+Bldg/Room: TBA
+Instructor(s): Zhan
+Location: Pittsburgh, Pennsylvania

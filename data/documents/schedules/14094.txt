@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Heinz College Wide Courses
+Course: 94808
+Title: Management Consulting
+Units: 12.0
+Lec/Sec: B
+Days: T
+Begin: 06:30PM
+End: 09:20PM
+Bldg/Room: HBH 1004
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Brussalis

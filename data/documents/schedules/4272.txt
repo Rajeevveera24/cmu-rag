@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: English
+Course: 76101
+Title: Interpretation and Argument
+Units: 9.0
+Lec/Sec: WW
+Days: UTR
+Begin: 10:00AM
+End: 10:50AM
+Bldg/Room: CMB 2049
+Location: Doha, Qatar
+Instructor(s): Squires

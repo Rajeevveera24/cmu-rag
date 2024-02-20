@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Music
+Course: 57125
+Title: Elective Studio (Violin)
+Units: 3-9
+Lec/Sec: D
+Days: TBA
+Begin: 
+End: 
+Bldg/Room: DNM DNM
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Schneller

@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Human-Computer Interaction
+Course: 05670
+Title: Digital Service Innovation:
+Units: 12.0
+Lec/Sec: E
+Days:  
+Begin:  
+End:  
+Bldg/Room:  
+Instructor(s): Shelly, Beck
+Location:  

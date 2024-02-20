@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Human-Computer Interaction
+Course: 05430
+Title: Programmable User Interfaces
+Units: 15.0
+Lec/Sec: Lec
+Days: MW
+Begin: 07:00PM
+End: 08:20PM
+Bldg/Room: BH A51
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Das

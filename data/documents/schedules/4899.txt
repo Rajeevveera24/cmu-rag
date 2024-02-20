@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Human-Computer Interaction
+Course: 05661
+Title: Advanced Interaction Design
+Units: 12.0
+Lec/Sec: C
+Days: TR
+Begin: 05:00PM
+End: 07:20PM
+Bldg/Room: 4SC 104
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Dusenka, Saffer

@@ -1,0 +1,12 @@
+Semester: Summer Two 2023
+Category: Biological Sciences
+Course: 03232
+Title: Biochemistry I
+Units: 9.0
+Lec/Sec: U
+Days: MTWRF
+Begin: 12:30PM
+End: 01:50PM
+Bldg/Room: WEH 4709
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Rule

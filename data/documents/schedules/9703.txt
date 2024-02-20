@@ -1,0 +1,12 @@
+Semester: Summer Two 2023
+Category: Statistics and Data Science
+Course: 36202
+Title: Methods for Statistics & Data Science
+Units: 9.0
+Lec/Sec: U
+Days: MWF
+Begin: 11:00AM
+End: 12:20PM
+Bldg/Room: BH A36
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Weinberg

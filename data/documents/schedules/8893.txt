@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Software & Societal Systems
+Course: 17996
+Title: Societal Computing Independent Study
+Units: VAR
+Lec/Sec: E
+Days: TBA
+Begin: 
+End: 
+Bldg/Room: DNM DNM
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Agarwal

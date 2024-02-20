@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category:  
+Course: 18469
+Title: Special Topics in Integrated Systems Technology:
+Units: 12.0
+Lec/Sec: A
+Days:  
+Begin:  
+End:  
+Bldg/Room:  
+Instructor(s): Chen, Chi
+Location:  

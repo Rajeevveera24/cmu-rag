@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Public Policy & Mgt:Sch of Pub Pol & Mgt
+Course: 90805
+Title: Issues in Global Urbanization
+Units: VAR
+Lec/Sec: A
+Days: W
+Begin: 07:00PM
+End: 08:20PM
+Bldg/Room: MM 415IW
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Nisa

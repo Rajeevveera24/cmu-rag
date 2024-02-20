@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Information Systems:Sch of IS & Mgt
+Course: 95799
+Title: Linux and Open Source
+Units: 6.0
+Lec/Sec: A1
+Days: R
+Begin: 06:30PM
+End: 09:20PM
+Bldg/Room: HBH 1002
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Moul

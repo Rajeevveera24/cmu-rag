@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Architecture
+Course: 48614
+Title: New Pedagogies:
+Units: 9.0
+Lec/Sec: E
+Days:  
+Begin:  
+End:  
+Bldg/Room:  
+Instructor(s): Lee
+Location:  

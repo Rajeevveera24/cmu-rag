@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Materials Science & Engineering
+Course: 27707
+Title: SPECIAL TOPICS: Advanced X-Ray Scattering Techniques
+Units: 6.0
+Lec/Sec: Lec
+Days: T
+Begin: 11:00AM
+End: 12:20PM
+Bldg/Room: DH 1209
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Sokalski

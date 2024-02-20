@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Business Administration
+Course: 45967
+Title: Healthcare Operations:
+Units: 6.0
+Lec/Sec: A3
+Days:  
+Begin:  
+End:  
+Bldg/Room:  
+Instructor(s): Scheller-Wolf
+Location:  

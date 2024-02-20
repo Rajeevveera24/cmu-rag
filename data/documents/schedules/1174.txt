@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: CIT Interdisciplinary
+Course: 39251
+Title: CIT Undergraduate Projects
+Units: 0-18
+Lec/Sec: A
+Days: TBA
+Begin: 
+End: 
+Bldg/Room: TBA
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Instructor TBA

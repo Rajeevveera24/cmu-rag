@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Heinz College Wide Courses
+Course: 94700
+Title: Organizational Design & Implementation
+Units: 6.0
+Lec/Sec: A3
+Days: MW
+Begin: 09:30AM
+End: 10:50AM
+Bldg/Room: HBH 1206
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Lassman

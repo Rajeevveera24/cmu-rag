@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Business Administration
+Course: 45959
+Title: Business Analytics Capstone:
+Units: 12.0
+Lec/Sec: E4
+Days:  
+Begin:  
+End:  
+Bldg/Room:  
+Instructor(s): Rousseau
+Location:  

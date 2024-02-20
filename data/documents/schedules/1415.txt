@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Civil & Environmental Engineering
+Course: 12352
+Title: Environmental Engineering Lab:
+Units: 3.0
+Lec/Sec: Lec
+Days:  
+Begin:  
+End:  
+Bldg/Room:  
+Instructor(s): Moore
+Location:  

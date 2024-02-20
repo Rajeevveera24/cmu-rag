@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Public Policy & Mgt:Sch of Pub Pol & Mgt
+Course: 90728
+Title: Introduction to Database Management
+Units: 6.0
+Lec/Sec: B3
+Days: TR
+Begin: 05:00PM
+End: 06:20PM
+Bldg/Room: HBH 1206
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Tu

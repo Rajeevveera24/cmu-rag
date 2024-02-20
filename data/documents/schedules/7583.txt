@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category:  
+Course: 57827
+Title: Jazz Instrumental Ensemble
+Units: 3.0
+Lec/Sec: B
+Days: MW
+Begin: 08:00PM
+End: 09:20PM
+Bldg/Room: MM 119
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Snyder

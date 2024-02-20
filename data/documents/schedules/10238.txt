@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Business Administration
+Course: 45749
+Title: Leadership Workshops:
+Units: 0.0
+Lec/Sec: F1
+Days:  
+Begin:  
+End:  
+Bldg/Room:  
+Instructor(s): Hermann
+Location:  

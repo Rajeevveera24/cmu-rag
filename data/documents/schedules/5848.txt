@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Machine Learning
+Course: 10635
+Title: Practicum
+Units: VAR
+Lec/Sec: I
+Days: TBA
+Begin: 
+End: 
+Bldg/Room: DNM DNM
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Shah

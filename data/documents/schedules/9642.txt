@@ -1,0 +1,12 @@
+Semester: Summer Two 2023
+Category:  
+Course: 15122
+Title: Principles of Imperative Computation
+Units: 12.0
+Lec/Sec: V
+Days: MTWRF
+Begin: 09:30AM
+End: 10:50AM
+Bldg/Room: TEP 1403
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Frank, Pierce

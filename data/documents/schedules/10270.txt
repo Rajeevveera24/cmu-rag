@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Business Administration
+Course: 45790
+Title: Management Presentations
+Units: 6.0
+Lec/Sec: L1
+Days: MW
+Begin: 08:00AM
+End: 09:45AM
+Bldg/Room: TEP 2119
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Depretis

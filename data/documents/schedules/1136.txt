@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: CFA Interdisciplinary
+Course: 62408
+Title: Theater Architecture I
+Units: 6.0
+Lec/Sec: A3
+Days: R
+Begin: 11:00AM
+End: 12:50PM
+Bldg/Room: MM 321
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Block, Hayes

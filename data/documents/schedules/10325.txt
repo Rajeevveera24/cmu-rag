@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Business Administration
+Course: 45905
+Title: Funding Early Stage Ventures
+Units: 6.0
+Lec/Sec: E2
+Days: W
+Begin: 06:30PM
+End: 09:50PM
+Bldg/Room: TEP 2112
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Demmler

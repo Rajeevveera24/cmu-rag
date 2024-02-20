@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Architecture
+Course: 48811
+Title: Proposal Preparation
+Units: VAR
+Lec/Sec: V
+Days: TBA
+Begin: 
+End: 
+Bldg/Room: TBA
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Loftness

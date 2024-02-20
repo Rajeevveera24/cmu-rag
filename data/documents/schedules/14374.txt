@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Human-Computer Interaction
+Course: 05660
+Title: Interaction Design Fundamentals:
+Units: 12.0
+Lec/Sec: B
+Days:  
+Begin:  
+End:  
+Bldg/Room:  
+Instructor(s): Vinchesi, Weinstein
+Location:  

@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Biomedical Engineering
+Course: 42996
+Title: Teaching Assistantship
+Units: 36,48
+Lec/Sec: A
+Days: TBA
+Begin: 
+End: 
+Bldg/Room: TBA
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Rakach

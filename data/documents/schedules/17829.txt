@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Physics
+Course: 33142
+Title: Physics II for Engineering and Physics Students:
+Units: 12.0
+Lec/Sec: E
+Days: TR
+Begin: 12:00PM
+End: 12:50PM
+Bldg/Room: WEH 5302
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Alexis

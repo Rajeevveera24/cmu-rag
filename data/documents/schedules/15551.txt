@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Mathematical Sciences
+Course: 21241
+Title: Matrices and Linear Transformations
+Units: 11.0
+Lec/Sec: D
+Days: TR
+Begin: 08:00AM
+End: 08:50AM
+Bldg/Room: GHC 4301
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Yang

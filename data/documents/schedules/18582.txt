@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Statistics and Data Science
+Course: 36749
+Title: Experimental Design for Behavioral and Social Sciences
+Units: 12.0
+Lec/Sec: D
+Days: F
+Begin: 11:00AM
+End: 12:20PM
+Bldg/Room: WEH 5201
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Branson

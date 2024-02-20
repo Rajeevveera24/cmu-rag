@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category:  
+Course: 57598
+Title: Junior Recital
+Units: 1.0
+Lec/Sec: DB
+Days: TBA
+Begin: 
+End: 
+Bldg/Room: DNM DNM
+Location: Pittsburgh, Pennsylvania
+Instructor(s): van der Sloot

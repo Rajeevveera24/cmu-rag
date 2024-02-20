@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category:  
+Course: 54191
+Title: Acting for Non-Majors
+Units: 9.0
+Lec/Sec: B
+Days: MW
+Begin: 05:00PM
+End: 06:20PM
+Bldg/Room: PCA 313
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Pazos

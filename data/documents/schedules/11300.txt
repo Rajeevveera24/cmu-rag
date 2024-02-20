@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category:  
+Course: 15440
+Title: Distributed Systems
+Units: 12.0
+Lec/Sec: Lec 1
+Days: TR
+Begin: 11:00AM
+End: 12:20PM
+Bldg/Room: CUC MCCNMY
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Miller, Zheng

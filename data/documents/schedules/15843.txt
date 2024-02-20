@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Mechanical Engineering
+Course: 24221
+Title: Thermodynamics
+Units: 10.0
+Lec/Sec: C
+Days: W
+Begin: 02:00PM
+End: 02:50PM
+Bldg/Room: GHC 4102
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Singh

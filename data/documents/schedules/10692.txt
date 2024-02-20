@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: CFA Interdisciplinary
+Course: 62247
+Title: TBA
+Units: 3.0
+Lec/Sec: B
+Days: T
+Begin: 09:30AM
+End: 12:30PM
+Bldg/Room: OFF CAMPUS
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Mcgowan

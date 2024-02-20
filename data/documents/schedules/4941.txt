@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Human-Computer Interaction
+Course: 05898
+Title: Special Topics in HCI:
+Units: 6.0
+Lec/Sec: A3
+Days:  
+Begin:  
+End:  
+Bldg/Room:  
+Instructor(s): Kittur
+Location:  

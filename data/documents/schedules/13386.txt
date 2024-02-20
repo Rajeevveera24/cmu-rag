@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Economics
+Course: 73230
+Title: Intermediate Microeconomics
+Units: 9.0
+Lec/Sec: W
+Days: UT
+Begin: 10:00AM
+End: 11:15AM
+Bldg/Room: CMB 3204
+Location: Doha, Qatar
+Instructor(s): Safak

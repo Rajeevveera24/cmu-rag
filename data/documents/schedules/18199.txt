@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Robotics
+Course: 16693
+Title: MRSD Independent Study:
+Units: VAR
+Lec/Sec: A
+Days:  
+Begin:  
+End:  
+Bldg/Room:  
+Instructor(s): Dolan, Apostolopoulos
+Location:  

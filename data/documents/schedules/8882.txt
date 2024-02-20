@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Software & Societal Systems
+Course: 17882
+Title: Software Architectures
+Units: 12.0
+Lec/Sec: Lec
+Days: MW
+Begin: 09:30AM
+End: 10:50AM
+Bldg/Room: 3SC 265
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Garlan, Schmerl

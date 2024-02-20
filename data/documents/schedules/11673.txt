@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Drama
+Course: 54151
+Title: Stagecraft:
+Units: VAR
+Lec/Sec: B2
+Days: S
+Begin: 06:30PM
+End: 10:30PM
+Bldg/Room: TBA
+Instructor(s): Zamborsky
+Location: Pittsburgh, Pennsylvania

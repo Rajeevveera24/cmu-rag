@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: English
+Course: 76101
+Title: Interpretation and Argument
+Units: 9.0
+Lec/Sec: II
+Days: TR
+Begin: 03:30PM
+End: 04:50PM
+Bldg/Room: WEH 6403
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Myers

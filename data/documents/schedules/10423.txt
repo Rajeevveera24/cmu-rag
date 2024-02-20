@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Business Administration
+Course: 46924
+Title: Natural Language Processing
+Units: 6.0
+Lec/Sec: M1
+Days: MW
+Begin: 05:00PM
+End: 06:30PM
+Bldg/Room: BRD 507
+Location: New York, New York
+Instructor(s): Yurko

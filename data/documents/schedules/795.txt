@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Business Administration
+Course: 46873
+Title: Business Presentations For Product Managers:
+Units: 6.0
+Lec/Sec: B3
+Days: TR
+Begin: 02:00PM
+End: 03:50PM
+Bldg/Room: TEP 2119
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Walter

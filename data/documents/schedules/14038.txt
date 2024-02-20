@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Heinz College Wide Courses
+Course: 94433
+Title: Optimization for DAS
+Units: 6.0
+Lec/Sec: E2
+Days: F
+Begin: 08:00AM
+End: 09:20AM
+Bldg/Room: HBH 1007
+Instructor(s): Caulkins
+Location: Pittsburgh, Pennsylvania

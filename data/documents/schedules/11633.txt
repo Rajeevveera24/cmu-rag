@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Drama
+Course: 54101
+Title: Acting I
+Units: 10.0
+Lec/Sec: C
+Days: MWF
+Begin: 09:00AM
+End: 11:20AM
+Bldg/Room: PCA 314
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Rivera Lebron

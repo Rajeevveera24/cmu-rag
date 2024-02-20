@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category:  
+Course: 54621
+Title: Costume Production
+Units: VAR
+Lec/Sec: H
+Days: MWRF
+Begin: 06:30PM
+End: 10:30PM
+Bldg/Room: TBA
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Russman, Hanson

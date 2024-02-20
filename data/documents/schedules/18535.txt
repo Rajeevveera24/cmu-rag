@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Statistics and Data Science
+Course: 36350
+Title: Statistical Computing:
+Units: 9.0
+Lec/Sec: W
+Days:  
+Begin:  
+End:  
+Bldg/Room:  
+Instructor(s): Park
+Location:  

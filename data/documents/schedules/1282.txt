@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Chemical Engineering
+Course: 06612
+Title: Formulation Engineering
+Units: 12.0
+Lec/Sec: C
+Days: M
+Begin: 08:00AM
+End: 09:50AM
+Bldg/Room: DH A100
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Tilton

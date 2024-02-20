@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Music
+Course: 57151
+Title: Counterpoint in Theory and Application
+Units: 6.0
+Lec/Sec: B
+Days: F
+Begin: 10:00AM
+End: 10:50AM
+Bldg/Room: HOA 223
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Marthaler

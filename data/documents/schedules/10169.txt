@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Biomedical Engineering
+Course: 42783
+Title: Neural Engineering Laboratory:
+Units: 12.0
+Lec/Sec: Lec
+Days:  
+Begin:  
+End:  
+Bldg/Room:  
+Instructor(s): Smith, Weber
+Location:  

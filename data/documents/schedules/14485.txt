@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Information & Communication Technology
+Course: 04990
+Title: Engineering Research Project
+Units: VAR
+Lec/Sec: D
+Days: TBA
+Begin: 
+End: 
+Bldg/Room: DNM DNM
+Location: Kigali, Rwanda
+Instructor(s): Ndibwile

@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Heinz College Wide Courses
+Course: 94431
+Title: Applied Econometrics for DAS
+Units: 6.0
+Lec/Sec: A1
+Days: F
+Begin: 02:00PM
+End: 03:20PM
+Bldg/Room: HBH 1206
+Instructor(s): Severnini
+Location: Pittsburgh, Pennsylvania

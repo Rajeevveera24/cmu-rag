@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Integrated Innovation Institute
+Course: 49769
+Title: Special Topics: Principles of Enterprise Flexibility
+Units: 6.0
+Lec/Sec: R4
+Days: MW
+Begin: 03:30PM
+End: 04:50PM
+Bldg/Room: TBA
+Location: San Jose, California
+Instructor(s): Evans

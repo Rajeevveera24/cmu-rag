@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category:  
+Course: 54327
+Title: Auditioning for TV/Film
+Units: 2.0
+Lec/Sec: B
+Days: R
+Begin: 09:00AM
+End: 10:20AM
+Bldg/Room: PCA 321
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Smith

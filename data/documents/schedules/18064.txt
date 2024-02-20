@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Public Policy & Mgt:Sch of Pub Pol & Mgt
+Course: 90719
+Title: Physical Technical Systems I
+Units: 12.0
+Lec/Sec: A
+Days: TR
+Begin: 03:30PM
+End: 05:20PM
+Bldg/Room: BH 235B
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Matthews, Miller

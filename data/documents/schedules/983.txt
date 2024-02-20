@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Business Administration
+Course: 70334
+Title: Ethics of Emerging Technologies:
+Units: 9.0
+Lec/Sec: W
+Days:  
+Begin:  
+End:  
+Bldg/Room:  
+Instructor(s): Dimitriu
+Location:  

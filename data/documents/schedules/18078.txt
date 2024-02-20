@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Public Policy & Mgt:Sch of Pub Pol & Mgt
+Course: 90777
+Title: Intermediate Statistics
+Units: 6.0
+Lec/Sec: A1
+Days: MW
+Begin: 09:30AM
+End: 10:50AM
+Bldg/Room: HBH 1202
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Ben-Michael

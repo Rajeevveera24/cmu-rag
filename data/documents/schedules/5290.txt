@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Information Systems:Sch of IS & Mgt
+Course: 95760
+Title: Decision Making Under Uncertainty
+Units: 6.0
+Lec/Sec: B3
+Days: TRF
+Begin: 02:00PM
+End: 03:20PM
+Bldg/Room: HBH 1204
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Zhang

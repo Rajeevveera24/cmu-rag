@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category:  
+Course: 54234
+Title: Acting For Directors II
+Units: 12.0
+Lec/Sec: C
+Days: F
+Begin: 01:30PM
+End: 03:50PM
+Bldg/Room: PCA 314
+Instructor(s): Walker-Rhoze
+Location: Pittsburgh, Pennsylvania

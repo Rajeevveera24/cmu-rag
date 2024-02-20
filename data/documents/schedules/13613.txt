@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category:  
+Course: 18865
+Title: Photovoltaic Systems Engineering:
+Units: 6.0
+Lec/Sec: RW
+Days:  
+Begin:  
+End:  
+Bldg/Room:  
+Instructor(s): Rawn
+Location:  

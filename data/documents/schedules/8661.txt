@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: SCS Interdisciplinary
+Course: 07690
+Title: Independent Study in CS Education (Masters)
+Units: VAR
+Lec/Sec: A
+Days: TBA
+Begin: 
+End: 
+Bldg/Room: DNM DNM
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Garrod, Cortina

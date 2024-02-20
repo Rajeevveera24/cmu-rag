@@ -1,0 +1,12 @@
+Semester: Summer One/All 2023
+Category: English
+Course: 19798
+Title: Reading and Research: Thesis Research
+Units: 5,18,36
+Lec/Sec: T
+Days: MWF
+Begin: 12:30PM
+End: 02:50PM
+Bldg/Room: CMU REMOTE
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Heise

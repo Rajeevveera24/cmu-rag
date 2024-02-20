@@ -1,0 +1,12 @@
+Semester: Summer One/All 2023
+Category: Software & Societal Systems
+Course: 17802
+Title: Societal Computing Pre-Thesis:
+Units: 6.0
+Lec/Sec: L
+Days:  
+Begin:  
+End:  
+Bldg/Room:  
+Instructor(s): Fang
+Location:  

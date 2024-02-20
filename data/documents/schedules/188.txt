@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Architecture
+Course: 48791
+Title: M.S. Project
+Units: 0-99
+Lec/Sec: A
+Days: TBA
+Begin: 
+End: 
+Bldg/Room: TBA
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Instructor TBA

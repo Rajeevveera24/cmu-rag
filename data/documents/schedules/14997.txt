@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Integrated Innovation Institute
+Course: 49743
+Title: iii Business Core
+Units: 6.0
+Lec/Sec: B
+Days: T
+Begin: 02:00PM
+End: 03:20PM
+Bldg/Room: CA 108
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Lamont

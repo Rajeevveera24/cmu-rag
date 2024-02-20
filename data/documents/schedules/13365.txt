@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Economics
+Course: 73102
+Title: Principles of Microeconomics
+Units: 9.0
+Lec/Sec: I
+Days: F
+Begin: 01:00PM
+End: 01:50PM
+Bldg/Room: TEP 5219
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Portnykh

@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Integrated Innovation Institute
+Course: 49780
+Title: Human Computer Interaction & User Experience:
+Units: 6.0
+Lec/Sec: R3
+Days:  
+Begin:  
+End:  
+Bldg/Room:  
+Instructor(s): Dai
+Location:  

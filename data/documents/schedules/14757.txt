@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Information Systems:Sch of IS & Mgt
+Course: 95733
+Title: Internet of Things
+Units: 6.0
+Lec/Sec: A1
+Days: TR
+Begin: 05:00PM
+End: 06:20PM
+Bldg/Room: HBH 1005
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Mccarthy

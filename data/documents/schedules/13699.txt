@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Engineering & Public Policy
+Course: 19706
+Title: Microeconomics Analysis
+Units: 6.0
+Lec/Sec: A1
+Days: TR
+Begin: 02:00PM
+End: 03:20PM
+Bldg/Room: BH 235B
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Muller

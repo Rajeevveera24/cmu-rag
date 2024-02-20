@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Computer Science
+Course: 15110
+Title: Principles of Computing
+Units: 10.0
+Lec/Sec: K
+Days: R
+Begin: 01:00PM
+End: 01:50PM
+Bldg/Room: GHC 5210
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Xhakaj

@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Electrical & Computer Engineering
+Course: 18202
+Title: Mathematical Foundations of Electrical Engineering
+Units: 12.0
+Lec/Sec: Lec
+Days: MW
+Begin: 02:00PM
+End: 03:50PM
+Bldg/Room: POS A35
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Joe-Wong, Bhagavatula

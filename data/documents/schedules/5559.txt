@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Integrated Innovation Institute
+Course: 49796
+Title: Software Management Independent Study - Mini
+Units: VAR
+Lec/Sec: A4
+Days: TBA
+Begin: 
+End: 
+Bldg/Room: DNM DNM
+Location: San Jose, California
+Instructor(s): Mercier

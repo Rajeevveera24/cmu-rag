@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Design
+Course: 51914
+Title: Framing Proposals for Change
+Units: 9.0
+Lec/Sec: A4
+Days: W
+Begin: 05:00PM
+End: 06:50PM
+Bldg/Room: MM 215
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Chapman

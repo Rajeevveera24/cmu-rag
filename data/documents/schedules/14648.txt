@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Information Systems Program
+Course: 67443
+Title: Mobile Application Design and Development:
+Units: 12.0
+Lec/Sec: Lec 2
+Days:  
+Begin:  
+End:  
+Bldg/Room:  
+Instructor(s): Heimann
+Location:  

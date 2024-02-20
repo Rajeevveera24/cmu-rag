@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Architecture
+Course: 48314
+Title: New Pedagogies:
+Units: 9.0
+Lec/Sec: D
+Days:  
+Begin:  
+End:  
+Bldg/Room:  
+Instructor(s): King
+Location:  

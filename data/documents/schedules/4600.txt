@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Heinz College Wide Courses
+Course: 94739
+Title: Capstone Project
+Units: VAR
+Lec/Sec: E
+Days: TBA
+Begin: 
+End: 
+Bldg/Room: DNM DNM
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Instructor TBA

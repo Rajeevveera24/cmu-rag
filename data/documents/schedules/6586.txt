@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Music
+Course: 57016
+Title: Viola Studio Performance Class
+Units: 0.0
+Lec/Sec: A
+Days: T
+Begin: 07:00PM
+End: 08:50PM
+Bldg/Room: HOA 226
+Instructor(s): Harding
+Location: Pittsburgh, Pennsylvania

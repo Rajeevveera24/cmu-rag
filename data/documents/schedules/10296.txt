@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Business Administration
+Course: 45850
+Title: Applications of Operations Research:
+Units: 6.0
+Lec/Sec: O1
+Days:  
+Begin:  
+End:  
+Bldg/Room:  
+Instructor(s): Weingart
+Location:  

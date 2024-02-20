@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Information Systems:Sch of IS & Mgt
+Course: 95749
+Title: Cryptography
+Units: 6.0
+Lec/Sec: A4
+Days: MW
+Begin: 05:00PM
+End: 06:20PM
+Bldg/Room: HBH 1204
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Beveridge

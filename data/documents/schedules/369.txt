@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Biological Sciences
+Course: 03119
+Title: Biology for Life Special Topics Micro:
+Units: 3.0
+Lec/Sec: W4
+Days:  
+Begin:  
+End:  
+Bldg/Room:  
+Instructor(s): Rule
+Location:  

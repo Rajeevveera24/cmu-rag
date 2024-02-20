@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category:  
+Course: 54442
+Title: Costume Design for the Classics
+Units: 5.0
+Lec/Sec: A1
+Days: MW
+Begin: 02:00PM
+End: 03:20PM
+Bldg/Room: PCA 305
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Tsu

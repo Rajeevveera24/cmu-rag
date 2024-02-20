@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Mathematical Sciences
+Course: 21256
+Title: Multivariate Analysis
+Units: 9.0
+Lec/Sec: B
+Days: R
+Begin: 10:00AM
+End: 10:50AM
+Bldg/Room: BH 237B
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Robinson

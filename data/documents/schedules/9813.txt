@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Architecture
+Course: 48718
+Title: Urban Design Studio III
+Units: 18.0
+Lec/Sec: A
+Days: TR
+Begin: 01:00PM
+End: 04:50PM
+Bldg/Room: MM 312
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Gruber

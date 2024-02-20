@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category:  
+Course: 09611
+Title: Chemical Thermodynamics
+Units: 6.0
+Lec/Sec: A2
+Days: TR
+Begin: 03:30PM
+End: 04:50PM
+Bldg/Room: MI 448
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Kim

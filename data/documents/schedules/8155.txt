@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Physical Education
+Course: 69144
+Title: Diamond Sports:
+Units: 3.0
+Lec/Sec: A3
+Days:  
+Begin:  
+End:  
+Bldg/Room:  
+Instructor(s): Struble
+Location:  

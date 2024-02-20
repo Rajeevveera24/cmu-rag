@@ -1,0 +1,12 @@
+Semester: Summer One/All 2023
+Category: Electrical & Computer Engineering
+Course: 18613
+Title: Foundations of Computer Systems
+Units: 12.0
+Lec/Sec: SV
+Days: TWR
+Begin: 06:30AM
+End: 07:50AM
+Bldg/Room: CMU REMOTE
+Location: San Jose, California
+Instructor(s): Kesden

@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category:  
+Course: 54626
+Title: Production Prep: Lear:
+Units: VAR
+Lec/Sec: D
+Days: S
+Begin: 11:00AM
+End: 03:00PM
+Bldg/Room: TBA
+Instructor(s): Wei
+Location: Pittsburgh, Pennsylvania

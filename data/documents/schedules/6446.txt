@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Modern Languages
+Course: 82198
+Title: The Language of Pain
+Units: 3,6,9,12
+Lec/Sec: B
+Days: TBA
+Begin: 
+End: 
+Bldg/Room: TBA
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Wiener

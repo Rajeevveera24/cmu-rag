@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Computer Science
+Course: 15104
+Title: Introduction to Computing for Creative Practice:
+Units: 10.0
+Lec/Sec: B
+Days: T
+Begin: 09:30AM
+End: 10:50AM
+Bldg/Room: GHC 5210
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Cortina

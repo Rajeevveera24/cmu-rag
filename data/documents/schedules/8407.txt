@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Public Management:Sch of Pub Pol & Mgt
+Course: 91729
+Title: Business Analytics for Managers
+Units: 6.0
+Lec/Sec: A4
+Days: R
+Begin: 06:30PM
+End: 09:20PM
+Bldg/Room: HBH 1005
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Vadlamudi
