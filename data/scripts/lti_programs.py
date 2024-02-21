@@ -95,7 +95,7 @@ def parse_programs(out_dir):
     program_type = soup.find_all("h2", class_="section_header")[2].text
 
     document_counter = parse_section(
-        div_id="qt-undergraduate_minor_in_language_-ui-tabs1", 
+        div_id="quicktabs-undergraduate_minor_in_language_", 
         header=header, 
         pitch=pitch, 
         headers = ["Overview", "Requirements", "Curriculum", "Admission", "Additional Info"],
