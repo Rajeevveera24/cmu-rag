@@ -13,80 +13,55 @@ After completing the majority of their academic requirements, students return to
 Requirements: Students participating in the dual-degree program will spend their first year in Portugal, followed by two years in Pittsburgh to complete their coursework. They will complete a maximum of eight courses with a proper balance of focus areas (linguistics, computer science, statistical/learning and task orientation). After that, they will return to Portugal for their last two years, pursuing research and completing their dissertation. For more, see the Carnegie Mellon | Portugal page.
 Curriculum: While in the dual Ph.D. program, your schedule may look like this.
 
- 
 
 
-Fall
+Year 1 (In Portugal) Fall:
+- Classes and Directed Study
+
+Year 1 (In Portugal) Spring:
+- Classes and Directed Study
+
+Year 1 (In Portugal) Summer:
+- Required Research
 
 
-Spring
+Year 2 (In Pittsburgh) Fall:
+- Grammar and Lexicon
+- Structured Prediction
+- Directed Study
 
+Year 2 (In Pittsburgh) Spring:
+- Language and Statistics
+- 2 Self-Paced Labs
+- Directed Study
 
-Summer
+Year 2(In Pittsburgh) Summer:
+- Required Research
 
+Year 3 (In Pittsburgh) Spring:
+- Directed Research
 
-Year 1(In Portugal)
+Year 3 (In Pittsburgh) Summer:
+- Directed Research
 
+Year 4 (In Pittsburgh) Fall:
+- Directed Research
 
-Classes and Directed Study
+Year 4 (In Pittsburgh) Spring:
+- Directed Research
 
+Year 4 (In Pittsburgh) Summer:
+- Directed Research
 
-Classes and Directed Study
+Year 5 (In Pittsburgh) Fall:
+- Directed Research
 
+Year 5 (In Pittsburgh) Spring:
+- Directed Research
 
-Required Research
+Year 5(In Pittsburgh) Summer:
+- Directed Research 
 
-
-Year 2(In Pittsburgh)
-
-
-Grammar and Lexicon
-Structured Prediction
-Directed Study
-
-
-Language and Statistics
-2 Self-Paced Labs
-Directed Study
-
-
-Required Research
-
-
-Year 3(In Pittsburgh)
-
-
-Directed Research
-
-
-Directed Research
-
-
-Directed Research
-
-
-Year 4 (In Portugal)
-
-
-Directed Research
-
-
-Directed Research
-
-
-Directed Research
-
-
-Year 5(In Portugal)
-
-
-Directed Research
-
-
-Directed Research
-
-
-Directed Research
 Admission: Students applying to the dual degree program must apply through Carnegie Mellon's online application. In addition to the requirements listed below, prospective students must also contact Stacey Young when applying.
 Carnegie Mellon's School of Computer Science has a centralized online application process. Applications and all supporting documentation for fall admission to any of the LTI's graduate programs must be received by the application deadline. Incomplete applications will not be considered. The application period for Fall 2024 will open on September 6, 2023.
 Final Application Deadline

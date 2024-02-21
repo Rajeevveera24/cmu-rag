@@ -14,139 +14,76 @@ MCDS students must also pass the undergraduate course 15-513 Introduction to Com
 Click here to see the MCDS Course Map.
 Some example courses of study are included below.
 Example 1: Analytics Major, 16 Months
- 
 
-Fall
+Year 1 Fall:
+- Data Science Seminar
+- Machine Learning
+- Machine Learning for Text Mining
+- Advanced Machine Learning
+- Design and Engineering of Intelligent Information Systems
+- Big Data Analytics
 
+Year 1 Spring:
+- Data Science Seminar
+- Capstone Planning Seminar
+- Machine Learning with Big Data Sets
+- Cloud Computing
+- Information Systems Project
+- Search Engines
+- Multimedia Databases and Data Mining
+- Large Scale Multimedia Analysis
 
-Spring
+Year 1 Summer:
+- Summer Internship
 
-
-Summer
-
-
-Year 1
-
-
-Data Science Seminar
-Machine Learning
-Machine Learning for Text Mining
-Advanced Machine Learning
-Design and Engineering of Intelligent Information Systems
-Big Data Analytics
-
-Data Science Seminar
-Capstone Planning Seminar
-Machine Learning with Big Data Sets
-Cloud Computing
-Information Systems Project
-Search Engines
-Multimedia Databases and Data Mining
-Large Scale Multimedia Analysis
-
-Summer Internship
-
-Year 2
-
-Data Science Analytics Capstone
+Year 2:
+- Data Science Analytics Capstone
 
 
- 
-
-
- 
-
- 
 Example 2: Systems Major, 16 Months
  
+Year 1 Fall:
+- Computational Data Science Seminar
+- Advanced Storage Systems
+- Cloud Computing
+- istributed Systems
+- Machine Learning
 
-Fall
+Year 1 Spring:
+- Computational Data Science Seminar
+- Parallel Computer Architecture and Programming
+- Advanced Databases
+- Search Engines
 
+Year 1 Summer:
+- Summer Internship
 
-Spring
-
-
-Summer
-
-
- Year 1
-
-
-Computational Data Science Seminar
-Advanced Storage Systems
-Cloud Computing
-Distributed Systems
-Machine Learning
-
-
-Computational Data Science Seminar
-Parallel Computer Architecture and Programming
-Advanced Databases
-Search Engines
-
-
-Summer Internship
-
-
- Year 2
-
-
-Computational Data Science Systems Capstone
-
-
- 
-
-
- 
-
- 
-
-Operating Systems or Web Applications
+Year 2:
+- Computational Data Science Systems Capstone
+- Operating Systems or Web Applications
 
  
  
 Example 3: Human-Centered Data Science Major, 16 Months
 Example Schedule
 
-Fall
+Empirical Analysis of Interactive Systems: 
+- Fall: ML, Econometrics, Social Web, Network Science, Business Analytics
+- Spring: Interactive Data Science, Psych Found for Design Impact, Econometrics, DHCS
 
 
-Spring
+Social Web Analytics & Design:
+- Fall: ML, ARM, Social Web, Network Science
+- Spring: Crowd Programming, Data Pipeline, ML for Text Analytics, DHCS
 
+Ubiquitous Computing:
+- Fall: DHCS, ML, ARM
+- Spring: Interactive Data Science, Rapid Prototyping, Gadgets, Usable Priv & Security, Advanced ML
 
-Empirical Analysis of Interactive Systems
+Educational Software Design:
+- Fall: DHCS, ML, ARM, Learning Analytics and EDS
+- Spring: Learning with Peers, Psych Found for Design Impact, ML with Big Data, ML with Text Analysis
 
-
-MLEconometricsSocial WebNetwork ScienceBusiness Analytics
-
-
-Interactive Data SciencePsych Found for Design ImpactEconometricsDHCS
-
-
- Social Web Analytics & Design
-
-
-MLARMSocial WebNetwork Science
-
-
-Crowd ProgrammingData PipelineML for Text AnalyticsDHCS
-
-
-Ubiquitous Computing
-
-
-DHCSMLARM
-
-
-Interactive Data ScienceRapid PrototypingGadgetsUsable Priv & SecurityAdvanced ML
-
-
-Educational Software Design
-
-
-DHCSMLARMLearning Analytics and EDS
-
-Learning with PeersPsych Found for Design ImpactML with Big DataML with Text Analysis
 Admission: Carnegie Mellon's School of Computer Science has a centralized online application process. Applications and all supporting documentation for fall admission to any of the LTI's graduate programs must be received by the application deadline. Incomplete applications will not be considered. The application period for Fall 2024 will open on September 6, 2023.
 *Please note, we no longer require mailed, hard versions of transcripts or test scores at the time of application. Do not mail anything to the admissions office. If you are accepted to a program, you will be given instruction to then mail your materials.
 Final Application Deadline

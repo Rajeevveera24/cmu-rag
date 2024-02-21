@@ -23,190 +23,155 @@ Here are some example schedules for completing the MIIS-16 program.
 Example Course of Study #1
 This schedule would satisfy course requirements for a student interested in text mining, text analytics and question-answering systems.
 
-Fall 1
+Fall 1:
+- Machine Learning
+- Search Engines
+- Design and Engineering of Intelligent Systems\ Directed Study
 
+Spring:
+- Language and Statistics
+- Natural Language Processing
+- Question Answering
+- Directed Study
+- MIIS Capstone Planning Seminar
 
-Spring
+Summer:
+- Internship
 
-
-Summer
-
-
-Fall 2
-
-
-Machine Learning
-Search Engines
-Design and Engineering of Intelligent Systems\ Directed Study
-
-
-Language and Statistics
-Natural Language Processing
-Question Answering
-Directed Study
-MIIS Capstone Planning Seminar
-
-
-Internship
-
-
-Machine Learning for Text Mining
-MIIS Capstone Project
+Fall 2:
+- Machine Learning for Text Mining
+- MIIS Capstone Project
 
  
 Example Course of Study #2
 This schedule would satisfy course requirements for a student interested in voice-based computer applications.
 
-Fall 1
+Fall 1:
+- Machine Learning
+- Algorithms for NLP
+- Speech Recognition and Understanding
+- Directed Study
 
+Spring:
+- Applied Machine Learning
+- Competitive Engineering
+- Design and Implementation of Speech Recognition Systems
+- Directed Study
+- MIIS Capstone Planning Seminar
 
-Spring
+Summer:
+- Internship
 
-
-Summer
-
-
-Fall 2
-
-
-Machine Learning
-Algorithms for NLP
-Speech Recognition and Understanding
-Directed Study
-
-
-Applied Machine Learning
-Competitive Engineering
-Design and Implementation of Speech Recognition Systems
-Directed Study
-MIIS Capstone Planning Seminar
-
-
-Internship
-
-
-Conversational Interfaces
-MIIS Capstone Project
+Fall 2:
+- Conversational Interfaces
+- MIIS Capstone Project
 
  
 Example Course of Study #3
 This example would satisfy course requirements for a student interested in text mining, text analytics and question-answering systems who has petitioned to have the summer internship waived.
 
-Fall 1
+Fall 1:
+- Search Engines
+- Analysis of Social Media
+- Design and Engineering of Intelligent Systems
+- Directed Study
 
+Spring:
+- Machine Learning
+- Natural Language Processing
+- Question Answering
+- Directed Study
+- MIIS Capstone Planning Seminar
 
-Spring
-
-
-Summer
-
-
-Search Engines
-Analysis of Social Media
-Design and Engineering of Intelligent Systems
-Directed Study
-
-
-Machine Learning
-Natural Language Processing
-Question Answering
-Directed Study
-MIIS Capstone Planning Seminar
-
-
-Academic Research Practices and Scientific Communities
-MIIS Capstone Project
+Summer:
+- Academic Research Practices and Scientific Communities
+- MIIS Capstone Project
 
  
 Here are some example schedules for completing the MIIS-21 program.
 Example Course of Study #1
 This schedule would satisfy course requirements for a student interested in deepening their expertise in Machine Learning area of concentration.
-Fall 1
-Spring 1
-Summer
-Fall 2
-Spring 2
 
-Search Engines
-Algorithms for NLP
-Intro to ML (MLD)
-MIIS Directed Study
+Fall 1:
+- Search Engines
+- Algorithms for NLP
+- Intro to ML (MLD)
+- MIIS Directed Study
 
+Spring 1:
+- Question Answering
+- Intro to Deep Learning
+- MIIS Capstone Planning Seminar
+- MIIS Directed Study
 
-Question Answering
-Intro to Deep Learning
-MIIS Capstone Planning Seminar
-MIIS Directed Study
+Summer:
+- Internship
 
-Internship
+Fall 2:
+- MIIS Capstone Project
+- Applied ML
 
-MIIS Capstone Project
-Applied ML
-
-
-ML for Text Mining
-ML for Signal Processing
-Elective
+Spring 2:
+- ML for Text Mining
+- ML for Signal Processing
+- Elective
 
  
 Example Course of Study #2
 This schedule would satisfy course requirements for a student interested in deepening their expertise in Language Technology Applications area of concentration.
-Fall 1
-Spring 1
-Summer
-Fall 2
-Spring 2
 
-Search Engines
-Algorithms for NLP
-Intro to ML (MLD)
-MIIS Directed Study
+Fall 1:
+- Search Engines
+- Algorithms for NLP
+- Intro to ML (MLD)
+- MIIS Directed Study
 
+Spring 1:
+- Question Answering
+- Intro to Deep Learning
+- MIIS Capstone Planning Seminar
+- MIIS Directed Study
 
-Question Answering
-Intro to Deep Learning
-MIIS Capstone Planning Seminar
-MIIS Directed Study
+Summer:
+- Internship
 
-Internship
+Fall 2:
+- MIIS Capstone Project
+- Machine Translation
 
-MIIS Capstone Project
-Machine Translation
-
-
-Comp Semantics for NLP
-Neural Networks for NLP
-Elective
+Spring 2:
+- Comp Semantics for NLP
+- Neural Networks for NLP
+- Elective
 
  
 Example Course of Study #3
 This example would satisfy course requirements for a student interested in deepening their expertise in Human Language area of concentration
-Fall 1
-Spring 1
-Summer
-Fall 2
-Spring 2
 
-Natural Language Processing
-Algorithms for NLP
-Intro to ML (MLD)
-MIIS Directed Study
+Fall 1:
+- Natural Language Processing
+- Algorithms for NLP
+- Intro to ML (MLD)
+- MIIS Directed Study
 
+Spring 1:
+- Question Answering
+- Intro to Deep Learning
+- MIIS Capstone Planning Seminar
+- MIIS Directed Study
 
-Question Answering
-Intro to Deep Learning
-MIIS Capstone Planning Seminar
-MIIS Directed Study
+Summer:
+- Internship
 
-Internship
+Fall 2:
+- MIIS Capstone Project
+- Language and Statistics
 
-MIIS Capstone Project
-Language and Statistics
+Spring 2:
+- Comp Semantics for NLP
+- ML for Signal Processing
+- Elective
 
-
-Comp Semantics for NLP
-ML for Signal Processing
-Elective
 Admission: Carnegie Mellon's School of Computer Science has a centralized online application process. Applications and all supporting documentation for fall admission to any of the LTI's graduate programs must be received by the application deadline. Incomplete applications will not be considered. The application period for Fall 2024 will open on September 6, 2023.
 *Please note, we no longer require mailed, hard versions of transcripts or test scores at the time of application. Do not mail anything to the admissions office. If you are accepted to a program, you will be given instruction to then mail your materials.
 Final Application Deadline

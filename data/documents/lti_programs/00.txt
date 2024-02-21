@@ -16,85 +16,60 @@ At least 24 units of SCS courses.
 At least two lab courses in two different research areas.
 Here's a sample of what your five-year schedule might look like.
 
- 
+Year 1 Fall:
+- Grammars and Lexicons
+- Algorithms for NLP
+- Directed Study
 
+Year 1 Spring:
+- Search Engines or Machine Learning for Text Mining
+- Machine Translation
+- Directed Study
 
-Fall
+Year 1 Summer:
+- Required Research
 
+Year 2 Fall:
+- Software Engineering for LT (I)
+- Speech Understanding
+- Self-Paced Lab
+- Directed Study
 
-Spring
+Year 2 Spring:
+- Software Engineering for LT (II)
+- Self-Paced Lab
+- Directed Study
 
+Year 2 Summer:
+- Required Research
 
-Summer
+Year 3 Fall:
+- Directed Research
 
+Year 3 Spring:
+- Directed Research
 
-Year 1
+Year 3 Summer:
+- Directed Research
 
+Year 4 Fall:
+- Directed Research
 
-Grammars and Lexicons
-Algorithms for NLP
-Directed Study
+Year 4 Spring:
+- Directed Research
 
+Year 4 Summer:
+- Directed Research
 
-Search Engines or Machine Learning for Text Mining
-Machine Translation
-Directed Study
+Year 5 Fall:
+- Directed Research
 
+Year 5 Spring:
+- Directed Research
 
-Required Research
+Year 5 Summer:
+- Directed Research
 
-
-Year 2
-
-
-Software Engineering for LT (I)
-Speech Understanding
-Self-Paced Lab
-Directed Study
-
-
-Software Engineering for LT (II)
-Self-Paced Lab
-Directed Study
-
-
-Required Research
-
-
-Year 3
-
-
-Directed Research
-
-
-Directed Research
-
-
-Directed Research
-
-
-Year 4
-
-
-Directed Research
-
-
-Directed Research
-
-
-Directed Research
-
-
-Year 5
-
-
-Directed Research
-
-
-Directed Research
-
-
-Directed Research
 Admission: Carnegie Mellon's School of Computer Science has a centralized online application process. Applications and all supporting documentation for fall admission to any of the LTI's graduate programs must be received by the application deadline. Incomplete applications will not be considered. The application period for Fall 2024 will open on September 6, 2023.
 Final Application Deadline
 December 13, 2023 at 3 p.m. EST.

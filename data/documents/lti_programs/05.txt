@@ -7,38 +7,27 @@ Requirements: Incoming students generally hold undergraduate degrees in computer
 For full requirements and program details, read the MSAII Handbook.
 Curriculum: The MSAII degree generally takes four semesters. Here's an example of how your coursework might break down:
 
-Semester One
-
+Semester One:
+- Artificial Intelligence and Future Markets
+- Law of Computer Technology
+- Coding Bootcamp
+- Machine Learning
 
 Semester Two
-
+- AI Engineering
+- Machine Learning with Large Datasets
+- Cloud Computing*
+- Software Engineering for Startups*
 
 Semester Three
-
+- AI Innovation
+- Natural Language Processing
+- Applied Machine Learning
+- Web Application Development*
 
 Semester Four
-
-
-Artificial Intelligence and Future Markets
-Law of Computer Technology
-Coding Bootcamp
-Machine Learning
-
-
-AI Engineering
-Machine Learning with Large Datasets
-Cloud Computing*
-Software Engineering for Startups*
-
-
-AI Innovation
-Natural Language Processing
-Applied Machine Learning
-Web Application Development*
-
-
-Deep Learning
-Capstone Project(36 units)
+- Deep Learning
+- Capstone Project(36 units)
 
 *Elective course
 For more information on the MSAII program curriculum and requirements, see the program website.

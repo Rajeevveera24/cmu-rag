@@ -9,51 +9,34 @@ Directed research is another integral part of the MLT program; MLT students carr
 Students may also choose to complete an optional MLT thesis. Guidelines can be found in the MLT Handbook.
 Curriculum: Here's an example of how your two years in the MLT program may break down.
 
+Year 1 Fall:
+- Grammars and Lexicons
+- Algorithms for NLP
+- Directed Study
+
+Year 1 Spring:
+- Search Engines or Machine Learning for Text Mining
+- Machine Translation
+- Self-Paced Lab
+- Directed Study
+
+Year 1 Summer:
+- Required Research
  
+Year 2 Fall:
+- Software Engineering for LT (I)
+- Speech Understanding
+- Self-Paced Lab
+- Directed Study
 
+Year 2 Spring:
+- Software Engineering for LT (II)
+- Directed Study
+- Elective
 
-Fall
+Year 2 Summer:
+- Required Research
 
-
-Spring
-
-
-Summer
-
-
-Year 1
-
-
-Grammars and Lexicons
-Algorithms for NLP
-Directed Study
-
-
-Search Engines or Machine Learning for Text Mining
-Machine Translation
-Self-Paced Lab
-Directed Study
-
-
-Required Research
- 
-
-
-Year 2
-
-
-Software Engineering for LT (I)
-Speech Understanding
-Self-Paced Lab
-Directed Study
-
-
-Software Engineering for LT (II)
-Directed Study
-Elective
-
-
-Required Research
 Admission: Carnegie Mellon's School of Computer Science has a centralized online application process. Applications and all supporting documentation for fall admission to any of the LTI's graduate programs must be received by the application deadline. Incomplete applications will not be considered. The application period for Fall 2024 will open on September 6, 2023.
 *Please note, we no longer require mailed, hard versions of transcripts or test scores at the time of application. Do not mail anything to the admissions office. If you are accepted to a program, you will be given instruction to then mail your materials.
 Final Application Deadline
