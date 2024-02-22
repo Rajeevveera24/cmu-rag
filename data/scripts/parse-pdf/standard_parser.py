@@ -8,6 +8,7 @@ RAW_DATA_PDF_DIR = "data/raw_data/"
 PARSED_DATA_DIR = "data/documents/"
 HISTORY_DIR = "history_of_cmu/"
 PROGRAM_HANDBOOKS_DIR = "program_handbooks/"
+ACADEMIC_CALENDARS_DIR = "academic_calendars/"
 FILE_NAME = "cmu_fact_sheet_02-pdf"
 
 def parse_pdfs(raw_directory, raw_file_names, parsed_directory, parsed_file_names):
@@ -38,5 +39,5 @@ parsed_file_names = [re.sub(".pdf", ".txt", file_name) for file_name in raw_file
 
 parse_pdfs(raw_directory=RAW_DATA_PDF_DIR, 
            raw_file_names=raw_file_names, 
-           parsed_directory=PARSED_DATA_DIR + PROGRAM_HANDBOOKS_DIR, 
+           parsed_directory=PARSED_DATA_DIR + ACADEMIC_CALENDARS_DIR, 
            parsed_file_names=parsed_file_names)
