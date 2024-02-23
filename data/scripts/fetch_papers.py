@@ -61,17 +61,50 @@ def get_papers(out_dir, raw_out_dir):
         # Save metadata
         print(f"Saving metadata {idx:02}.txt.")
         with open(os.path.join(out_dir, f"{idx:02}.txt"), "w") as f:
-            write_to_file(f, f"Title: {paper.title}")
-            write_to_file(f, f"Abstract: {paper.abstract}")
-            write_to_file(f, f"Authors: {", ".join([a['name'] for a in paper.authors])}")
-            write_to_file(f, f"Publication Venue: {", ".join([paper.publicationVenue['name']] + paper.publicationVenue['alternate_names'])}")
-            write_to_file(f, f"Year of Publication: {paper.year}")
-            write_to_file(f, f"Summary: {paper.tldr}")
+            if paper.title:
+                write_to_file(f, f"Title: {paper.title}")
+            else:
+                write_to_file(f, f"Title: Not Available")
+            if paper.abstract:
+                write_to_file(f, f"Abstract: {paper.abstract}")
+            else:
+                write_to_file(f, f"Abstract: Not Available")
+            if paper.authors:
+                write_to_file(f, f"Authors: {", ".join([a['name'] for a in paper.authors])}")
+            else:
+                write_to_file(f, f"Authors: Not Available")
+            if paper.publicationVenue:
+                publication_venues = []
+                try:
+                    publication_venues.append(paper.publicationVenue['name'])
+                except:
+                    pass
+                try:
+                    publication_venues += paper.publicationVenue['alternate_names']
+                except:
+                    pass
+                if len(publication_venues) > 0:
+                    write_to_file(f, f"Publication Venue: {", ".join(publication_venues)}")
+                else:
+                    write_to_file(f, f"Publication Venue: Not Available")
+            else:
+                write_to_file(f, f"Publication Venue: Not Available")
+            if paper.year:
+                write_to_file(f, f"Year of Publication: {paper.year}")
+            else:
+                write_to_file(f, f"Year of Publication: Not Available")
+            if paper.tldr:
+                write_to_file(f, f"Summary: {paper.tldr}")
+            else:
+                write_to_file(f, f"Summary: Not Available")
         # Save pdf
-        print(f"Saving paper {paper.openAccessPdf['url']}.")
-        with open(os.path.join(raw_out_dir, f"{idx:02}.pdf"), "wb") as f:
-            response = requests.get(paper.openAccessPdf['url'])
-            f.write(response.content)
+        try:
+            print(f"Saving paper {paper.openAccessPdf['url']}.")
+            with open(os.path.join(raw_out_dir, f"{idx:02}.pdf"), "wb") as f:
+                response = requests.get(paper.openAccessPdf['url'])
+                f.write(response.content)
+        except:
+            print(f"Unable to save paper for {idx:02}.txt.")
     print(f"{len(all_papers)} total papers.")
 
 def write_to_file(f, text):
