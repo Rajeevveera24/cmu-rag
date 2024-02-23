@@ -1,0 +1,6 @@
+Title: E-Branchformer-Based E2E SLU Toward Stop on-Device Challenge
+Abstract: In this paper, we report our team’s study on track 2 of the Spoken Language Understanding Grand Challenge, which is a component of the ICASSP Signal Processing Grand Challenge 2023. The task is intended for on-device processing and involves estimating semantic parse labels from speech using a model with 15 million parameters. We use E2E E-Branchformer-based spoken language understanding model, which is more parameter controllable than cascade models, and reduced the parameter size through sequential distillation and tensor decomposition techniques. On the STOP dataset, we achieved an exact match accuracy of 70.9% under the tight constraint of 15 million parameters.
+Authors: Yosuke Kashiwagi, Siddhant Arora, Hayato Futami, Jessica Huynh, Shih-Lun Wu, Yifan Peng, Brian Yan, E. Tsunoo, Shinji Watanabe
+Publication Venue: IEEE International Conference on Acoustics, Speech, and Signal Processing, Int Conf Acoust Speech Signal Process, IEEE Int Conf Acoust Speech Signal Process, ICASSP, International Conference on Acoustics, Speech, and Signal Processing
+Year of Publication: 2023
+Summary: Not Available

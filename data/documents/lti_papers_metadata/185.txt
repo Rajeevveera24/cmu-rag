@@ -1,0 +1,6 @@
+Title: Unsupervised Data Selection for TTS: Using Arabic Broadcast News as a Case Study
+Abstract: .
+Authors: Massa Baali, Tomoki Hayashi, Hamdy Mubarak, Soumi Maiti, Shinji Watanabe, W. El-Hajj, Ahmed Ali
+Publication Venue: arXiv.org, ArXiv
+Year of Publication: 2023
+Summary: Not Available

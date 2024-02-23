@@ -1,0 +1,6 @@
+Title: Automatic synchrotron tomographic alignment schemes based on genetic algorithms and human-in-the-loop software
+Abstract: A highly automatic alignment scheme is proposed to address the pressing challenge in tomographic alignment of future scanning tomography experiments. The results show that the proposed method exhibits excellent sub-pixel alignment accuracy and high time efficiency.
+Authors: Zhen Zhang, Xiaoxue Bi, Pengcheng Li, Chenglong Zhang, Yiming Yang, Yu Liu, Gang Chen, Yuhui Dong, Gongfa Liu, Yi Zhang
+Publication Venue: Journal of Synchrotron Radiation, J Synchrotron Radiat
+Year of Publication: 2023
+Summary: Not Available

@@ -1,0 +1,6 @@
+Title: Bayes Risk Transducer: Transducer with Controllable Alignment Prediction
+Abstract: Automatic speech recognition (ASR) based on transducers is widely used. In training, a transducer maximizes the summed posteriors of all paths. The path with the highest posterior is commonly defined as the predicted alignment between the speech and the transcription. While the vanilla transducer does not have a prior preference for any of the valid paths, this work intends to enforce the preferred paths and achieve controllable alignment prediction. Specifically, this work proposes Bayes Risk Transducer (BRT), which uses a Bayes risk function to set lower risk values to the preferred paths so that the predicted alignment is more likely to satisfy specific desired properties. We further demonstrate that these predicted alignments with intentionally designed properties can provide practical advantages over the vanilla transducer. Experimentally, the proposed BRT saves inference cost by up to 46% for non-streaming ASR and reduces overall system latency by 41% for streaming ASR.
+Authors: Jinchuan Tian, Jianwei Yu, Hangting Chen, Brian Yan, Chao Weng, Dong Yu, Shinji Watanabe
+Publication Venue: Interspeech, Conf Int Speech Commun Assoc, INTERSPEECH, Conference of the International Speech Communication Association
+Year of Publication: 2023
+Summary: Not Available

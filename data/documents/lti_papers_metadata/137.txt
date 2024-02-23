@@ -1,0 +1,6 @@
+Title: Don't Take This Out of Context!: On the Need for Contextual Models and Evaluations for Stylistic Rewriting
+Abstract: Not Available
+Authors: Akhila Yerukola, Xuhui Zhou, Elizabeth Clark, Maarten Sap
+Publication Venue: Conference on Empirical Methods in Natural Language Processing, Empir Method Nat Lang Process, Empirical Methods in Natural Language Processing, Conf Empir Method Nat Lang Process, EMNLP
+Year of Publication: 2023
+Summary: Not Available

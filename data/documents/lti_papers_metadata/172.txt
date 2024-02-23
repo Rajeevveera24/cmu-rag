@@ -1,0 +1,6 @@
+Title: Towards Efficient Simultaneous Speech Translation: CUNI-KIT System for Simultaneous Track at IWSLT 2023
+Abstract: In this paper, we describe our submission to the Simultaneous Track at IWSLT 2023. This year, we continue with the successful setup from the last year, however, we adopt the latest methods that further improve the translation quality. Additionally, we propose a novel online policy for attentional encoder-decoder models. The policy prevents the model to generate translation beyond the current speech input by using an auxiliary CTC output layer. We show that the proposed simultaneous policy can be applied to both streaming blockwise models and offline encoder-decoder models. We observe significant improvements in quality (up to 1.1 BLEU) and the computational footprint (up to 45% relative RTF).
+Authors: Peter Polák, Danni Liu, Ngoc-Quan Pham, J. Niehues, A. Waibel, Ondrej Bojar
+Publication Venue: International Workshop on Spoken Language Translation, IWSLT, Int Workshop Spok Lang Transl
+Year of Publication: 2023
+Summary: Not Available

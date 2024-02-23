@@ -1,0 +1,6 @@
+Title: Improving Multitask Retrieval by Promoting Task Specialization
+Abstract: Abstract In multitask retrieval, a single retriever is trained to retrieve relevant contexts for multiple tasks. Despite its practical appeal, naive multitask retrieval lags behind task-specific retrieval, in which a separate retriever is trained for each task. We show that it is possible to train a multitask retriever that outperforms task-specific retrievers by promoting task specialization. The main ingredients are: (1) a better choice of pretrained model—one that is explicitly optimized for multitasking—along with compatible prompting, and (2) a novel adaptive learning method that encourages each parameter to specialize in a particular task. The resulting multitask retriever is highly performant on the KILT benchmark. Upon analysis, we find that the model indeed learns parameters that are more task-specialized compared to naive multitasking without prompting or adaptive learning.1
+Authors: Wenzheng Zhang, Chenyan Xiong, K. Stratos, Arnold Overwijk
+Publication Venue: Transactions of the Association for Computational Linguistics, Trans Assoc Comput Linguistics, TACL
+Year of Publication: 2023
+Summary: Not Available

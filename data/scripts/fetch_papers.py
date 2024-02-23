@@ -113,6 +113,6 @@ def write_to_file(f, text):
 
 if __name__ == "__main__":
     get_papers(
-        out_dir="../documents/paper_metadata", 
-        raw_out_dir="../raw_data/"
+        out_dir="../documents/lti_papers_metadata", 
+        raw_out_dir="../raw_data/lti_papers"
     )

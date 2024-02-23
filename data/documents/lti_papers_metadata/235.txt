@@ -1,0 +1,6 @@
+Title: Exploration of Efficient End-to-End ASR using Discretized Input from Self-Supervised Learning
+Abstract: Self-supervised learning (SSL) of speech has shown impressive results in speech-related tasks, particularly in automatic speech recognition (ASR). While most methods employ the output of intermediate layers of the SSL model as real-valued features for downstream tasks, there is potential in exploring alternative approaches that use discretized token sequences. This approach offers benefits such as lower storage requirements and the ability to apply techniques from natural language processing. In this paper, we propose a new protocol that utilizes discretized token sequences in ASR tasks, which includes de-duplication and sub-word modeling to enhance the input sequence. It reduces computational cost by decreasing the length of the sequence. Our experiments on the LibriSpeech dataset demonstrate that our proposed protocol performs competitively with conventional ASR systems using continuous input features, while reducing computational and storage costs.
+Authors: Xuankai Chang, Brian Yan, Yuya Fujita, Takashi Maekaku, Shinji Watanabe
+Publication Venue: Interspeech, Conf Int Speech Commun Assoc, INTERSPEECH, Conference of the International Speech Communication Association
+Year of Publication: 2023
+Summary: Not Available

@@ -1,0 +1,6 @@
+Title: ALERT: Adapt Language Models to Reasoning Tasks
+Abstract: Not Available
+Authors: Ping Yu, Tianlu Wang, O. Yu. Golovneva, Badr AlKhamissi, Siddharth Verma, Zhijing Jin, Gargi Ghosh, Mona T. Diab, Asli Celikyilmaz
+Publication Venue: Annual Meeting of the Association for Computational Linguistics, Annu Meet Assoc Comput Linguistics, Meeting of the Association for Computational Linguistics, ACL, Meet Assoc Comput Linguistics
+Year of Publication: 2023
+Summary: Not Available

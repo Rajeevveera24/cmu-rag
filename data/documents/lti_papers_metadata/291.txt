@@ -1,0 +1,6 @@
+Title: Long-tailed Extreme Multi-label Text Classification by the Retrieval of Generated Pseudo Label Descriptions
+Abstract: Extreme Multi-label Text Classification (XMTC) has been a tough challenge in machine learning research and applications due to the sheer sizes of the label spaces and the severe data scarcity problem associated with the long tail of rare labels in highly skewed distributions. This paper addresses the challenge of tail label prediction by leveraging the power of dense neural retrieval model in mapping input documents (as queries) to relevant label descriptions. To further enhance the quality of label descriptions, we propose to generate pseudo label descriptions from a trained bag-of-words (BoW) classifier, which demonstrates better classification performance under severe scarce data conditions.The proposed approach achieves the state-of-the-art (SOTA) performance of overall label prediction on XMTC benchmark datasets and especially outperforms the SOTA models in the tail label prediction. We also provide a theoretical analysis for relating the BoW and neural models w.r.t. performance lower bound.
+Authors: Ruohong Zhang, Yau-Shian Wang, Yiming Yang, Donghan Yu, Tom Vu, Li Lei
+Publication Venue: Findings
+Year of Publication: 2023
+Summary: Not Available

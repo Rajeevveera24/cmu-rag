@@ -1,0 +1,6 @@
+Title: Defending Against Malicious Behaviors in Federated Learning with Blockchain
+Abstract: In the era of deep learning, federated learning (FL) presents a promising approach that allows multi-institutional data owners, or clients, to collaboratively train machine learning models without compromising data privacy. However, most existing FL approaches rely on a centralized server for global model aggregation, leading to a single point of failure. This makes the system vulnerable to malicious attacks when dealing with dishonest clients. In this work, we address this problem by proposing a secure and reliable FL system based on blockchain and distributed ledger technology. Our system incorporates a peer-to-peer voting mechanism and a reward-and-slash mechanism, which are powered by on-chain smart contracts, to detect and deter malicious behaviors. Both theoretical and empirical analyses are presented to demonstrate the effectiveness of the proposed approach, showing that our framework is robust against malicious client-side behaviors.
+Authors: Nanqing Dong, Zhipeng Wang, Jiahao Sun, Michael C. Kampffmeyer, Yizhe Wen, Shuoying Zhang, W. Knottenbelt, Eric P. Xing
+Publication Venue: arXiv.org, ArXiv
+Year of Publication: 2023
+Summary: Not Available

@@ -1,0 +1,6 @@
+Title: Generation-driven Contrastive Self-training for Zero-shot Text Classification with Instruction-tuned GPT
+Abstract: Moreover, GPT-based zero-shot classification models tend to make independent predictions over test instances, which can be sub-optimal as the instance correlations and the decision boundaries in the target space are ignored. To address these difficulties and limitations, we propose a new approach to zero-shot text classification, namely \ourmodelshort, which leverages the strong generative power of GPT to assist in training a smaller, more adaptable, and efficient sentence encoder classifier with contrastive self-training. Specifically, GenCo applies GPT in two ways: firstly, it generates multiple augmented texts for each input instance to enhance the semantic embedding of the instance and improve the mapping to relevant labels; secondly, it generates augmented texts conditioned on the predicted label during self-training, which makes the generative process tailored to the decision boundaries in the target space. In our experiments, GenCo outperforms previous state-of-the-art methods on multiple benchmark datasets, even when only limited in-domain text data is available.
+Authors: Ruohong Zhang, Yau-Shian Wang, Yiming Yang
+Publication Venue: arXiv.org, ArXiv
+Year of Publication: 2023
+Summary: Not Available
