@@ -1,5 +1,2 @@
-25 Great Things About SCS
-What’s so great about computer science at Carnegie Mellon?
-We're glad you asked! Here are 25 great ideas from CMU computer scientists to think about as we celebrate the birthday of the School of Computer Science.
 18. Self-driving vehicles, 2007
 Carnegie Mellon’s early attempts at self-driving vehicles progressed slowly, creeping around Pittsburgh’s Schenley Park in the late 1990s. But they were going full-throttle by the time CMU’s self-driving SUV, named BOSS, won the 2007 DARPA Urban Challenge road race.

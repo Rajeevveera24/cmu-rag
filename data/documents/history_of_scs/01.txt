@@ -1,5 +1,2 @@
-25 Great Things About SCS
-What’s so great about computer science at Carnegie Mellon?
-We're glad you asked! Here are 25 great ideas from CMU computer scientists to think about as we celebrate the birthday of the School of Computer Science.
 1. Artificial intelligence, 1955-56
 Can you write a working computer program without a computer? Herb Simon (H’90), at left, Allen Newell (IA’57), at right, and Cliff Shaw did. The team created the first artificial intelligence program, Logic Theorist, which could solve logic puzzles in the same way that a human might solve them. Newell demonstrated that it worked by writing the instructions on 3-by-5 index cards that were manipulated on the kitchen table by Newell, his wife, and a group of Carnegie Tech grad students.

@@ -1,5 +1,2 @@
-25 Great Things About SCS
-What’s so great about computer science at Carnegie Mellon?
-We're glad you asked! Here are 25 great ideas from CMU computer scientists to think about as we celebrate the birthday of the School of Computer Science.
 2. Multi-core processors, 1971
 Multi-core processors are common in today’s computers, but they were still science fiction in the early 1970s. But when CMU researchers found their existing machines too slow to keep pace with the advance of speech and graphics programs, they knew they had to do something. They solved the problem by ganging together 16 processors to build a pioneering computer called C.mmp—then topped the feat by linking 50 processors into Cm*.

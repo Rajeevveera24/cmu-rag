@@ -1,5 +1,2 @@
-25 Great Things About SCS
-What’s so great about computer science at Carnegie Mellon?
-We're glad you asked! Here are 25 great ideas from CMU computer scientists to think about as we celebrate the birthday of the School of Computer Science.
 25. Smart, adaptable traffic signals, 2012
 Smart traffic lights developed at CMU’s Robotics Institute are saving time and energy, and cutting down on the amount of air pollution created by idling cars. First rolled out in Pittsburgh’s East Liberty neighborhood, the new signals are being studied around the country.

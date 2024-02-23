@@ -1,5 +1,2 @@
-25 Great Things About SCS
-What’s so great about computer science at Carnegie Mellon?
-We're glad you asked! Here are 25 great ideas from CMU computer scientists to think about as we celebrate the birthday of the School of Computer Science.
 24. Encrypting online information, 2012
 Credit card numbers and other data used online is safer thanks to an encryption scheme developed by CMU alumna Shafi Goldwasser (S’79). She shared the 2012 Turing Award for her role in developing practical encoding schemes that are difficult to break.
