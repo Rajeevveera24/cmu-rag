@@ -1,9 +1,0 @@
-Carnegie Tech - Post-war Years 
-
-With the end of World War II, the latter half of the 20th century brought unprecedented growth to Carnegie Tech. In 1956, the arrival of the first IBM computer to campus was revolutionary, initiating a university culture where information technology pervaded virtually all areas of study.
-University culture also changed in 1973 when Margaret Morrison closed and women joined their male peers in classrooms and dorms.
-The times were changing, and Tech positioned itself at the forefront, opening three new schools:
-
-1948: The Graduate School of Industrial Administration, later renamed the David A. Tepper School of Business, focusing on quantitative analysis and pioneering the field of management science.
-1968: School of Urban and Public Affairs, later renamed the H. John Heinz III College, providing graduate training for work in the public sector.
-1986: School of Computer Science, pioneering computing and artificial intelligence, led by interdisciplinary efforts of Allen Newell and Herbert Simon.
