@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Robotics
+Course: 16682
+Title: Robotic Systems Development Project Course II:
+Units: 15.0
+Lec/Sec: A
+Days:  
+Begin:  
+End:  
+Bldg/Room:  
+Instructor(s): Apostolopoulos, Dolan, Geyer, Kaess, Shi
+Location:  

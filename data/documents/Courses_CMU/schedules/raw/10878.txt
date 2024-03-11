@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Chemistry
+Course: 09105
+Title: Introduction to Modern Chemistry I
+Units: 10.0
+Lec/Sec: W
+Days: MW
+Begin: 11:45AM
+End: 12:35PM
+Bldg/Room: CMB 1030
+Location: Doha, Qatar
+Instructor(s): Murshid

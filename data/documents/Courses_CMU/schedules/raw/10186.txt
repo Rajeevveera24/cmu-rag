@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Business Administration
+Course: 42999
+Title: Ph.D Thesis Defense
+Units: 0.0
+Lec/Sec: B1
+Days: MW
+Begin: 10:00AM
+End: 11:45AM
+Bldg/Room: TEP 2202
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Sudbury

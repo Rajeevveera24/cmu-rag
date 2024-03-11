@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Information Networking Institute
+Course: 14728
+Title: INI Independent Study
+Units: 0-12
+Lec/Sec: A4
+Days: TBA
+Begin: 
+End: 
+Bldg/Room: DNM DNM
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Tsamitis

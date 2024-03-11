@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Philosophy
+Course: 80495
+Title: Independent Study
+Units: 3,6,9,12
+Lec/Sec: R
+Days: TBA
+Begin: 
+End: 
+Bldg/Room: TBA
+Location: Pittsburgh, Pennsylvania
+Instructor(s): London

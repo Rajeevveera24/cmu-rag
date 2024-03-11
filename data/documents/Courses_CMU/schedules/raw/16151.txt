@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Modern Languages
+Course: 82888
+Title: Topics in Second Language Acquisition:
+Units: 9.0
+Lec/Sec: D
+Days: MW
+Begin: 02:00PM
+End: 03:20PM
+Bldg/Room: PH A19D
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Al Masaeed

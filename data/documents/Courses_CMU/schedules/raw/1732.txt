@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category:  
+Course: 15639
+Title: Independent Study in Computer Science Pedagogy:
+Units: 3-18
+Lec/Sec: A
+Days:  
+Begin:  
+End:  
+Bldg/Room:  
+Instructor(s): Donahue, Cortina
+Location:  

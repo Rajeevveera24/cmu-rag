@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Mechanical Engineering
+Course: 24351
+Title: Dynamics
+Units: 10.0
+Lec/Sec: D
+Days: M
+Begin: 02:00PM
+End: 02:50PM
+Bldg/Room: WEH 5304
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Ozdoganlar

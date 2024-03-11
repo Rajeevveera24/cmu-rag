@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Business Administration
+Course: 46926
+Title: Machine Learning I:
+Units: 6.0
+Lec/Sec: M1
+Days:  
+Begin:  
+End:  
+Bldg/Room:  
+Instructor(s): Yurko
+Location:  

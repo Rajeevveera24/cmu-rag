@@ -1,0 +1,12 @@
+Semester: Summer One/All 2023
+Category: Electrical & Computer Engineering
+Course: 18996
+Title: Internship one for Electrical and Computer Engineering PhD Students
+Units: VAR
+Lec/Sec: PP
+Days: TBA
+Begin: 
+End: 
+Bldg/Room: DNM DNM
+Location: Lisbon, Portugal
+Instructor(s): Bain

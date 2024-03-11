@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Information Systems:Sch of IS & Mgt
+Course: 95451
+Title: Making Products Count: Data Science for Product Managers
+Units: 6.0
+Lec/Sec: A3
+Days: F
+Begin: 11:00AM
+End: 12:20PM
+Bldg/Room: HBH 1206
+Instructor(s): Steier
+Location: Pittsburgh, Pennsylvania

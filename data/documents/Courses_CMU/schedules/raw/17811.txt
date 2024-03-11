@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Physics
+Course: 33141
+Title: Physics I for Engineering Students:
+Units: 12.0
+Lec/Sec: C
+Days:  
+Begin:  
+End:  
+Bldg/Room:  
+Instructor(s): Instructor TBA
+Location:  

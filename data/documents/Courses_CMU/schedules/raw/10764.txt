@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Carnegie Mellon University-Wide Studies
+Course: 39699
+Title: Computing @ Carnegie Mellon:
+Units: 3.0
+Lec/Sec: B1
+Days:  
+Begin:  
+End:  
+Bldg/Room:  
+Instructor(s): Rupp
+Location:  

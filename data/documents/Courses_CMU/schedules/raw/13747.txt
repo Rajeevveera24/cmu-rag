@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: English
+Course: 76101
+Title: Interpretation and Argument
+Units: 9.0
+Lec/Sec: GG
+Days: MWF
+Begin: 03:00PM
+End: 03:50PM
+Bldg/Room: PH A19
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Meyer

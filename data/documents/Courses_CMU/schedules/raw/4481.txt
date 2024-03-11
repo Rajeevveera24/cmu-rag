@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: English
+Course: 76911
+Title: Directed Reading
+Units: 12.0
+Lec/Sec: E
+Days: TBA
+Begin: 
+End: 
+Bldg/Room: DNM DNM
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Aguiar

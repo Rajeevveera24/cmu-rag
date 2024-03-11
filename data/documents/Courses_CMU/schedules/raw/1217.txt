@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Carnegie Mellon University-Wide Studies
+Course: 99250
+Title: Peer Mentor
+Units: 1.0
+Lec/Sec: A3
+Days: T
+Begin: 04:40PM
+End: 06:20PM
+Bldg/Room: POS 280-2
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Walsh, Hood, Ortis

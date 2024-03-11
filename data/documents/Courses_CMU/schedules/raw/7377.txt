@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category:  
+Course: 57671
+Title: Chamber Music: String Quartet
+Units: 3.0
+Lec/Sec: T
+Days: TBA
+Begin: 
+End: 
+Bldg/Room: TBA
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Wu

@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category:  
+Course: 54411
+Title: Lear
+Units: 16.0
+Lec/Sec: C2
+Days: M
+Begin: 05:20PM
+End: 06:20PM
+Bldg/Room: TBA
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Cousin

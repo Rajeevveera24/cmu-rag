@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Robotics
+Course: 16693
+Title: MRSD Independent Study
+Units: VAR
+Lec/Sec: A
+Days: TBA
+Begin: 
+End: 
+Bldg/Room: DNM DNM
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Dolan

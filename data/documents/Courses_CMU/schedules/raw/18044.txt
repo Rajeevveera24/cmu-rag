@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Public Policy & Mgt:Sch of Pub Pol & Mgt
+Course: 90707
+Title: Statistical Reasoning
+Units: 12.0
+Lec/Sec: B
+Days: F
+Begin: 03:30PM
+End: 04:50PM
+Bldg/Room: HBH 1006
+Instructor(s): Escallon Barrios
+Location: Pittsburgh, Pennsylvania

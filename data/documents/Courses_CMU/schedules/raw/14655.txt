@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Information Systems Program
+Course: 67490
+Title: Practicum in Information Systems
+Units: 6-18
+Lec/Sec: W
+Days: TBA
+Begin: 
+End: 
+Bldg/Room: DNM DNM
+Location: Doha, Qatar
+Instructor(s): Instructor TBA

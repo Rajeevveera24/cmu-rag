@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category:  
+Course: 15459
+Title: Undergraduate Quantum Computation:
+Units: 9.0
+Lec/Sec: W
+Days:  
+Begin:  
+End:  
+Bldg/Room:  
+Instructor(s): Kapoutsis
+Location:  

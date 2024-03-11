@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Mathematical Sciences
+Course: 21241
+Title: Matrices and Linear Transformations
+Units: 11.0
+Lec/Sec: K
+Days: TR
+Begin: 01:00PM
+End: 01:50PM
+Bldg/Room: BH 237B
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Newman

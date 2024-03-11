@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Heinz College Wide Courses
+Course: 94891
+Title: Lean Innovation Lab
+Units: VAR
+Lec/Sec: A
+Days: M
+Begin: 03:30PM
+End: 04:50PM
+Bldg/Room: HBH 1208
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Riel

@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Business Administration
+Course: 70371
+Title: Operations Management
+Units: 9.0
+Lec/Sec: C
+Days: MW
+Begin: 11:00AM
+End: 12:20PM
+Bldg/Room: TEP 2611
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Gong

@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Business Administration
+Course: 45747
+Title: Accelerate Leadership Assessment
+Units: 0.0
+Lec/Sec: M1
+Days: TBA
+Begin: 
+End: 
+Bldg/Room: CMU REMOTE
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Hermann

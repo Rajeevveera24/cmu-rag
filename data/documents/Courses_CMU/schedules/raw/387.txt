@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Biological Sciences
+Course: 03230
+Title: Intro to Mammalian Physiology
+Units: 9.0
+Lec/Sec: W
+Days: R
+Begin: 02:30PM
+End: 03:30PM
+Bldg/Room: CMB 3178
+Location: Doha, Qatar
+Instructor(s): Affara

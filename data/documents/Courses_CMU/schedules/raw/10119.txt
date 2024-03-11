@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category:  
+Course: 03742
+Title: Advanced Molecular Biology
+Units: 12.0
+Lec/Sec: Lec
+Days: MWF
+Begin: 09:00AM
+End: 09:50AM
+Bldg/Room: DH 1212
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Woolford

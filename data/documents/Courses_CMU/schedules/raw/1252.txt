@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Carnegie Mellon University-Wide Studies
+Course: 99430
+Title: General Studies Capstone Course
+Units: VAR
+Lec/Sec: A
+Days: TBA
+Begin: 
+End: 
+Bldg/Room: DNM DNM
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Braun, Whitworth

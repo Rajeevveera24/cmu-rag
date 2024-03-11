@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Mechanical Engineering
+Course: 24677
+Title: Modern Control Theory:
+Units: 12.0
+Lec/Sec: Lec
+Days:  
+Begin:  
+End:  
+Bldg/Room:  
+Instructor(s): Zhao
+Location:  

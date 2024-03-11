@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Language Technologies Institute
+Course: 11672
+Title: Foundations of Computational Data Science II:
+Units: 6.0
+Lec/Sec: A3
+Days:  
+Begin:  
+End:  
+Bldg/Room:  
+Instructor(s): Rose
+Location:  

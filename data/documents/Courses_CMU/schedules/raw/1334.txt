@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Chemistry
+Course: 09218
+Title: TBA
+Units: 9.0
+Lec/Sec: W
+Days: UMTWR
+Begin: 08:30AM
+End: 09:20AM
+Bldg/Room: CMB 3204
+Location: Doha, Qatar
+Instructor(s): Faulkner

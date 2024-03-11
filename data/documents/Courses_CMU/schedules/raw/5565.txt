@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Integrated Innovation Institute
+Course: 49803
+Title: Legal Issues in New Venture Creation
+Units: 6.0
+Lec/Sec: A3
+Days: M
+Begin: 11:00AM
+End: 01:50PM
+Bldg/Room: B23 212
+Location: San Jose, California
+Instructor(s): Kirmayer

@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category:  
+Course: 15112
+Title: Fundamentals of Programming and Computer Science
+Units: 12.0
+Lec/Sec: O
+Days: W
+Begin: 02:00PM
+End: 02:50PM
+Bldg/Room: WEH 4709
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Taylor, Kosbie

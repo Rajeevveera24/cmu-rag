@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Business Administration
+Course: 45822
+Title: Corporate Finance:
+Units: 6.0
+Lec/Sec: B4
+Days:  
+Begin:  
+End:  
+Bldg/Room:  
+Instructor(s): Glover
+Location:  

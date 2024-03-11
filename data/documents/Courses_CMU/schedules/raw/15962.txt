@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Modern Languages
+Course: 82103
+Title: Elementary French I Online
+Units: 12.0
+Lec/Sec: W
+Days: U
+Begin: 10:00AM
+End: 11:15AM
+Bldg/Room: CMB 1032
+Location: Doha, Qatar
+Instructor(s): Moufid

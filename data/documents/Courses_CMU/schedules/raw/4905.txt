@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Human-Computer Interaction
+Course: 05680
+Title: Independent Study in HCI - METALS
+Units: VAR
+Lec/Sec: A
+Days: TBA
+Begin: 
+End: 
+Bldg/Room: TBA
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Bett, Bodnar

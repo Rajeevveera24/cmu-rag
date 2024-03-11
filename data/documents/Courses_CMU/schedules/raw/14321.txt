@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Human-Computer Interaction
+Course: 05452
+Title: Service Design
+Units: 12.0
+Lec/Sec: A
+Days: TR
+Begin: 08:00AM
+End: 09:50AM
+Bldg/Room: 3SC 172
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Saffer, Hardman

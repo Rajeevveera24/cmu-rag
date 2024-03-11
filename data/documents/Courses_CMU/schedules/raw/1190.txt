@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: CIT Interdisciplinary
+Course: 39660
+Title: Masters EST&P Project
+Units: VAR
+Lec/Sec: A
+Days: TBA
+Begin: 
+End: 
+Bldg/Room: DNM DNM
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Salvador

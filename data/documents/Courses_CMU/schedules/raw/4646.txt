@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Heinz College Wide Courses
+Course: 94837
+Title: Leading with Equity & Inclusion
+Units: 6.0
+Lec/Sec: A3
+Days: M
+Begin: 06:30PM
+End: 09:20PM
+Bldg/Room: HBH 2003
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Stewart

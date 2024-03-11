@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: History
+Course: 79160
+Title: Introduction to the History of Science
+Units: 9.0
+Lec/Sec: C
+Days: F
+Begin: 10:00AM
+End: 10:50AM
+Bldg/Room: WEH 5310
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Leach

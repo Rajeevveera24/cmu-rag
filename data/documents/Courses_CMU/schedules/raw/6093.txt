@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Mathematical Sciences
+Course: 21375
+Title: Topics in Algebra:
+Units: 9.0
+Lec/Sec: B
+Days:  
+Begin:  
+End:  
+Bldg/Room:  
+Instructor(s): Bukh, Gheorghiciuc
+Location:  

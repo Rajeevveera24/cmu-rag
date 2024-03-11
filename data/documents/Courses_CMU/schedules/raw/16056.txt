@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Modern Languages
+Course: 82313
+Title: Topics in Modern Arabic Language, Literature and Culture
+Units: 9.0
+Lec/Sec: W
+Days: MW
+Begin: 10:00AM
+End: 11:15AM
+Bldg/Room: CMB 3044
+Location: Doha, Qatar
+Instructor(s): Nassif

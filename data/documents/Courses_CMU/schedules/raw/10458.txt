@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Business Administration
+Course: 46982
+Title: Market Microstructure and Algorithmic Trading:
+Units: 6.0
+Lec/Sec: I2
+Days:  
+Begin:  
+End:  
+Bldg/Room:  
+Instructor(s): Psaris, Spatt
+Location:  

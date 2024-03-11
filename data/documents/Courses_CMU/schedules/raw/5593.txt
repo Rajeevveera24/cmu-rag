@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Language Technologies Institute
+Course: 11633
+Title: MCDS Independent Study:
+Units: 3-36
+Lec/Sec: A
+Days:  
+Begin:  
+End:  
+Bldg/Room:  
+Instructor(s): Levin
+Location:  

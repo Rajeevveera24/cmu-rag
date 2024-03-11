@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Music
+Course: 57101
+Title: Introduction to Music Technology
+Units: 6.0
+Lec/Sec: B2
+Days: MWF
+Begin: 10:00AM
+End: 10:50AM
+Bldg/Room: HOA A10
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Opie

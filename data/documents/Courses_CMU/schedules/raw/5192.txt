@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Information Systems:Sch of IS & Mgt
+Course: 95717
+Title: Writing for Information Systems Management
+Units: 6.0
+Lec/Sec: D4
+Days: MW
+Begin: 02:00PM
+End: 03:20PM
+Bldg/Room: HBH 1007
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Massaro

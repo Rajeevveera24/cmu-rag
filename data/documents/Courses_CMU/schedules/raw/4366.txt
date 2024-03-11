@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: English
+Course: 76270
+Title: Writing for the Professions
+Units: 9.0
+Lec/Sec: X
+Days: UT
+Begin: 11:30AM
+End: 12:45PM
+Bldg/Room: CMB 3048
+Location: Doha, Qatar
+Instructor(s): Mitchell

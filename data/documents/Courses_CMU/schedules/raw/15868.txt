@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Mechanical Engineering
+Course: 24352
+Title: Dynamic Systems and Controls:
+Units: 12.0
+Lec/Sec: Lec
+Days:  
+Begin:  
+End:  
+Bldg/Room:  
+Instructor(s): Bedillion
+Location:  

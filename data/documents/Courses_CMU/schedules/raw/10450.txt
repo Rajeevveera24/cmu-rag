@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Business Administration
+Course: 46976
+Title: Financial Optimization
+Units: 6.0
+Lec/Sec: M2
+Days: MW
+Begin: 01:00PM
+End: 02:30PM
+Bldg/Room: BRD 507
+Location: New York, New York
+Instructor(s): Pena

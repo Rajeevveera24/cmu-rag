@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Information Systems:Sch of IS & Mgt
+Course: 95466
+Title: Advanced Business Analytics
+Units: 6.0
+Lec/Sec: A4
+Days: MWF
+Begin: 03:30PM
+End: 04:50PM
+Bldg/Room: HBH 1002
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Telang

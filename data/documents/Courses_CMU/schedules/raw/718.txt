@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Business Administration
+Course: 45886
+Title: Programming in R & Python
+Units: 6.0
+Lec/Sec: E4
+Days: M
+Begin: 06:30PM
+End: 10:00PM
+Bldg/Room: TEP 2111
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Ciollaro

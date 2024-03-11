@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category:  
+Course: 54474
+Title: Production Prep: Lonely Planet:
+Units: VAR
+Lec/Sec: C
+Days: W
+Begin: 05:00PM
+End: 06:20PM
+Bldg/Room: TBA
+Instructor(s): Sahoo
+Location: Pittsburgh, Pennsylvania

@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: MCS Interdisciplinary
+Course: 38110
+Title: TBA
+Units: 1.0
+Lec/Sec: W
+Days: TBA
+Begin: 
+End: 
+Bldg/Room: DNM DNM
+Location: Doha, Qatar
+Instructor(s): Younis

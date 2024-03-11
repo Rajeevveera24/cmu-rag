@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Chemistry
+Course: 09116
+Title: Undergraduate Research Shadowing in Chemistry:
+Units: 2.0
+Lec/Sec: A4
+Days: TBA
+Begin: 
+End: 
+Bldg/Room: TBA
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Peteanu

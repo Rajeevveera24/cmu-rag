@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category:  
+Course: 57954
+Title: Shaping Time in Performance
+Units: 9.0
+Lec/Sec: A
+Days: TR
+Begin: 11:00AM
+End: 12:20PM
+Bldg/Room: HOA 225
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Ito

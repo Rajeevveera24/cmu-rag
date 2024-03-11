@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category:  
+Course: 54394
+Title: Scenic Design
+Units: VAR
+Lec/Sec: E
+Days: MTWRF
+Begin: 06:30PM
+End: 10:30PM
+Bldg/Room: TBA
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Block

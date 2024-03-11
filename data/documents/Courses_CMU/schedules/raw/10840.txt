@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Chemical Engineering
+Course: 06325
+Title: Numerical Methods and Machine Learning for Chemical Engineering
+Units: 6.0
+Lec/Sec: A1
+Days: MW
+Begin: 02:00PM
+End: 03:50PM
+Bldg/Room: GHC 4215
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Laird

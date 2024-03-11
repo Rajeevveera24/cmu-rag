@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Mathematical Sciences
+Course: 21241
+Title: Matrices and Linear Transformations
+Units: 11.0
+Lec/Sec: B
+Days: TR
+Begin: 10:00AM
+End: 10:50AM
+Bldg/Room: BH 235B
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Xue

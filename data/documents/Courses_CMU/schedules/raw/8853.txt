@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Software & Societal Systems
+Course: 17802
+Title: Societal Computing Pre-Thesis
+Units: 6.0
+Lec/Sec: E
+Days: TBA
+Begin: 
+End: 
+Bldg/Room: DNM DNM
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Agarwal

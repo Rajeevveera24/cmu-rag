@@ -1,0 +1,12 @@
+Semester: Summer Two 2023
+Category: Physics
+Course: 33141
+Title: Physics I for Engineering Students:
+Units: 12.0
+Lec/Sec: U
+Days:  
+Begin:  
+End:  
+Bldg/Room:  
+Instructor(s): Chen
+Location:  

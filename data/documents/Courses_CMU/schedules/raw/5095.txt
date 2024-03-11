@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Information Systems Program
+Course: 67331
+Title: Technology Consulting in the Global Community
+Units: VAR
+Lec/Sec: A4
+Days: TBA
+Begin: 
+End: 
+Bldg/Room: DNM DNM
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Mertz

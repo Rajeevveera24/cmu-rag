@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Human-Computer Interaction
+Course: 05891
+Title: Designing Human-Centered Software
+Units: 12.0
+Lec/Sec: B
+Days: TR
+Begin: 11:00AM
+End: 12:20PM
+Bldg/Room: 3SC 172
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Carrington

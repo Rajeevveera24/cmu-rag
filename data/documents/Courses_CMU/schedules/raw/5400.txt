@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Institute for Politics and Strategy
+Course: 84323
+Title: War and Peace in the Contemporary Middle East
+Units: 9.0
+Lec/Sec: A
+Days: TR
+Begin: 11:00AM
+End: 12:20PM
+Bldg/Room: GHC 4102
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Silverman

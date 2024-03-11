@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Mathematical Sciences
+Course: 21120
+Title: Differential and Integral Calculus
+Units: 10.0
+Lec/Sec: Lec 1
+Days: MWF
+Begin: 08:00AM
+End: 08:50AM
+Bldg/Room: HOA 160
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Katugampola

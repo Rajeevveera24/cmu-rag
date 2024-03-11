@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Drama
+Course: 54151
+Title: Lighting (3 units)
+Units: VAR
+Lec/Sec: F2
+Days: MTWR
+Begin: 03:30PM
+End: 04:50PM
+Bldg/Room: TBA
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Feather

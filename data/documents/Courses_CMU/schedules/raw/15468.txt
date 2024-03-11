@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Mathematical Sciences
+Course: 21111
+Title: Calculus I
+Units: 10.0
+Lec/Sec: X
+Days: UMTWR
+Begin: 10:00AM
+End: 10:50AM
+Bldg/Room: CMB 1064
+Location: Doha, Qatar
+Instructor(s): Weston

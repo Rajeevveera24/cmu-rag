@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category:  
+Course: 11742
+Title: Search Engines:
+Units: 12.0
+Lec/Sec: PP
+Days:  
+Begin:  
+End:  
+Bldg/Room:  
+Instructor(s): Yang
+Location:  

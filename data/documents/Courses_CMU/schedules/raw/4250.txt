@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: English
+Course: 76101
+Title: Interpretation and Argument
+Units: 9.0
+Lec/Sec: C
+Days: MWF
+Begin: 12:00PM
+End: 12:50PM
+Bldg/Room: WEH 5316
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Comiskey

@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Information Networking Institute
+Course: 14789
+Title: AI in Business Modeling
+Units: 6.0
+Lec/Sec: S4
+Days: TR
+Begin: 11:00AM
+End: 12:20PM
+Bldg/Room: B23 212
+Location: San Jose, California
+Instructor(s): Farag

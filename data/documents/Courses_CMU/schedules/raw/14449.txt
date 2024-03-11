@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Information & Communication Technology
+Course: 04655
+Title: Artificial Intelligence for Engineers
+Units: 12.0
+Lec/Sec: A
+Days: F
+Begin: 12:00PM
+End: 01:00PM
+Bldg/Room: CMR F205
+Instructor(s): Biyabani
+Location: Kigali, Rwanda

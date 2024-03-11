@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Physics
+Course: 33234
+Title: Quantum Physics
+Units: 10.0
+Lec/Sec: A
+Days: R
+Begin: 08:00AM
+End: 08:50AM
+Bldg/Room: BH A53
+Instructor(s): Kozii
+Location: Pittsburgh, Pennsylvania

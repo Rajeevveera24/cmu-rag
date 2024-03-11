@@ -1,0 +1,12 @@
+Semester: Summer One/All 2023
+Category: Carnegie Mellon University-Wide Studies
+Course: 99519
+Title: Collaborative Research through Projects- Summer All
+Units: VAR
+Lec/Sec: O
+Days: TR
+Begin: 01:00PM
+End: 01:50PM
+Bldg/Room: DH 2122
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Hilton

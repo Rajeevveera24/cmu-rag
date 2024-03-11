@@ -1,7 +1,7 @@
-import os
-import re
-import requests
-from bs4 import BeautifulSoup
+import os, json, csv
+# import re
+# import requests
+# from bs4 import BeautifulSoup
 
 
 def parse_schedule(urls, out_dir):
@@ -63,13 +63,47 @@ def write_to_file(f, text):
     f.write(text+"\n")
 
 
+
+
 if __name__ == "__main__":
-    parse_schedule(
-        urls=[
-            "https://enr-apps.as.cmu.edu/assets/SOC/sched_layout_spring.htm",
-            "https://enr-apps.as.cmu.edu/assets/SOC/sched_layout_summer_1.htm",
-            "https://enr-apps.as.cmu.edu/assets/SOC/sched_layout_summer_2.htm",
-            "https://enr-apps.as.cmu.edu/assets/SOC/sched_layout_fall.htm"
-        ], 
-        out_dir="../documents/schedules"
-    )
+    # parse_schedule(
+    #     urls=[
+    #         "https://enr-apps.as.cmu.edu/assets/SOC/sched_layout_spring.htm",
+    #         "https://enr-apps.as.cmu.edu/assets/SOC/sched_layout_summer_1.htm",
+    #         "https://enr-apps.as.cmu.edu/assets/SOC/sched_layout_summer_2.htm",
+    #         "https://enr-apps.as.cmu.edu/assets/SOC/sched_layout_fall.htm"
+    #     ], 
+    #     out_dir="../documents/schedules"
+    # )
+    FILE_DIR = '/home/raj/Documents/cmu/sem2/anlp/assignments/cmu-rag/data/documents/Courses_CMU/schedules/'
+
+    cnts = set()
+    for file in sorted(os.listdir(FILE_DIR + 'raw')):
+        with open(os.path.join(FILE_DIR + '/raw', file), 'r') as f:
+            cnts.add(len(f.readlines()))
+    # print(cnts)
+    assert len(cnts) == 1
+    print('All files have same number of lines')
+
+    dct_list = []
+    for file in sorted(os.listdir(FILE_DIR+'raw/')):
+        # print(file)
+        with open(os.path.join(FILE_DIR+'/raw/', file), 'r') as f:
+            lines = f.readlines()
+            keys = [line.split(':')[0] for line in lines]
+            assert len(keys) == len(set(keys))
+            values = [line.split(':')[1].rstrip('\n') for line in lines]
+            assert len(values) == len(keys)
+            dct = {}
+            for key, value in zip(keys, values):
+                dct[key] = value
+            dct_list.append(dct)
+    with open(FILE_DIR + 'csv/' + 'schedules.json', 'w') as f:
+        json.dump(dct_list, f, indent=4)
+
+        
+
+                
+            
+
+

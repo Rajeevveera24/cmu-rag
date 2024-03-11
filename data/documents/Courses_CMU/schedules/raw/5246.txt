@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Information Systems:Sch of IS & Mgt
+Course: 95720
+Title: Information Systems Project
+Units: 0-24
+Lec/Sec: U
+Days: TBA
+Begin: 
+End: 
+Bldg/Room: TBA
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Meyer

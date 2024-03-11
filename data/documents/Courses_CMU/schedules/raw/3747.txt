@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category:  
+Course: 54777
+Title: Scenic Fabrication and Installation
+Units: 3.0
+Lec/Sec: A3
+Days: MW
+Begin: 03:30PM
+End: 04:50PM
+Bldg/Room: PCA 209
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Boevers

@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category:  
+Course: 54672
+Title: Production Prep: Sender:
+Units: VAR
+Lec/Sec: G
+Days: S
+Begin: 11:00AM
+End: 03:00PM
+Bldg/Room: TBA
+Instructor(s): Gajic
+Location: Pittsburgh, Pennsylvania

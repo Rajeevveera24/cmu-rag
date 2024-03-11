@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Information Systems:Sch of IS & Mgt
+Course: 95710
+Title: Economic Analysis
+Units: 6.0
+Lec/Sec: A3
+Days: F
+Begin: 09:30AM
+End: 10:50AM
+Bldg/Room: HBH 1007
+Instructor(s): Benedict
+Location: Pittsburgh, Pennsylvania

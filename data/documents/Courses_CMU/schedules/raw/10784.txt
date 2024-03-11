@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Carnegie Mellon University-Wide Studies
+Course: 39699
+Title: Career & Professional Development for Engineering Masters Students
+Units: 3.0
+Lec/Sec: V1
+Days: UT
+Begin: 11:00AM
+End: 11:50AM
+Bldg/Room: CMB 2163
+Location: Doha, Qatar
+Instructor(s): Thomas, Warraich, Saliba

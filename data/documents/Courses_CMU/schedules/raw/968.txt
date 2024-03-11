@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Business Administration
+Course: 70257
+Title: Optimization for Business
+Units: 9.0
+Lec/Sec: W
+Days: UMTR
+Begin: 08:45AM
+End: 09:35AM
+Bldg/Room: CMB 1064
+Location: Doha, Qatar
+Instructor(s): Yilma

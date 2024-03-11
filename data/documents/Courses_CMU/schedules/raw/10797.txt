@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category:  
+Course: 99352
+Title: IDeATe: Soft Fabrication Skills
+Units: 1.0
+Lec/Sec: A1
+Days: S
+Begin: 10:00AM
+End: 03:00PM
+Bldg/Room: HL 106B
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Pinchuk

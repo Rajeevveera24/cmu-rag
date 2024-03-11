@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Business Administration
+Course: 45924
+Title: Debt Markets
+Units: 6.0
+Lec/Sec: A4
+Days: TR
+Begin: 10:00AM
+End: 11:55AM
+Bldg/Room: TEP 2202
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Spatt

@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Drama
+Course: 54152
+Title: Video & Media (3 units)
+Units: VAR
+Lec/Sec: H4
+Days: MW
+Begin: 03:30PM
+End: 04:20PM
+Bldg/Room: TBA
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Young

@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Biological Sciences
+Course: 03210
+Title: Independent Study
+Units: 1-12
+Lec/Sec: B4
+Days: TBA
+Begin: 
+End: 
+Bldg/Room: TBA
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Willard

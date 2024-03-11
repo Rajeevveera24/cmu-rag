@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Information Systems:Sch of IS & Mgt
+Course: 95854
+Title: Machine Learning with TABLEAU
+Units: 6.0
+Lec/Sec: Z3
+Days: T
+Begin: 06:30PM
+End: 09:20PM
+Bldg/Room: DNM DNM
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Gongora-Svartzman

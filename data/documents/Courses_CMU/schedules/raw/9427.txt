@@ -1,0 +1,12 @@
+Semester: Summer One/All 2023
+Category: Machine Learning
+Course: 10697
+Title: Reading and Research
+Units: 1-48
+Lec/Sec: R
+Days: TBA
+Begin: 
+End: 
+Bldg/Room: DNM DNM
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Shah

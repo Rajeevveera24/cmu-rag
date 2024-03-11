@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Integrated Innovation Institute
+Course: 49780
+Title: User Experience & Human Computer Interaction
+Units: 6.0
+Lec/Sec: B4
+Days: R
+Begin: 07:30PM
+End: 09:20PM
+Bldg/Room: B23 109
+Location: San Jose, California
+Instructor(s): Prayaga

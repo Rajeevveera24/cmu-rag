@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category:  
+Course: 54621
+Title: Directing
+Units: VAR
+Lec/Sec: A
+Days: MWRF
+Begin: 06:30PM
+End: 10:30PM
+Bldg/Room: TBA
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Weild

@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Information Systems:Sch of IS & Mgt
+Course: 95828
+Title: Machine Learning for Problem Solving
+Units: 12.0
+Lec/Sec: B
+Days: F
+Begin: 02:00PM
+End: 03:20PM
+Bldg/Room: HBH A301
+Instructor(s): Akoglu
+Location: Pittsburgh, Pennsylvania

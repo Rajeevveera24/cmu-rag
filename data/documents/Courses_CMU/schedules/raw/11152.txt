@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category:  
+Course: 15112
+Title: Fundamentals of Programming and Computer Science
+Units: 12.0
+Lec/Sec: L
+Days: W
+Begin: 08:00AM
+End: 08:50AM
+Bldg/Room: WEH 5302
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Taylor, Virtue

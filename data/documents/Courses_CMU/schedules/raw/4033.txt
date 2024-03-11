@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category:  
+Course: 18613
+Title: Foundations of Computer Systems
+Units: 12.0
+Lec/Sec: SA
+Days: W
+Begin: 03:00PM
+End: 03:50PM
+Bldg/Room: B23 211
+Location: San Jose, California
+Instructor(s): Kesden, Kumar

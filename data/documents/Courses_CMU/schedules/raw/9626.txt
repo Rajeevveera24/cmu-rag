@@ -1,0 +1,12 @@
+Semester: Summer Two 2023
+Category: Business Administration
+Course: 70381
+Title: Marketing I
+Units: 9.0
+Lec/Sec: U
+Days: MTWRF
+Begin: 02:00PM
+End: 03:20PM
+Bldg/Room: TEP 2610
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Levy

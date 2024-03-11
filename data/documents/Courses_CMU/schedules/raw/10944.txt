@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category:  
+Course: 09612
+Title: Introduction to Quantum Chemistry
+Units: 6.0
+Lec/Sec: A1
+Days: TR
+Begin: 03:30PM
+End: 04:50PM
+Bldg/Room: MI 448
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Kim

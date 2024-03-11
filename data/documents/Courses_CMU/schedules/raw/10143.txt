@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Biomedical Engineering
+Course: 42302
+Title: TBA
+Units: 9.0
+Lec/Sec: B
+Days: TR
+Begin: 11:00AM
+End: 12:20PM
+Bldg/Room: BH A53
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Chalacheva

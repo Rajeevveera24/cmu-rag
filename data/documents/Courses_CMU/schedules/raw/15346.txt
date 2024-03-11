@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Machine Learning
+Course: 10718
+Title: Machine Learning in Practice
+Units: 12.0
+Lec/Sec: A
+Days: TR
+Begin: 03:30PM
+End: 04:50PM
+Bldg/Room: HOA 160
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Ghani

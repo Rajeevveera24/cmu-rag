@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category:  
+Course: 15451
+Title: Algorithm Design and Analysis
+Units: 12.0
+Lec/Sec: W
+Days: UR
+Begin: 02:30PM
+End: 03:20PM
+Bldg/Room: CMB 2052
+Location: Doha, Qatar
+Instructor(s): Kapoutsis

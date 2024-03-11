@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Human-Computer Interaction
+Course: 05982
+Title: Independent Teaching Experience:
+Units: 9.0
+Lec/Sec: F
+Days:  
+Begin:  
+End:  
+Bldg/Room:  
+Instructor(s): Yao
+Location:  

@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category:  
+Course: 54474
+Title: Production Prep: Lonely Planet:
+Units: VAR
+Lec/Sec: J
+Days: TR
+Begin: 05:00PM
+End: 06:20PM
+Bldg/Room: TBA
+Instructor(s): Brown
+Location: Pittsburgh, Pennsylvania

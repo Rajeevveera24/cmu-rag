@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Information Systems:Sch of IS & Mgt
+Course: 95888
+Title: Data Focused Python
+Units: 6.0
+Lec/Sec: G2
+Days: TR
+Begin: 05:00PM
+End: 06:20PM
+Bldg/Room: HBH 1206
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Ostlund

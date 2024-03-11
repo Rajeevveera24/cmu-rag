@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Information Systems:Sch of IS & Mgt
+Course: 95835
+Title: Time Series Forecasting in Python
+Units: 6.0
+Lec/Sec: A3
+Days: W
+Begin: 06:30PM
+End: 09:20PM
+Bldg/Room: HBH 2003
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Shaikh

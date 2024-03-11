@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: English
+Course: 76836
+Title: Issues in the Discipline
+Units: 9,12
+Lec/Sec: A4
+Days: W
+Begin: 04:00PM
+End: 06:50PM
+Bldg/Room: BH 255B
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Williams

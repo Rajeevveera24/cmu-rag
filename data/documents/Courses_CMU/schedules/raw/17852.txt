@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Physics
+Course: 33340
+Title: Modern Physics Laboratory
+Units: 10.0
+Lec/Sec: Lec
+Days: T
+Begin: 08:00AM
+End: 08:50AM
+Bldg/Room: DH A301D
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Luokkala, Singh

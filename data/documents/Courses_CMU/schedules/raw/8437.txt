@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Public Policy & Mgt:Sch of Pub Pol & Mgt
+Course: 90722
+Title: Management Science I
+Units: 6.0
+Lec/Sec: B3
+Days: TR
+Begin: 02:00PM
+End: 03:20PM
+Bldg/Room: HBH 1002
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Wiberg

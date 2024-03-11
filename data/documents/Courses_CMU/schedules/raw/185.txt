@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Architecture
+Course: 48781
+Title: Spatial Analysis in Infrastructure Planning
+Units: VAR
+Lec/Sec: A
+Days: TBA
+Begin: 
+End: 
+Bldg/Room: DNM DNM
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Kurland

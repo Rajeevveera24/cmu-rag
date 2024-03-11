@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Heinz College Wide Courses
+Course: 94800
+Title: Negotiation
+Units: 6.0
+Lec/Sec: D4
+Days: M
+Begin: 06:30PM
+End: 09:20PM
+Bldg/Room: HBH 1206
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Ciccone

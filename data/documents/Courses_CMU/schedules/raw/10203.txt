@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Business Administration
+Course: 45711
+Title: Global Economics:
+Units: 6.0
+Lec/Sec: O1
+Days:  
+Begin:  
+End:  
+Bldg/Room:  
+Instructor(s): Ales
+Location:  

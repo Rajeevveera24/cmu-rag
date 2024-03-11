@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Language Technologies Institute
+Course: 11929
+Title: Masters Thesis II
+Units: 5-36
+Lec/Sec: BC
+Days: TBA
+Begin: 
+End: 
+Bldg/Room: DNM DNM
+Location: Pittsburgh, Pennsylvania
+Instructor(s): TBA

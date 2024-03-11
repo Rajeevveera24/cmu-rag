@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Information Networking Institute
+Course: 14818
+Title: Special Topics:
+Units: 6.0
+Lec/Sec: A4
+Days:  
+Begin:  
+End:  
+Bldg/Room:  
+Instructor(s): Telang
+Location:  

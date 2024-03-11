@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Physics
+Course: 33342
+Title: Thermal Physics II
+Units: 10.0
+Lec/Sec: A
+Days: R
+Begin: 01:00PM
+End: 01:50PM
+Bldg/Room: WEH 7316
+Instructor(s): Banerjee
+Location: Pittsburgh, Pennsylvania

@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: MCS Interdisciplinary
+Course: 38301
+Title: TBA
+Units: 6.0
+Lec/Sec: W
+Days: UT
+Begin: 02:30PM
+End: 03:45PM
+Bldg/Room: CMB 1190
+Location: Doha, Qatar
+Instructor(s): Bouaouina, Aoun

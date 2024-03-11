@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Architecture
+Course: 48104
+Title: Shop Skills
+Units: VAR
+Lec/Sec: D2
+Days: MW
+Begin: 07:30PM
+End: 08:20PM
+Bldg/Room: CFA A9
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Sontag

@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: MCS Interdisciplinary
+Course: 38304
+Title: Reading and Writing Science
+Units: 6.0
+Lec/Sec: B4
+Days: T
+Begin: 11:00AM
+End: 12:20PM
+Bldg/Room: PH 226A
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Hovis

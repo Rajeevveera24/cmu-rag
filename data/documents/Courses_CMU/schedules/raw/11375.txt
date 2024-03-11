@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category:  
+Course: 15652
+Title: Foundations of Programming Languages:
+Units: 12.0
+Lec/Sec: G
+Days:  
+Begin:  
+End:  
+Bldg/Room:  
+Instructor(s): Anderson, Sleator
+Location:  

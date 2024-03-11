@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Carnegie Mellon University-Wide Studies
+Course: 39699
+Title: Computing@Carnegie Mellon - X4
+Units: 3.0
+Lec/Sec: X4
+Days: TBA
+Begin: 
+End: 
+Bldg/Room: DNM DNM
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Rupp

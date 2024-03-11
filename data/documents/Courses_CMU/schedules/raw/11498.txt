@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Design
+Course: 51481
+Title: Senior Design Studio:
+Units: 12.0
+Lec/Sec: B
+Days:  
+Begin:  
+End:  
+Bldg/Room:  
+Instructor(s): Firos
+Location:  

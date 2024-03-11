@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Psychology
+Course: 85510
+Title: Research in Psychology - Mini
+Units: VAR
+Lec/Sec: A4
+Days: TBA
+Begin: 
+End: 
+Bldg/Room: DNM DNM
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Cox-Boyd

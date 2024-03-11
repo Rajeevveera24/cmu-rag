@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Language Technologies Institute
+Course: 11753
+Title: Advanced Laboratory in Speech Recognition
+Units: 6.0
+Lec/Sec: A
+Days: TBA
+Begin: 
+End: 
+Bldg/Room: TBA
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Instructor TBA

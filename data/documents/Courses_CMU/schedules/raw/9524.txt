@@ -1,0 +1,12 @@
+Semester: Summer One/All 2023
+Category: Physics
+Course: 33998
+Title: Thesis Research
+Units: 1-36
+Lec/Sec: R
+Days: TBA
+Begin: 
+End: 
+Bldg/Room: DNM DNM
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Deserno

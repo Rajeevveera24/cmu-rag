@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Business Administration
+Course: 45990
+Title: Management Game
+Units: 12.0
+Lec/Sec: E
+Days: W
+Begin: 06:30PM
+End: 10:00PM
+Bldg/Room: TEP 2110
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Lamont

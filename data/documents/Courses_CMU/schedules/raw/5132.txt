@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Information Systems Program
+Course: 67391
+Title: Independent Study in Information Systems
+Units: VAR
+Lec/Sec: C4
+Days: TBA
+Begin: 
+End: 
+Bldg/Room: TBA
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Weinberg

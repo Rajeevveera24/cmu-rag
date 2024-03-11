@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Business Administration
+Course: 70122
+Title: Introduction to Accounting
+Units: 9.0
+Lec/Sec: E
+Days: F
+Begin: 03:00PM
+End: 03:50PM
+Bldg/Room: TEP 3801
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Bonaldi

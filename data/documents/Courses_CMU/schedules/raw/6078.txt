@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Mathematical Sciences
+Course: 21301
+Title: Combinatorics
+Units: 9.0
+Lec/Sec: W
+Days: UT
+Begin: 02:30PM
+End: 03:45PM
+Bldg/Room: CMB 2051
+Location: Doha, Qatar
+Instructor(s): Khare

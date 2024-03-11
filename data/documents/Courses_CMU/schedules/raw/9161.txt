@@ -1,0 +1,12 @@
+Semester: Summer One/All 2023
+Category: Business Administration
+Course: 47995
+Title: Graduate Reading & Research
+Units: 12,36
+Lec/Sec: M
+Days: TBA
+Begin: 
+End: 
+Bldg/Room: DNM DNM
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Rapp

@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: CFA Interdisciplinary
+Course: 62241
+Title: Black and White Photography II
+Units: 10.0
+Lec/Sec: A
+Days: TR
+Begin: 02:00PM
+End: 04:50PM
+Bldg/Room: MM B10D
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Gruzska

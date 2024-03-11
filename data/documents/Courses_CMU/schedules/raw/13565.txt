@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category:  
+Course: 18755
+Title: Networks in the Real World
+Units: 12.0
+Lec/Sec: SV
+Days: MW
+Begin: 09:30AM
+End: 10:50AM
+Bldg/Room: B23 227
+Location: San Jose, California
+Instructor(s): Yagan

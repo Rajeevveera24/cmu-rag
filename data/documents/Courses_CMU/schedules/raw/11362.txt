@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category:  
+Course: 15645
+Title: Database Systems:
+Units: 12.0
+Lec/Sec: C
+Days:  
+Begin:  
+End:  
+Bldg/Room:  
+Instructor(s): Sherry
+Location:  

@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Economics
+Course: 73103
+Title: Principles of Macroeconomics
+Units: 9.0
+Lec/Sec: Lec
+Days: MW
+Begin: 01:00PM
+End: 01:50PM
+Bldg/Room: TEP 3801
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Pretnar

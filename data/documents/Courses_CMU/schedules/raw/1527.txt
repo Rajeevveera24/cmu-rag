@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Computer Science
+Course: 15110
+Title: Principles of Computing
+Units: 10.0
+Lec/Sec: H
+Days: R
+Begin: 04:00PM
+End: 04:50PM
+Bldg/Room: GHC 5208
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Rivers

@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category:  
+Course: 54465
+Title: Production Prep: Gloria:
+Units: VAR
+Lec/Sec: C
+Days: S
+Begin: 11:00AM
+End: 03:00PM
+Bldg/Room: TBA
+Instructor(s): Instructor TBA
+Location: Pittsburgh, Pennsylvania

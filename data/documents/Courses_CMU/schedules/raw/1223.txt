@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Carnegie Mellon University-Wide Studies
+Course: 99353
+Title: IDeATe: Design Essentials for Laser Cutting
+Units: 1.0
+Lec/Sec: B3
+Days: S
+Begin: 12:00PM
+End: 03:00PM
+Bldg/Room: HL A5
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Knopf

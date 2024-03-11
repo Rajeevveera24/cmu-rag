@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Information Networking Institute
+Course: 14818
+Title: Special Topics:
+Units: 6.0
+Lec/Sec: SV
+Days:  
+Begin:  
+End:  
+Bldg/Room:  
+Instructor(s): Peca
+Location:  

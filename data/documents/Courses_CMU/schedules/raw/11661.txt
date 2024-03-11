@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Drama
+Course: 54151
+Title: Stagecraft:
+Units: VAR
+Lec/Sec: A1
+Days: S
+Begin: 08:00AM
+End: 11:00PM
+Bldg/Room: TBA
+Instructor(s): Carter
+Location: Pittsburgh, Pennsylvania

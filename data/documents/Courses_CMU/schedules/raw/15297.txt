@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category:  
+Course: 38101
+Title: EUREKA!: Discovery and Its Impact
+Units: 6.0
+Lec/Sec: J
+Days: R
+Begin: 11:00AM
+End: 12:20PM
+Bldg/Room: MI 448
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Doonan

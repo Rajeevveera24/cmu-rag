@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category:  
+Course: 18981
+Title: M.S. Graduate Project, Course Option II
+Units: VAR
+Lec/Sec: A
+Days: TBA
+Begin: 
+End: 
+Bldg/Room: DNM DNM
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Bain

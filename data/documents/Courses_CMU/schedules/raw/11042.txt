@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Civil & Environmental Engineering
+Course: 12751
+Title: Air Quality Engineering:
+Units: 12.0
+Lec/Sec: A1
+Days:  
+Begin:  
+End:  
+Bldg/Room:  
+Instructor(s): Finger
+Location:  

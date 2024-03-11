@@ -1,0 +1,12 @@
+Semester: Summer Two 2023
+Category: Psychology
+Course: 85251
+Title: Personality
+Units: 9.0
+Lec/Sec: U
+Days: MTWRF
+Begin: 09:30AM
+End: 10:50AM
+Bldg/Room: TBA
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Crittenden

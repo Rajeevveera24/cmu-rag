@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Civil & Environmental Engineering
+Course: 12749
+Title: TBA
+Units: 6.0
+Lec/Sec: A4
+Days: MW
+Begin: 12:30PM
+End: 01:50PM
+Bldg/Room: WEH 5421
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Ozis

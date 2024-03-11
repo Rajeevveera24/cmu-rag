@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Architecture
+Course: 48650
+Title: ASO Masters Studio
+Units: 18.0
+Lec/Sec: B
+Days: TR
+Begin: 01:00PM
+End: 04:50PM
+Bldg/Room: MM 312
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Byrne

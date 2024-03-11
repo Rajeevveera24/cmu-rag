@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Architecture
+Course: 48634
+Title: Architectural Theory & Contemporary Issues
+Units: VAR
+Lec/Sec: A
+Days: MW
+Begin: 09:30AM
+End: 10:50AM
+Bldg/Room: CFA 214
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Gutschow

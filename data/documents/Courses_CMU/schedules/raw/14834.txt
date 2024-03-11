@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Information Systems:Sch of IS & Mgt
+Course: 95874
+Title: Agile Methods
+Units: 6.0
+Lec/Sec: Z1
+Days: W
+Begin: 06:30PM
+End: 09:20PM
+Bldg/Room: CMU REMOTE
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Davis

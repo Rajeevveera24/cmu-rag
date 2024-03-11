@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Biological Sciences
+Course: 03545
+Title: Honors Research
+Units: 9.0
+Lec/Sec: L
+Days: TBA
+Begin: 
+End: 
+Bldg/Room: TBA
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Willard, Lanni

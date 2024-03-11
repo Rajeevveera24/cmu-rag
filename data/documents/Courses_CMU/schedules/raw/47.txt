@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Architecture
+Course: 48410
+Title: Advanced Synthesis Options Studio II
+Units: 18.0
+Lec/Sec: F
+Days: TR
+Begin: 01:00PM
+End: 04:50PM
+Bldg/Room: CFA 200
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Hayes

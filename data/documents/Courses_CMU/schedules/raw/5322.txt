@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Information Systems:Sch of IS & Mgt
+Course: 95844
+Title: Introduction to Cyber Intelligence
+Units: 6.0
+Lec/Sec: A4
+Days: R
+Begin: 06:30PM
+End: 09:20PM
+Bldg/Room: HBH 1202
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Scanlon

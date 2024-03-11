@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Architecture
+Course: 48569
+Title: GIS/CAFM
+Units: VAR
+Lec/Sec: A
+Days: TBA
+Begin: 
+End: 
+Bldg/Room: DNM DNM
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Kurland

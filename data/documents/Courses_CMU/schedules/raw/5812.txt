@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: MCS Interdisciplinary
+Course: 38301
+Title: PROPEL:
+Units: 6.0
+Lec/Sec: W3
+Days:  
+Begin:  
+End:  
+Bldg/Room:  
+Instructor(s): Younis
+Location:  

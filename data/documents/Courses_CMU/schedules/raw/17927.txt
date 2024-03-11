@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Psychology
+Course: 85258
+Title: Intro to Health Psychology: Stigma and Its Consequences
+Units: 3.0
+Lec/Sec: W2
+Days: UMTW
+Begin: 06:00PM
+End: 07:30PM
+Bldg/Room: CMB 1199
+Location: Doha, Qatar
+Instructor(s): Trujillo

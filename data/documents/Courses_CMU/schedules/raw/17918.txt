@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Psychology
+Course: 85211
+Title: Cognitive Psychology:
+Units: 9.0
+Lec/Sec: W
+Days: TR
+Begin: 10:00AM
+End: 11:15AM
+Bldg/Room: CMB 3069
+Location: Doha, Qatar
+Instructor(s): Bruder

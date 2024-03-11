@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Business Administration
+Course: 70100
+Title: Global Business:
+Units: 9.0
+Lec/Sec: W
+Days:  
+Begin:  
+End:  
+Bldg/Room:  
+Instructor(s): Farooqi
+Location:  

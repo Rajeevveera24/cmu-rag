@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Physical Education
+Course: 80999
+Title: Badminton
+Units: 1-24
+Lec/Sec: A4
+Days: TR
+Begin: 09:30AM
+End: 10:50AM
+Bldg/Room: CUC W GYM
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Macklin

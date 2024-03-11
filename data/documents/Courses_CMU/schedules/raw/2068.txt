@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category:  
+Course: 54191
+Title: Acting for Non-Majors
+Units: 9.0
+Lec/Sec: C
+Days: TR
+Begin: 09:30AM
+End: 10:50AM
+Bldg/Room: PCA 314
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Cody

@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category:  
+Course: 18653
+Title: Software Design and Architecture
+Units: 12.0
+Lec/Sec: SV
+Days: F
+Begin: 10:00AM
+End: 10:50AM
+Bldg/Room: B23 227
+Instructor(s): da Silva Sousa
+Location: San Jose, California

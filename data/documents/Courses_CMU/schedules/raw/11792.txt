@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category:  
+Course: 54301
+Title: JPP Project 2: Chalk Circle
+Units: 3,4,6,9
+Lec/Sec: B1
+Days: MTWRF
+Begin: 06:30PM
+End: 10:30PM
+Bldg/Room: TBA
+Location: Pittsburgh, Pennsylvania
+Instructor(s): McKay

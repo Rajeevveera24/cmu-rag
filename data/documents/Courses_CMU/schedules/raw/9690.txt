@@ -1,0 +1,12 @@
+Semester: Summer Two 2023
+Category: Psychology
+Course: 85241
+Title: Social Psychology
+Units: 9.0
+Lec/Sec: U
+Days: MTWRF
+Begin: 02:00PM
+End: 03:20PM
+Bldg/Room: BH A36
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Cox-Boyd

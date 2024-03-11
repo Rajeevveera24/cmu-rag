@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Human-Computer Interaction
+Course: 05660
+Title: Interaction Design for Human-Computer Interactionq
+Units: 12.0
+Lec/Sec: E
+Days: TR
+Begin: 05:00PM
+End: 07:20PM
+Bldg/Room: 4SC 104
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Shelly, Beck

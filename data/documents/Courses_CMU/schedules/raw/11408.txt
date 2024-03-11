@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category:  
+Course: 15816
+Title: Advanced Topics in Logic: Automated Reasoning and Satisfiability
+Units: 12.0
+Lec/Sec: C
+Days: MW
+Begin: 09:30AM
+End: 10:50AM
+Bldg/Room: GHC 4101
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Heule

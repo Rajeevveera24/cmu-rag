@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category:  
+Course: 54420
+Title: Lighting Production
+Units: VAR
+Lec/Sec: J
+Days: MTWRF
+Begin: 06:30PM
+End: 10:30PM
+Bldg/Room: TBA
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Brown

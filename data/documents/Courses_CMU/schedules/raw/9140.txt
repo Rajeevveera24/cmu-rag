@@ -1,0 +1,12 @@
+Semester: Summer One/All 2023
+Category: Biological Sciences
+Course: 03700
+Title: MS Thesis Research
+Units: 6-36
+Lec/Sec: R
+Days: TBA
+Begin: 
+End: 
+Bldg/Room: TBA
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Brasier

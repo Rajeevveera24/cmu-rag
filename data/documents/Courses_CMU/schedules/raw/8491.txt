@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Public Policy & Mgt:Sch of Pub Pol & Mgt
+Course: 90755
+Title: Optimization
+Units: 6.0
+Lec/Sec: A3
+Days: F
+Begin: 09:30AM
+End: 10:50AM
+Bldg/Room: HBH A301
+Instructor(s): Caulkins
+Location: Pittsburgh, Pennsylvania

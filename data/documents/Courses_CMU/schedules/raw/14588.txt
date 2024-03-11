@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Information Systems Program
+Course: 67331
+Title: Technology Consulting in the Global Community
+Units: VAR
+Lec/Sec: A2
+Days: TBA
+Begin: 
+End: 
+Bldg/Room: TBA
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Mertz

@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Information & Communication Technology
+Course: 04608
+Title: Advanced Academic Skills for Engineers I
+Units: 6.0
+Lec/Sec: B
+Days: T
+Begin: 08:00AM
+End: 09:50AM
+Bldg/Room: CMR F309
+Location: Kigali, Rwanda
+Instructor(s): Lee

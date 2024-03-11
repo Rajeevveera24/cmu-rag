@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: Information Systems:Sch of IS & Mgt
+Course: 95718
+Title: Professional Speaking
+Units: 6.0
+Lec/Sec: E2
+Days: TR
+Begin: 11:00AM
+End: 12:20PM
+Bldg/Room: HBH 1004
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Labash

@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Statistics and Data Science
+Course: 36997
+Title: Practicum in Statistics
+Units: 1-36
+Lec/Sec: A
+Days: TBA
+Begin: 
+End: 
+Bldg/Room: TBA
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Lee, Ventura

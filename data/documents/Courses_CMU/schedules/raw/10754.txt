@@ -1,0 +1,12 @@
+Semester: Fall 2023
+Category: CIT Interdisciplinary
+Course: 39613
+Title: Energy Transport and Storage:
+Units: 6.0
+Lec/Sec: A1
+Days:  
+Begin:  
+End:  
+Bldg/Room:  
+Instructor(s): Salvador
+Location:  

@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: CFA Interdisciplinary
+Course: 62344
+Title: TBA
+Units: 3.0
+Lec/Sec: A
+Days: U
+Begin: 03:00PM
+End: 06:00PM
+Bldg/Room: OFF CAMPUS
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Mcgowan

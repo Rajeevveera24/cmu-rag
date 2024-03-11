@@ -1,0 +1,12 @@
+Semester: Spring 2024
+Category: Mechanical Engineering
+Course: 24204
+Title: Special Topics: Maker Series: Intro to Metal Jewelry
+Units: 3.0
+Lec/Sec: P3
+Days: F
+Begin: 04:00PM
+End: 05:50PM
+Bldg/Room: ANS C03
+Location: Pittsburgh, Pennsylvania
+Instructor(s): Hitchcock
