@@ -64,6 +64,26 @@ def write_to_file(f, text):
 
 
 
+def days(day_str):
+    day_str = day_str.strip()
+    if day_str == "MWF":
+        return "Monday, Wednesday, Friday"
+    elif day_str == "TR":
+        return "Tuesday, Thursday"
+    elif day_str == "MW":
+        return "Monday, Wednesday"
+    elif day_str == "F":
+        return "Friday"
+    elif day_str == "M":
+        return "Monday"
+    elif day_str == "T":
+        return "Tuesday"
+    elif day_str == "W":
+        return "Wednesday"
+    elif day_str == "R":
+        return "Thursday"
+    else:
+        return day_str
 
 if __name__ == "__main__":
     # parse_schedule(
@@ -92,7 +112,7 @@ if __name__ == "__main__":
             lines = f.readlines()
             keys = [line.split(':')[0] for line in lines]
             assert len(keys) == len(set(keys))
-            values = [line.split(':')[1].rstrip('\n') for line in lines]
+            values = [''.join(line.split(':')[1:]).rstrip('\n') for line in lines]
             assert len(values) == len(keys)
             dct = {}
             for key, value in zip(keys, values):
@@ -100,7 +120,13 @@ if __name__ == "__main__":
             dct_list.append(dct)
     with open(FILE_DIR + 'csv/' + 'schedules.json', 'w') as f:
         json.dump(dct_list, f, indent=4)
-
+    with open(FILE_DIR + 'txt/' + 'schedules.txt', 'w') as f:
+        for dct in dct_list:
+            assert len(dct.keys()) == 12
+            write_str = dct["Instructor(s)"] + " teaches course number " + dct["Course"] + " titled " + dct["Title"] + " in semester " + dct["Semester"]
+            write_str += " under category " + dct["Category"] + " with section " + dct["Lec/Sec"] + ". The course is of " + dct["Units"] + " units and is taught on days: "
+            write_str += days(dct["Days"]) + " in " + dct["Bldg/Room"] + " located at " + dct["Location"] + ". " + "The course begins at " + dct["Begin"] + " and ends at " + dct["End"] + "." 
+            f.write(write_str + "\n")
         
 
                 
