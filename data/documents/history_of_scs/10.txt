@@ -1,2 +1,0 @@
-10. Mach kernel, 1985
-In computer parlance, a “kernel” is the heart of an operating system, passing input and output requests to and from the processor. At the core of all modern Apple devices --- including iPhones, iPads and MacBooks --- is the Mach kernel, developed at CMU under the leadership of then-professor Rick Rashid.

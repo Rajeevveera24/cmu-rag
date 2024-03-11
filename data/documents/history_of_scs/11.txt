@@ -1,2 +1,0 @@
-11. Computer chess, 1990
-Could a computer play chess at the level of the world’s best players? For many years, it was considered the “holy grail” of artificial intelligence. Hitech, developed by CMU researcher Hans Berliner (CS’74), was the first computer to achieve grandmaster status. CMU alumni played key roles in developing “Deep Blue,” the IBM machine that beat human chess champion Garry Kasparov in 1997.

@@ -1,2 +1,0 @@
-19. Thought reading programs, 2007
-Your brain reacts in different ways, depending on what words you’re thinking about --- ways that are measurable with magnetic-resonance imaging, or MRI, machines. CMU researchers Tom Mitchell and Marcel Just are decoding those brain scans and are making progress at reading people’s thoughts.

@@ -1,2 +1,0 @@
-17. Robotic video cameras, 2001
-When Baltimore Ravens quarterback Trent Dilfer dropped back to pass, TV viewers of Super Bowl XXXV saw something they’d never seen before --- the motion froze and the view suddenly rotated to show Dilfer’s opposite side. CBS called it Eyevision. The synchronized system of robotic cameras and advanced image processing was the brainchild of CMU’s Takeo Kanade, one of many advances he pioneered in computer vision.

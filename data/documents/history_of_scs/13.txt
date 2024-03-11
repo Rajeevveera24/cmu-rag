@@ -1,2 +1,0 @@
-13. Email attachments, 1992
-Steve Jobs liked the email system built into CMU’s Andrew so much that he tried to hire Nathaniel Borenstein (CS’81,’85) and the rest of his team to create a similar program for Apple. Borenstein didn’t take the offer, but he did like Jobs’ idea about attaching documents to email. Borenstein went on to develop the MIME standard that’s used by all email programs to send photos and other files over the Internet.

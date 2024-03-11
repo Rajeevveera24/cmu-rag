@@ -1,2 +1,0 @@
-20. Kidney donor matching, 2008
-Organ transplants save lives every day, but more people could likely be saved if it was easier to match recipients with donors who are unrelated. An algorithm developed by CMU scientists is close to enabling a nationwide network that would match living kidney donors with potential recipients whom they've never met in real life.

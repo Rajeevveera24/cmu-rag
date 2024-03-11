@@ -1,2 +1,0 @@
-6. Andrew project, 1982
-It was long the dream of computer scientists to put a workstation in every home and office, but no one had actually tried to accomplish it until researchers from Carnegie Mellon University and IBM launched the Andrew Project. Soon, every student, faculty member and employee had access to email, word processing, file-transfer services and graphics programs, and CMU was the most-wired campus in the world.

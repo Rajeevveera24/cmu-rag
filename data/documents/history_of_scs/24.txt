@@ -1,2 +1,0 @@
-24. Encrypting online information, 2012
-Credit card numbers and other data used online is safer thanks to an encryption scheme developed by CMU alumna Shafi Goldwasser (S’79). She shared the 2012 Turing Award for her role in developing practical encoding schemes that are difficult to break.
