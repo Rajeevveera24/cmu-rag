@@ -123,9 +123,9 @@ if __name__ == "__main__":
     with open(FILE_DIR + 'txt/' + 'schedules.txt', 'w') as f:
         for dct in dct_list:
             assert len(dct.keys()) == 12
-            write_str = dct["Instructor(s)"] + " teaches course number " + dct["Course"] + " titled " + dct["Title"] + " in semester " + dct["Semester"]
-            write_str += " under category " + dct["Category"] + " with section " + dct["Lec/Sec"] + ". The course is of " + dct["Units"] + " units and is taught on days: "
-            write_str += days(dct["Days"]) + " in " + dct["Bldg/Room"] + " located at " + dct["Location"] + ". " + "The course begins at " + dct["Begin"] + " and ends at " + dct["End"] + "." 
+            write_str = "Instructor " + dct["Instructor(s)"] + " teaches course number " + dct["Course"] + " ,titled \'" + dct["Title"] + "\' in semester " + dct["Semester"]
+            write_str += ", under the category/department of " + dct["Category"] + ", for section " + dct["Lec/Sec"] + ". The course consists of " + dct["Units"] + " units and is taught on the following days: "
+            write_str += days(dct["Days"]) + " in the building \'" + dct["Bldg/Room"] + "\', which is located at " + dct["Location"] + ". " + "The course begins at " + dct["Begin"] + " and ends at " + dct["End"] + "." 
             f.write(write_str + "\n")
         
 
