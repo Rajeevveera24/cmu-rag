@@ -1,3 +1,5 @@
+{
+    "List of Papers Published by Faculty at LTI (which stands for Language Technolgies Institute) department at CMU":
 [
     {
         "Title": " SPAE Semantic Pyramid AutoEncoder for Multimodal Generation with Frozen LLMs",
@@ -2395,3 +2397,4 @@
         "Summary": " Not Available"
     }
 ]
+}
