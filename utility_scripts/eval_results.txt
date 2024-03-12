@@ -1,0 +1,47 @@
+BGE Embeddings - Text only data set - History Questions
+
+gemma-text-only-answers.txt mean f1 score: 0.048
+gemma-text-only-answers.txt mean rouge score: 0.04573667337074294
+gemma-text-only-answers.txt mean exact match score: 0.0
+gemma-text-only-answers.txt mean recall score: 0.138
+gemma-text-only-answers.txt mean precision score: 0.03
+
+llama2-text-only-answers.txt mean f1 score: 0.1948
+llama2-text-only-answers.txt mean rouge score: 0.11217578356505432
+llama2-text-only-answers.txt mean exact match score: 0.0
+llama2-text-only-answers.txt mean recall score: 0.4476
+llama2-text-only-answers.txt mean precision score: 0.14239999999999997
+
+mistral-text-only-answers.txt mean f1 score: 0.1012
+mistral-text-only-answers.txt mean rouge score: 0.0779819674636879
+mistral-text-only-answers.txt mean exact match score: 0.0
+mistral-text-only-answers.txt mean recall score: 0.17679999999999998
+mistral-text-only-answers.txt mean precision score: 0.0724
+
+neural-chat-text-only-answers.txt mean f1 score: 0.1612
+neural-chat-text-only-answers.txt mean rouge score: 0.12019324329421584
+neural-chat-text-only-answers.txt mean exact match score: 0.0
+neural-chat-text-only-answers.txt mean recall score: 0.31
+neural-chat-text-only-answers.txt mean precision score: 0.1204
+
+openchat-text-only-answers.txt mean f1 score: 0.1284
+openchat-text-only-answers.txt mean rouge score: 0.1002392761326715
+openchat-text-only-answers.txt mean exact match score: 0.0
+openchat-text-only-answers.txt mean recall score: 0.188
+openchat-text-only-answers.txt mean precision score: 0.11520000000000001
+
+tinyllama-text-only-answers.txt mean f1 score: 0.0432
+tinyllama-text-only-answers.txt mean rouge score: 0.03751510322207582
+tinyllama-text-only-answers.txt mean exact match score: 0.0
+tinyllama-text-only-answers.txt mean recall score: 0.3124
+tinyllama-text-only-answers.txt mean precision score: 0.023200000000000002
+
+bge-large-en-text-only-answers.txt mean f1 score: 0.19119999999999998
+bge-large-en-text-only-answers.txt mean rouge score: 0.11805071702320068
+bge-large-en-text-only-answers.txt mean exact match score: 0.04
+bge-large-en-text-only-answers.txt mean recall score: 0.29919999999999997
+bge-large-en-text-only-answers.txt mean precision score: 0.162
+
+
+==========================================================================================
+

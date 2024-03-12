@@ -14,8 +14,8 @@ from langchain import hub
 from chromadb.errors import InvalidDimensionException
 
 DATABASE_PATH = '/home/raj/nlp/cmu-rag/chroma_vector_database/'
-MODEL_NAMES = ['tinyllama', 'llama2', 'gemma', 'mistral', 'neural-chat', 'openchat']
-VECTOR_STORE_DIRECTORIES = [DATABASE_PATH + embedding_name for embedding_name in MODEL_NAMES]
+MODEL_NAMES = ['tinyllama', 'llama2', 'gemma', 'mistral', 'neural-chat', 'openchat', 'everythinglm']
+VECTOR_STORE_DIRECTORIES = [DATABASE_PATH + embedding_name for embedding_name in MODEL_NAMES] # Not relevant anymore
 ANNOTATION_DIR = '/home/raj/nlp/cmu-rag/rveerara/system_outputs/'
 ANNOTATION_FILE = ANNOTATION_DIR + 'questions.txt'
 PROMPT_MESSAGE_LLAMA2 = """You are an assistant for question-answering tasks. Use the following pieces of retrieved context to answer the question. If you don't know the answer, just say that you don't know. Use as few words as possible and keep the answer concise. Do not mention the context in your response.
@@ -164,7 +164,7 @@ if __name__ == "__main__":
     # annotation_dir = '/home/raj/nlp/cmu-rag/rveerara/system_outputs/'
     annotation_dir = '/home/raj/nlp/cmu-rag/rveerara/data/test/history/'
     q_file = annotation_dir + 'questions.txt'
-    a_file = annotation_dir + 'bge-large-en-text-only-answers.txt'
+    a_file = annotation_dir + 'llama2-text-only-answers.txt'
     # q_file, a_file = None, None
     # try:
     #     annotation_dir, q_file, a_file = parse_args()
@@ -172,8 +172,25 @@ if __name__ == "__main__":
     #     print("Error parsing arguments: ", e)
     #     print("Using default file names")
     #     exit(1)
-    do_rag_in_chunks(vector_store_path=DATABASE_PATH+'bge-large-en-text-only',
-        model_name='llama2',
-        questions_file_name=q_file,
-        answers_file_name=a_file)
+    # do_rag_in_chunks(vector_store_path=DATABASE_PATH+'llama2-text-only',
+    #     embedding_model=OllamaEmbeddings(model='llama2'),
+    #     model_name='llama2',
+    #     questions_file_name=q_file,
+    #     answers_file_name=a_file)
+    
+    for model in MODEL_NAMES:
+        print("Processing model: ", model)
+        do_rag_in_chunks(
+            embedding_model=get_hugging_face_embedding_model(),
+            model_name=model,
+            questions_file_name=q_file,
+            answers_file_name=annotation_dir+model+'-BGE-text-only-answers.txt',
+            append=True)
+        do_rag_in_chunks(
+            vector_store_path=DATABASE_PATH+'llama2-text-only',
+            embedding_model=OllamaEmbeddings(model='llama2'),
+            model_name=model,
+            questions_file_name=q_file,
+            answers_file_name=annotation_dir+model+'-LLAMA2-text-only-answers.txt',
+            append=True)
     print("Done")

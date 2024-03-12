@@ -52,6 +52,33 @@ def f1(prediction, ground_truth, normalize_fn):
     f1 = (2 * precision * recall) / (precision + recall)
     return round(f1, 2)
 
+def precision(prediction, ground_truth, normalize_fn):
+    prediction_tokens = normalize_fn(prediction).split()
+    ground_truth_tokens = normalize_fn(ground_truth).split()
+    common = Counter(prediction_tokens) & Counter(ground_truth_tokens)
+    num_same = sum(common.values())
+
+    if num_same == 0:
+        return 0
+    precision = round(1.0 * num_same / len(prediction_tokens), 2)
+    return precision
+
+def recall(prediction, ground_truth, normalize_fn):
+    prediction_tokens = normalize_fn(prediction).split()
+    ground_truth_tokens = normalize_fn(ground_truth).split()
+    common = Counter(prediction_tokens) & Counter(ground_truth_tokens)
+    num_same = sum(common.values())
+
+    if num_same == 0:
+        return 0
+    recall = round(1.0 * num_same / len(ground_truth_tokens), 2)
+    return recall
+
+def precision_score(prediction, ground_truths, normalize_fn: Callable[[str], str] = lambda x: x):
+    return max([precision(prediction, gt, normalize_fn) for gt in ground_truths])
+
+def recall_score(prediction, ground_truths, normalize_fn: Callable[[str], str] = lambda x: x):
+    return max([recall(prediction, gt, normalize_fn) for gt in ground_truths])
 
 def rouge_wrapper(prediction, ground_truth):
     try:
@@ -82,40 +109,64 @@ def rouge_score(prediction, ground_truths):
     return rouge1, rouge2, rougel
 
 if __name__ == "__main__":
-    
-    file_gold, file_1, file_2 = 'reference_answers.txt', 'llama2_answers.txt', 'bge-large-en-text-only-answers.txt'
+
+    file_gold, file_1, file_2 = 'reference_answers.txt', 'llama2-text-only-answers.txt', 'bge-large-en-text-only-answers.txt'
+
+    answer_files = ['gemma', 'llama2', 'mistral', 'neural-chat', 'openchat', 'tinyllama']
+    files_eval = [f"{f}-text-only-answers.txt" for f in answer_files]
+    files_eval.append('bge-large-en-text-only-answers.txt')
+    # files_eval = ['llama2-text-only-answers.txt', 'bge-large-en-text-only-answers.txt']
 
     with open(f"{FILE_DIR}/{file_gold}", 'r') as f:
         gold = f.readlines()
-    with open(f"{FILE_DIR}/{file_1}", 'r') as f:
-        sys1 = f.readlines()
-    with open(f"{FILE_DIR}/{file_2}", 'r') as f:
-        sys2 = f.readlines()
-
-    gold = [x.strip() for x in gold]
-    sys1 = [x.strip() for x in sys1]
-    sys2 = [x.strip() for x in sys2]
-
-    assert len(gold) == len(sys1)
-    assert len(gold) == len(sys2)
-
     ground_truths = []
     for g in gold:
         ground_truths.append([g_.strip() for g_ in g.split(';')])
-    
-    sys1_scores, sys2_scores= [],[]
+    gold = [x.strip() for x in gold]
 
-    for i in range(len(gold)):
-        sys1_score = f1_score(sys1[i], ground_truths[i], normalize_fn=normalize_answer)
-        sys2_score = f1_score(sys2[i], ground_truths[i], normalize_fn=normalize_answer)
-        sys1_scores.append(sys1_score)
-        sys2_scores.append(sys2_score)
+    scores_dict = {k : {} for k in files_eval}
+
+    for file in files_eval:
+        with open(f"{FILE_DIR}/{file}", 'r') as f:
+            sys = f.readlines()
+        sys = [x.strip() for x in sys]
+
+        assert len(gold) == len(sys), f"Length of gold and sys do not match for {file} with {len(gold)} and {len(sys)} respectively."
+
+        scores_f1 = []
+        scores_rogue = []
+        scores_em = []
+        scores_recall = []
+        scores_precision = []
+
+        for i in range(len(gold)):
+            score_f1 = f1_score(sys[i], ground_truths[i], normalize_fn=normalize_answer)
+            scores_f1.append(score_f1)
+            score_rogue = rouge_score(sys[i], ground_truths[i])
+            scores_rogue.append(score_rogue)
+            score_em = exact_match_score(sys[i], ground_truths[i], normalize_fn=normalize_answer)
+            scores_em.append(score_em)
+            score_recall = recall_score(sys[i], ground_truths[i], normalize_fn=normalize_answer)
+            scores_recall.append(score_recall)
+            score_precision = precision_score(sys[i], ground_truths[i], normalize_fn=normalize_answer)
+            scores_precision.append(score_precision)
+        
+        scores_dict[file]["f1"] = np.mean(scores_f1)
+        scores_dict[file]["rogue"] = np.mean(scores_rogue)
+        scores_dict[file]["em"] =   np.mean(scores_em)
+        scores_dict[file]["recall"] =       np.mean(scores_recall)
+        scores_dict[file]["precision"] =            np.mean(scores_precision)
     
-    sys1_scores.sort()
-    sys2_scores.sort()
-    print(sys1_scores)
-    print(np.mean(sys1_scores))
-    print(np.mean(sys2_scores))
+        print(f"{file} mean f1 score: {np.mean(scores_f1)}")
+        print(f"{file} mean rouge score: {np.mean(scores_rogue)}")
+        print(f"{file} mean exact match score: {np.mean(scores_em)}")
+        print(f"{file} mean recall score: {np.mean(scores_recall)}")
+        print(f"{file} mean precision score: {np.mean(scores_precision)}")
+
+    print(scores_dict)
+    
+
+
 
 
 
