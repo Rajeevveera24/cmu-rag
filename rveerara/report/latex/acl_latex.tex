@@ -67,15 +67,23 @@ The academic calendars for 2022-23 and 2023-24 were downloaded as PDFs and parse
 A total of 115 test annotation pairs were created manually - 31 for the history and events category, 15 for the LTI program handbook category, 30 for the CMU courses category, 20 for the LTI faculty category, and 19 for the LTI faculty research category.
 This split covered the different types of data collected, and the different types of questions that could be asked on them. No train annotations were created, since there was no fine tuning or few shot prompting being performed. The annotations were used to select the best models and embeddings.
 All the reference answers were kept down to 5 words with multiple variations being accepted (eg - 11711; 11-711; 11711 course; 11-711 course; 11711 course at CMU; 11-711 course at CMU etc). Reference answers were kept as short as possible with the goal of selecting a model that gave concise answers (to maintain the F1 score), while maintaining recall.
-\\ What sort of annotation interface did you use?
 \\ How did you estimate the quality of your annotations? (IAA)
-
-\subsection{}
-
-To produce a PDF file, pdf\LaTeX{} is strongly recommended (over original \LaTeX{} plus dvips+ps2pdf or dvipdf). Xe\LaTeX{} also produces PDF files, and is especially suitable for text in non-Latin scripts.
 
 \section{Model Details}
 
+\subsection{Constraints}
+The RAG system was built on a GCP compute instance - n1-highmem-4 with 4 core CPU, 1 NVIDIA T4 GPU, 26 GB RAM, and 160 GB SSD. This influenced the choice of inference and embedding models.
+Langchain was used to build the embedder and retriever modules due to its ease of use and integrations available.
+\subsection{Embedding Models and Vector Store}
+I chose to use the bge-large-en-v1.5 BGE embedding model as it is an established model in the top 15 of the MTEB leader board. Further, the v1.5 model update embedding model: release bge-*-v1.5 embedding model alleviates the issue of the similarity distribution and has ehanced retrieval ability without instruction, compared to earlier bge models.
+\\
+I experimented with the chunk sizes for both embeddings to find out the which size fits best.
+I used recursive chunking for greater granularity and variety of text, varying the chunk overlap between 0.1 and 0.4 times the size of the chunk size to see what effect the overlap had on the retrieval results.  The embeddings were stored in a Chroma vector database due to its support for multiple formats and ease of use for a first time user.
+\\
+I also evaluated llama2-7b embeddings and compared the two sets of embeddings to see which one gave better results. My hypothesis was that the llama2-7b embeddings along with the llama2-7b model for inference would provide comparable results to using the BGE embedding with llama2-7b and similar sized models.
+\subsection{Inference Models}
+I used the following suite of open source models available with Ollama: llama2-7b, mistral, open-chat and neural-chat. I expected the 4 models to give different performances across the metrics measured while all being light weight enough to run locally with a reasonable infernce time.
+Among the 4 models, I expected to choose 2 for the final unseen test set submission, based on their relative peformance F1, recall and exact match. I did not expect any of these models to do very well at exact matching as they are all chat models.
 
 % The first line of the file must be
 % \begin{quote}
