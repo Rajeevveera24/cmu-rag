@@ -1,4 +1,4 @@
-Text only - History Questions - 31
+Text only - History Questions - [31 questions]
 
 llama2-BGE-text-only-answers.txt mean f1 score: 14.799999999999999
 llama2-BGE-text-only-answers.txt mean rouge score: 10.6
@@ -91,23 +91,11 @@ tinyllama-LLAMA2-text-only-answers.txt mean precision score: 1.9
 
 Text Only - LTI Program Handbook MS AII [15 questions]
 
-gemma-BGE-text-only-answers.txt mean f1 score: 8.7
-gemma-BGE-text-only-answers.txt mean rouge score: 6.4
-gemma-BGE-text-only-answers.txt mean exact match score: 0.0
-gemma-BGE-text-only-answers.txt mean recall score: 35.5
-gemma-BGE-text-only-answers.txt mean precision score: 5.8999999999999995
-
 llama2-BGE-text-only-answers.txt mean f1 score: 24.7
 llama2-BGE-text-only-answers.txt mean rouge score: 19.0
 llama2-BGE-text-only-answers.txt mean exact match score: 6.7
 llama2-BGE-text-only-answers.txt mean recall score: 55.50000000000001
 llama2-BGE-text-only-answers.txt mean precision score: 18.8
-
-mistral-BGE-text-only-answers.txt mean f1 score: 14.899999999999999
-mistral-BGE-text-only-answers.txt mean rouge score: 12.0
-mistral-BGE-text-only-answers.txt mean exact match score: 0.0
-mistral-BGE-text-only-answers.txt mean recall score: 60.0
-mistral-BGE-text-only-answers.txt mean precision score: 9.4
 
 neural-chat-BGE-text-only-answers.txt mean f1 score: 19.5
 neural-chat-BGE-text-only-answers.txt mean rouge score: 14.6
@@ -121,11 +109,17 @@ openchat-BGE-text-only-answers.txt mean exact match score: 13.3
 openchat-BGE-text-only-answers.txt mean recall score: 43.3
 openchat-BGE-text-only-answers.txt mean precision score: 17.5
 
-tinyllama-BGE-text-only-answers.txt mean f1 score: 5.3
-tinyllama-BGE-text-only-answers.txt mean rouge score: 3.5999999999999996
-tinyllama-BGE-text-only-answers.txt mean exact match score: 0.0
-tinyllama-BGE-text-only-answers.txt mean recall score: 44.1
-tinyllama-BGE-text-only-answers.txt mean precision score: 3.1
+mistral-BGE-text-only-answers.txt mean f1 score: 14.899999999999999
+mistral-BGE-text-only-answers.txt mean rouge score: 12.0
+mistral-BGE-text-only-answers.txt mean exact match score: 0.0
+mistral-BGE-text-only-answers.txt mean recall score: 60.0
+mistral-BGE-text-only-answers.txt mean precision score: 9.4
+
+gemma-BGE-text-only-answers.txt mean f1 score: 8.7
+gemma-BGE-text-only-answers.txt mean rouge score: 6.4
+gemma-BGE-text-only-answers.txt mean exact match score: 0.0
+gemma-BGE-text-only-answers.txt mean recall score: 35.5
+gemma-BGE-text-only-answers.txt mean precision score: 5.8999999999999995
 
 everythinglm-BGE-text-only-answers.txt mean f1 score: 6.9
 everythinglm-BGE-text-only-answers.txt mean rouge score: 6.2
@@ -133,11 +127,12 @@ everythinglm-BGE-text-only-answers.txt mean exact match score: 0.0
 everythinglm-BGE-text-only-answers.txt mean recall score: 35.9
 everythinglm-BGE-text-only-answers.txt mean precision score: 5.0
 
-gemma-LLAMA2-text-only-answers.txt mean f1 score: 4.3
-gemma-LLAMA2-text-only-answers.txt mean rouge score: 2.9000000000000004
-gemma-LLAMA2-text-only-answers.txt mean exact match score: 0.0
-gemma-LLAMA2-text-only-answers.txt mean recall score: 25.2
-gemma-LLAMA2-text-only-answers.txt mean precision score: 2.3
+tinyllama-BGE-text-only-answers.txt mean f1 score: 5.3
+tinyllama-BGE-text-only-answers.txt mean rouge score: 3.5999999999999996
+tinyllama-BGE-text-only-answers.txt mean exact match score: 0.0
+tinyllama-BGE-text-only-answers.txt mean recall score: 44.1
+tinyllama-BGE-text-only-answers.txt mean precision score: 3.1
+
 
 llama2-LLAMA2-text-only-answers.txt mean f1 score: 16.3
 llama2-LLAMA2-text-only-answers.txt mean rouge score: 9.9
@@ -150,6 +145,12 @@ mistral-LLAMA2-text-only-answers.txt mean rouge score: 6.0
 mistral-LLAMA2-text-only-answers.txt mean exact match score: 6.7
 mistral-LLAMA2-text-only-answers.txt mean recall score: 35.3
 mistral-LLAMA2-text-only-answers.txt mean precision score: 10.100000000000001
+
+gemma-LLAMA2-text-only-answers.txt mean f1 score: 4.3
+gemma-LLAMA2-text-only-answers.txt mean rouge score: 2.9000000000000004
+gemma-LLAMA2-text-only-answers.txt mean exact match score: 0.0
+gemma-LLAMA2-text-only-answers.txt mean recall score: 25.2
+gemma-LLAMA2-text-only-answers.txt mean precision score: 2.3
 
 neural-chat-LLAMA2-text-only-answers.txt mean f1 score: 8.1
 neural-chat-LLAMA2-text-only-answers.txt mean rouge score: 4.6
@@ -174,3 +175,6 @@ everythinglm-LLAMA2-text-only-answers.txt mean rouge score: 2.9000000000000004
 everythinglm-LLAMA2-text-only-answers.txt mean exact match score: 0.0
 everythinglm-LLAMA2-text-only-answers.txt mean recall score: 26.3
 everythinglm-LLAMA2-text-only-answers.txt mean precision score: 3.3000000000000003
+
+==================================================================================================================
+
