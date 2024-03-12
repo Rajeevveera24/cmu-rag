@@ -162,7 +162,7 @@ def do_rag_in_chunks(vector_store_path=DATABASE_PATH+'bge-large-en-text-only',
 
 if __name__ == "__main__":
     # annotation_dir = '/home/raj/nlp/cmu-rag/rveerara/system_outputs/'
-    annotation_dir = '/home/raj/nlp/cmu-rag/rveerara/data/test/history/'
+    annotation_dir = '/home/raj/nlp/cmu-rag/rveerara/data/test/acads_lti/handbook/'
     q_file = annotation_dir + 'questions.txt'
     a_file = annotation_dir + 'llama2-text-only-answers.txt'
     # q_file, a_file = None, None
@@ -184,13 +184,11 @@ if __name__ == "__main__":
             embedding_model=get_hugging_face_embedding_model(),
             model_name=model,
             questions_file_name=q_file,
-            answers_file_name=annotation_dir+model+'-BGE-text-only-answers.txt',
-            append=True)
+            answers_file_name=annotation_dir+model+'-BGE-text-only-answers.txt',)
         do_rag_in_chunks(
             vector_store_path=DATABASE_PATH+'llama2-text-only',
             embedding_model=OllamaEmbeddings(model='llama2'),
             model_name=model,
             questions_file_name=q_file,
-            answers_file_name=annotation_dir+model+'-LLAMA2-text-only-answers.txt',
-            append=True)
+            answers_file_name=annotation_dir+model+'-LLAMA2-text-only-answers.txt',)
     print("Done")

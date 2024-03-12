@@ -1,0 +1,15 @@
+The MS AI students can take the following courses in the summer before entering CMU:  * 10-605, Machine Learning with Large Data sets (12 units) * 11-611, Natural Language Processing (12 units) * 11-785, Deep Learning (12 units)
+The course number for the capstone project for MS-AII students is 54471.
+The answer to the question "How many minimum elective units should MS AII students take?" is 12 units.
+The course number for the summer internship course that MS AII students must enroll in is not specified in the provided context. However, based on the information provided, it appears that students are required to take electives outside of the SCS department to fulfill the "SCS" course requirement. The Program Director will review and approve these electives as "SCS courses." Students must pass at least 96 units of graduate-level courses, satisfy proficiencies in writing, presentation, programming, and teaching, and propose, write, and defend a Ph.D. dissertation (thesis). Additionally, there are employment requirements that students should be aware of.
+The organization that advocates for the diverse interests of all graduate students at Carnegie Mellon University (CMU) is the Graduate Student Association (GSA).
+The course required for MS AII students to be eligible to take course 11695 is SCS 9600.
+The question being asked is "At what QPA will a student in MS AII be placed in academic probation?" 
+Two core courses in the MS AII program are open only to MS AII students:  * 10-605, Machine Learning with Large Data sets (offered in the first spring semester) * 11-785, Deep Learning (offered in the second spring semester)
+Two core courses in the MS AII program cannot be taken by a student in the MCDS program: 10-605 Machine Learning with Large Data sets and 11-785 Deep Learning.
+The MS AI students are required to complete at least 96 units of graduate-level courses. However, the context suggests that electives outside of the SCS (School of Computer Science) can count towards the "SCS course" requirement, and must be approved by the Program Director. Therefore, the exact number of units completed in knowledge area courses may vary depending on the student's elective choices.
+The answer to your question is 12 units. According to the context, courses carrying more than 12 units are not approved as electives for MS AII students in the MIIS program.
+Program Director.
+MS AII stands for Master of Science in Artificial Intelligence.
+The director of the MS AII program is not specified in the provided context.
+The dean of the school of computer science is not specified in the provided context.

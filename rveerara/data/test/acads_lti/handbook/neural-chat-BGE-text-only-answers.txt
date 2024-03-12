@@ -1,0 +1,15 @@
+ These contexts don't mention specific course numbers for summer courses before entering CMU for MS AII students.
+ The course number for the capstone project for MS-AII students is 11-699.
+ MS AII students should take a minimum of 12 units in elective master's courses.
+ The course number for the summer internship course that MS AII students must enroll in is 49793.
+ The Graduate Student Assembly (GSA) at CMU.
+ MS AII students are required to take course 11-651 (AI & Future Markets) in their first Fall semester and be enrolled within the MSAII program. It is not explicitly mentioned that this is a requirement to be eligible for taking course 11695, but it seems to be necessary to enter these courses since 11-651 is specifically open only to MSAII students.
+ A student in MS AII will be placed in academic probation when their overall QPA falls below 3.0.
+ Two core courses in the MS AII program are open only to MS AII students (11-654 and 11-699).
+ These passages don't explicitly mention the number of core courses in both MS AII and MCDS programs or how many cannot be taken by a student in one program while in the other.
+ The given context does not specifically mention the total number of units MS AII students should complete in knowledge area courses.
+ Courses carrying more than 12 units are not approved as electives for MS AII students, except for seeking approval from other Colleges at CMU if rationally related to an AI career.
+ MS AII students should meet with their assigned advisor, usually the Program Director, before course registration each semester to discuss their course selection.
+ The full form is Master of Science in Artificial Intelligence and Innovation (MSAII).
+ The director of the MSAII program is not mentioned in the given context.
+ The dean of the school of computer science is not mentioned in this context.
