@@ -1,9 +1,8 @@
-import os, time
+import os, time, argparse
 import chromadb
 
 from langchain_community.embeddings import OllamaEmbeddings
 from langchain_community.vectorstores import Chroma
-from langchain_community.document_loaders import TextLoader
 from langchain_core.prompts import PromptTemplate
 from langchain_core.output_parsers import StrOutputParser
 from langchain_community.llms import Ollama
@@ -14,10 +13,10 @@ from langchain import hub
 
 from chromadb.errors import InvalidDimensionException
 
-DATABASE_PATH = '/home/raj/nlp/cmu-rag/rag/chroma/txt/'
+DATABASE_PATH = '/home/raj/nlp/cmu-rag/chroma_vector_database/'
 MODEL_NAMES = ['tinyllama', 'llama2', 'gemma', 'mistral', 'neural-chat', 'openchat']
 VECTOR_STORE_DIRECTORIES = [DATABASE_PATH + embedding_name for embedding_name in MODEL_NAMES]
-ANNOTATION_DIR = '/home/raj/nlp/cmu-rag/annotation/test/history/'
+ANNOTATION_DIR = '/home/raj/nlp/cmu-rag/rveerara/system_outputs/'
 ANNOTATION_FILE = ANNOTATION_DIR + 'questions.txt'
 PROMPT_MESSAGE_LLAMA2 = """You are an assistant for question-answering tasks. Use the following pieces of retrieved context to answer the question. If you don't know the answer, just say that you don't know. Use as few words as possible and keep the answer concise. Do not mention the context in your response.
     Question: {question} 
@@ -128,6 +127,53 @@ def do_rag(vector_store_path=DATABASE_PATH+'bge-large-en',
     answers = generate_answers(qa_chain, questions)
     write_answers(answers, answers_file_name, append=append)
 
+def do_rag_in_chunks(vector_store_path=DATABASE_PATH+'bge-large-en-text-only',
+        embedding_model=get_hugging_face_embedding_model(),
+        model_name='llama2',
+        questions_file_name=ANNOTATION_DIR+'questions.txt',
+        answers_file_name=ANNOTATION_DIR+'answers.txt',
+        append=False,
+        question_chunk_size=50,):
+    vector_store = load_vector_store(vector_store_path, embedding_model)
+    qa_chain = create_chain(vector_store, model_name)
+    questions = get_questions(file_name=questions_file_name)
+    num_questions = len(questions)
+    for i in range(0, num_questions, question_chunk_size):
+        questions_chunk = questions[i:min(i+question_chunk_size, num_questions)]
+        answers = generate_answers(qa_chain, questions_chunk)
+        write_answers(answers, answers_file_name, append=True) if i > 0 else write_answers(answers, answers_file_name, append=append)
+        print(f"Processed {i+question_chunk_size} questions out of {num_questions}")
+
+# def parse_args():
+#     parser = argparse.ArgumentParser(description="Get read and write file names")
+
+#     parser.add_argument('--dir', metavar='N', type=int, nargs='+',
+#                         help='an integer for the accumulator')
+#     parser.add_argument('--qf', metavar='N', type=int, nargs='+',
+#                         help='an integer for the accumulator')
+
+#     parser.add_argument('--af', dest='accumulate', action='store_const',
+#                         const=sum, default=max,
+#                         help='sum the integers (default: find the max)')
+    
+#     args = parser.parse_args()
+#     return args.dir, args.qf, args.af
+
+
 if __name__ == "__main__":
-    do_rag()
+    # annotation_dir = '/home/raj/nlp/cmu-rag/rveerara/system_outputs/'
+    annotation_dir = '/home/raj/nlp/cmu-rag/rveerara/data/test/history/'
+    q_file = annotation_dir + 'questions.txt'
+    a_file = annotation_dir + 'bge-large-en-text-only-answers.txt'
+    # q_file, a_file = None, None
+    # try:
+    #     annotation_dir, q_file, a_file = parse_args()
+    # except Exception as e:
+    #     print("Error parsing arguments: ", e)
+    #     print("Using default file names")
+    #     exit(1)
+    do_rag_in_chunks(vector_store_path=DATABASE_PATH+'bge-large-en-text-only',
+        model_name='llama2',
+        questions_file_name=q_file,
+        answers_file_name=a_file)
     print("Done")

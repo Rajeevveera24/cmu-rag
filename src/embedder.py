@@ -103,8 +103,8 @@ if __name__ == "__main__":
 
     # run(verbose=True)
     
-    run(vector_store_path=VECTOR_DATABASE_PATH + 'bge-large-en-text-only', embedding_model=hf_bge_embedding_model, verbose=True)
-    run(vector_store_path=VECTOR_DATABASE_PATH + 'llama2-text-only', embedding_model=OllamaEmbeddings('llama2'), verbose=True)
+    run(vector_store_path=VECTOR_DATABASE_PATH + 'bge-text-only', embedding_model=hf_bge_embedding_model, verbose=True)
+    run(vector_store_path=VECTOR_DATABASE_PATH + 'llama2-text-only', embedding_model=OllamaEmbeddings(model = 'llama2'), verbose=True)
     
     print("Done")
     

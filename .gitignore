@@ -132,3 +132,4 @@ cython_debug/
 #Chroma DB
 rag/chroma_db/
 rag/chroma
+chroma_vector_database/

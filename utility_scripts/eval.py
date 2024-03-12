@@ -13,9 +13,9 @@ import numpy as np
 import regex
 from rouge import Rouge
 
-rouge = Rouge()
+FILE_DIR = '/home/raj/nlp/cmu-rag/rveerara/data/test/history'
 
-logger = logging.getLogger(__name__)
+rouge = Rouge()
 
 # Normalization and score functions from SQuAD evaluation script https://worksheets.codalab.org/rest/bundles/0x6b567e1cf2e041ec80d7098f031c5c9e/contents/blob/
 def normalize_answer(s: str) -> str:
@@ -82,9 +82,8 @@ def rouge_score(prediction, ground_truths):
     return rouge1, rouge2, rougel
 
 if __name__ == "__main__":
-
-    FILE_DIR = '/home/raj/nlp/cmu-rag/annotation/test/history'
-    file_gold, file_1, file_2 = 'reference_answers.txt', 'llama2_answers.txt', 'answers.txt'
+    
+    file_gold, file_1, file_2 = 'reference_answers.txt', 'llama2_answers.txt', 'bge-large-en-text-only-answers.txt'
 
     with open(f"{FILE_DIR}/{file_gold}", 'r') as f:
         gold = f.readlines()
