@@ -178,3 +178,184 @@ everythinglm-LLAMA2-text-only-answers.txt mean precision score: 3.30000000000000
 
 ==================================================================================================================
 
+LTI Program Handbook - BGE
+
+llama2-BGE-text-enhanced-250-0.1.txt mean f1 score: 17.5
+llama2-BGE-text-enhanced-250-0.1.txt mean rouge score: 12.6
+llama2-BGE-text-enhanced-250-0.1.txt mean exact match score: 6.7
+llama2-BGE-text-enhanced-250-0.1.txt mean recall score: 30.9
+llama2-BGE-text-enhanced-250-0.1.txt mean precision score: 14.7
+
+mistral-BGE-text-enhanced-250-0.1.txt mean f1 score: 6.7
+mistral-BGE-text-enhanced-250-0.1.txt mean rouge score: 5.1
+mistral-BGE-text-enhanced-250-0.1.txt mean exact match score: 0.0
+mistral-BGE-text-enhanced-250-0.1.txt mean recall score: 27.800000000000004
+mistral-BGE-text-enhanced-250-0.1.txt mean precision score: 3.9
+
+neural-chat-BGE-text-enhanced-250-0.1.txt mean f1 score: 9.6
+neural-chat-BGE-text-enhanced-250-0.1.txt mean rouge score: 7.3
+neural-chat-BGE-text-enhanced-250-0.1.txt mean exact match score: 0.0
+neural-chat-BGE-text-enhanced-250-0.1.txt mean recall score: 28.000000000000004
+neural-chat-BGE-text-enhanced-250-0.1.txt mean precision score: 7.1
+
+openchat-BGE-text-enhanced-250-0.1.txt mean f1 score: 22.6
+openchat-BGE-text-enhanced-250-0.1.txt mean rouge score: 15.0
+openchat-BGE-text-enhanced-250-0.1.txt mean exact match score: 6.7
+openchat-BGE-text-enhanced-250-0.1.txt mean recall score: 28.199999999999996
+openchat-BGE-text-enhanced-250-0.1.txt mean precision score: 21.3
+
+everythinglm-BGE-text-enhanced-250-0.1.txt mean f1 score: 5.7
+everythinglm-BGE-text-enhanced-250-0.1.txt mean rouge score: 4.1000000000000005
+everythinglm-BGE-text-enhanced-250-0.1.txt mean exact match score: 0.0
+everythinglm-BGE-text-enhanced-250-0.1.txt mean recall score: 20.7
+everythinglm-BGE-text-enhanced-250-0.1.txt mean precision score: 4.2
+
+llama2-BGE-text-enhanced-250-0.4.txt mean f1 score: 11.600000000000001
+llama2-BGE-text-enhanced-250-0.4.txt mean rouge score: 9.8
+llama2-BGE-text-enhanced-250-0.4.txt mean exact match score: 0.0
+llama2-BGE-text-enhanced-250-0.4.txt mean recall score: 35.3
+llama2-BGE-text-enhanced-250-0.4.txt mean precision score: 8.3
+
+mistral-BGE-text-enhanced-250-0.4.txt mean f1 score: 7.9
+mistral-BGE-text-enhanced-250-0.4.txt mean rouge score: 6.0
+mistral-BGE-text-enhanced-250-0.4.txt mean exact match score: 0.0
+mistral-BGE-text-enhanced-250-0.4.txt mean recall score: 26.0
+mistral-BGE-text-enhanced-250-0.4.txt mean precision score: 5.8999999999999995
+
+neural-chat-BGE-text-enhanced-250-0.4.txt mean f1 score: 7.3
+neural-chat-BGE-text-enhanced-250-0.4.txt mean rouge score: 5.0
+neural-chat-BGE-text-enhanced-250-0.4.txt mean exact match score: 0.0
+neural-chat-BGE-text-enhanced-250-0.4.txt mean recall score: 25.6
+neural-chat-BGE-text-enhanced-250-0.4.txt mean precision score: 4.3
+
+openchat-BGE-text-enhanced-250-0.4.txt mean f1 score: 17.2
+openchat-BGE-text-enhanced-250-0.4.txt mean rouge score: 13.200000000000001
+openchat-BGE-text-enhanced-250-0.4.txt mean exact match score: 6.7
+openchat-BGE-text-enhanced-250-0.4.txt mean recall score: 24.7
+openchat-BGE-text-enhanced-250-0.4.txt mean precision score: 15.6
+
+everythinglm-BGE-text-enhanced-250-0.4.txt mean f1 score: 1.0999999999999999
+everythinglm-BGE-text-enhanced-250-0.4.txt mean rouge score: 0.5
+everythinglm-BGE-text-enhanced-250-0.4.txt mean exact match score: 0.0
+everythinglm-BGE-text-enhanced-250-0.4.txt mean recall score: 12.2
+everythinglm-BGE-text-enhanced-250-0.4.txt mean precision score: 0.5
+
+llama2-BGE-text-enhanced-1000-0.1.txt mean f1 score: 7.8
+llama2-BGE-text-enhanced-1000-0.1.txt mean rouge score: 6.6000000000000005
+llama2-BGE-text-enhanced-1000-0.1.txt mean exact match score: 0.0
+llama2-BGE-text-enhanced-1000-0.1.txt mean recall score: 25.3
+llama2-BGE-text-enhanced-1000-0.1.txt mean precision score: 5.8999999999999995
+
+mistral-BGE-text-enhanced-1000-0.1.txt mean f1 score: 6.3
+mistral-BGE-text-enhanced-1000-0.1.txt mean rouge score: 4.8
+mistral-BGE-text-enhanced-1000-0.1.txt mean exact match score: 0.0
+mistral-BGE-text-enhanced-1000-0.1.txt mean recall score: 23.799999999999997
+mistral-BGE-text-enhanced-1000-0.1.txt mean precision score: 3.6999999999999997
+
+neural-chat-BGE-text-enhanced-1000-0.1.txt mean f1 score: 7.1
+neural-chat-BGE-text-enhanced-1000-0.1.txt mean rouge score: 5.3
+neural-chat-BGE-text-enhanced-1000-0.1.txt mean exact match score: 0.0
+neural-chat-BGE-text-enhanced-1000-0.1.txt mean recall score: 28.9
+neural-chat-BGE-text-enhanced-1000-0.1.txt mean precision score: 4.2
+
+openchat-BGE-text-enhanced-1000-0.1.txt mean f1 score: 17.299999999999997
+openchat-BGE-text-enhanced-1000-0.1.txt mean rouge score: 12.6
+openchat-BGE-text-enhanced-1000-0.1.txt mean exact match score: 0.0
+openchat-BGE-text-enhanced-1000-0.1.txt mean recall score: 29.2
+openchat-BGE-text-enhanced-1000-0.1.txt mean precision score: 12.7
+
+everythinglm-BGE-text-enhanced-1000-0.1.txt mean f1 score: 0.8999999999999999
+everythinglm-BGE-text-enhanced-1000-0.1.txt mean rouge score: 0.8999999999999999
+everythinglm-BGE-text-enhanced-1000-0.1.txt mean exact match score: 0.0
+everythinglm-BGE-text-enhanced-1000-0.1.txt mean recall score: 19.2
+everythinglm-BGE-text-enhanced-1000-0.1.txt mean precision score: 0.5
+
+llama2-BGE-text-enhanced-1000-0.4.txt mean f1 score: 9.3
+llama2-BGE-text-enhanced-1000-0.4.txt mean rouge score: 7.8
+llama2-BGE-text-enhanced-1000-0.4.txt mean exact match score: 0.0
+llama2-BGE-text-enhanced-1000-0.4.txt mean recall score: 32.0
+llama2-BGE-text-enhanced-1000-0.4.txt mean precision score: 6.9
+
+mistral-BGE-text-enhanced-1000-0.4.txt mean f1 score: 6.9
+mistral-BGE-text-enhanced-1000-0.4.txt mean rouge score: 5.2
+mistral-BGE-text-enhanced-1000-0.4.txt mean exact match score: 0.0
+mistral-BGE-text-enhanced-1000-0.4.txt mean recall score: 24.5
+mistral-BGE-text-enhanced-1000-0.4.txt mean precision score: 4.1000000000000005
+
+neural-chat-BGE-text-enhanced-1000-0.4.txt mean f1 score: 8.7
+neural-chat-BGE-text-enhanced-1000-0.4.txt mean rouge score: 6.3
+neural-chat-BGE-text-enhanced-1000-0.4.txt mean exact match score: 0.0
+neural-chat-BGE-text-enhanced-1000-0.4.txt mean recall score: 29.099999999999998
+neural-chat-BGE-text-enhanced-1000-0.4.txt mean precision score: 6.0
+
+openchat-BGE-text-enhanced-1000-0.4.txt mean f1 score: 19.7
+openchat-BGE-text-enhanced-1000-0.4.txt mean rouge score: 16.1
+openchat-BGE-text-enhanced-1000-0.4.txt mean exact match score: 0.0
+openchat-BGE-text-enhanced-1000-0.4.txt mean recall score: 29.2
+openchat-BGE-text-enhanced-1000-0.4.txt mean precision score: 17.0
+
+everythinglm-BGE-text-enhanced-1000-0.4.txt mean f1 score: 5.3
+everythinglm-BGE-text-enhanced-1000-0.4.txt mean rouge score: 3.6999999999999997
+everythinglm-BGE-text-enhanced-1000-0.4.txt mean exact match score: 0.0
+everythinglm-BGE-text-enhanced-1000-0.4.txt mean recall score: 29.5
+everythinglm-BGE-text-enhanced-1000-0.4.txt mean precision score: 3.5000000000000004
+
+llama2-BGE-text-enhanced-2000-0.1.txt mean f1 score: 9.8
+llama2-BGE-text-enhanced-2000-0.1.txt mean rouge score: 8.1
+llama2-BGE-text-enhanced-2000-0.1.txt mean exact match score: 0.0
+llama2-BGE-text-enhanced-2000-0.1.txt mean recall score: 35.3
+llama2-BGE-text-enhanced-2000-0.1.txt mean precision score: 6.9
+
+mistral-BGE-text-enhanced-2000-0.1.txt mean f1 score: 6.6000000000000005
+mistral-BGE-text-enhanced-2000-0.1.txt mean rouge score: 4.7
+mistral-BGE-text-enhanced-2000-0.1.txt mean exact match score: 0.0
+mistral-BGE-text-enhanced-2000-0.1.txt mean recall score: 24.5
+mistral-BGE-text-enhanced-2000-0.1.txt mean precision score: 3.9
+
+neural-chat-BGE-text-enhanced-2000-0.1.txt mean f1 score: 7.3
+neural-chat-BGE-text-enhanced-2000-0.1.txt mean rouge score: 5.800000000000001
+neural-chat-BGE-text-enhanced-2000-0.1.txt mean exact match score: 0.0
+neural-chat-BGE-text-enhanced-2000-0.1.txt mean recall score: 18.9
+neural-chat-BGE-text-enhanced-2000-0.1.txt mean precision score: 5.0
+
+openchat-BGE-text-enhanced-2000-0.1.txt mean f1 score: 7.8
+openchat-BGE-text-enhanced-2000-0.1.txt mean rouge score: 5.0
+openchat-BGE-text-enhanced-2000-0.1.txt mean exact match score: 0.0
+openchat-BGE-text-enhanced-2000-0.1.txt mean recall score: 20.0
+openchat-BGE-text-enhanced-2000-0.1.txt mean precision score: 6.1
+
+everythinglm-BGE-text-enhanced-2000-0.1.txt mean f1 score: 2.7
+everythinglm-BGE-text-enhanced-2000-0.1.txt mean rouge score: 1.7000000000000002
+everythinglm-BGE-text-enhanced-2000-0.1.txt mean exact match score: 0.0
+everythinglm-BGE-text-enhanced-2000-0.1.txt mean recall score: 16.7
+everythinglm-BGE-text-enhanced-2000-0.1.txt mean precision score: 1.6
+
+llama2-BGE-text-enhanced-2000-0.4.txt mean f1 score: 10.7
+llama2-BGE-text-enhanced-2000-0.4.txt mean rouge score: 8.1
+llama2-BGE-text-enhanced-2000-0.4.txt mean exact match score: 0.0
+llama2-BGE-text-enhanced-2000-0.4.txt mean recall score: 34.2
+llama2-BGE-text-enhanced-2000-0.4.txt mean precision score: 7.7
+
+mistral-BGE-text-enhanced-2000-0.4.txt mean f1 score: 8.1
+mistral-BGE-text-enhanced-2000-0.4.txt mean rouge score: 5.6000000000000005
+mistral-BGE-text-enhanced-2000-0.4.txt mean exact match score: 0.0
+mistral-BGE-text-enhanced-2000-0.4.txt mean recall score: 33.1
+mistral-BGE-text-enhanced-2000-0.4.txt mean precision score: 4.7
+
+neural-chat-BGE-text-enhanced-2000-0.4.txt mean f1 score: 6.6000000000000005
+neural-chat-BGE-text-enhanced-2000-0.4.txt mean rouge score: 4.8
+neural-chat-BGE-text-enhanced-2000-0.4.txt mean exact match score: 0.0
+neural-chat-BGE-text-enhanced-2000-0.4.txt mean recall score: 24.5
+neural-chat-BGE-text-enhanced-2000-0.4.txt mean precision score: 3.9
+
+openchat-BGE-text-enhanced-2000-0.4.txt mean f1 score: 21.099999999999998
+openchat-BGE-text-enhanced-2000-0.4.txt mean rouge score: 16.2
+openchat-BGE-text-enhanced-2000-0.4.txt mean exact match score: 6.7
+openchat-BGE-text-enhanced-2000-0.4.txt mean recall score: 31.4
+openchat-BGE-text-enhanced-2000-0.4.txt mean precision score: 18.4
+
+everythinglm-BGE-text-enhanced-2000-0.4.txt mean f1 score: 3.6999999999999997
+everythinglm-BGE-text-enhanced-2000-0.4.txt mean rouge score: 1.0999999999999999
+everythinglm-BGE-text-enhanced-2000-0.4.txt mean exact match score: 0.0
+everythinglm-BGE-text-enhanced-2000-0.4.txt mean recall score: 11.700000000000001
+everythinglm-BGE-text-enhanced-2000-0.4.txt mean precision score: 3.5000000000000004

@@ -112,10 +112,17 @@ if __name__ == "__main__":
 
     file_gold, file_1, file_2 = 'reference_answers.txt', 'llama2-text-only-answers.txt', 'bge-large-en-text-only-answers.txt'
 
-    answer_files = ['gemma', 'llama2', 'mistral', 'neural-chat', 'openchat', 'tinyllama', 'everythinglm']
-    files_eval_1 = [f"{f}-BGE-text-only-answers.txt" for f in answer_files]
-    files_eval_2 = [f"{f}-LLAMA2-text-only-answers.txt" for f in answer_files]
-    files_eval = files_eval_1 + files_eval_2
+    answer_files = ['llama2', 'mistral', 'neural-chat', 'openchat', 'everythinglm']
+
+
+    chunk_sizes = [250, 1000, 2000]
+    chunk_overlaps = [0.1, 0.4]
+    # files_eval_1 = [f"{f}-BGE-text-enhanced-answers.txt" for f in answer_files]
+    files_eval = []
+    for chunk_size in chunk_sizes:
+        for chunk_overlap in chunk_overlaps:
+            for answer_file in answer_files:
+                files_eval.append(f"{answer_file}-BGE-text-enhanced-{chunk_size}-{chunk_overlap}.txt")
     # files_eval = ['llama2-text-only-answers.txt', 'bge-large-en-text-only-answers.txt']
 
     with open(f"{FILE_DIR}/{file_gold}", 'r') as f:
