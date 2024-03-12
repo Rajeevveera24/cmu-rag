@@ -13,7 +13,7 @@ import numpy as np
 import regex
 from rouge import Rouge
 
-FILE_DIR = '/home/raj/nlp/cmu-rag/rveerara/data/test/acads_lti/handbook/'
+FILE_DIR = '/home/raj/nlp/cmu-rag/rveerara/data/test/history'
 
 rouge = Rouge()
 
@@ -115,8 +115,8 @@ if __name__ == "__main__":
     answer_files = ['llama2', 'mistral', 'neural-chat', 'openchat', 'everythinglm']
 
 
-    chunk_sizes = [250, 1000, 2000]
-    chunk_overlaps = [0.1, 0.4]
+    chunk_sizes = [1000]
+    chunk_overlaps = [0.1, 0.2, 0.3, 0.4]
     # files_eval_1 = [f"{f}-BGE-text-enhanced-answers.txt" for f in answer_files]
     files_eval = []
     for chunk_size in chunk_sizes:
