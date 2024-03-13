@@ -1,0 +1,90 @@
+ I don't know. The context does not provide information about who founded the world's largest steel producing company.
+ I don't know. The context does not provide information about who was awarded the first doctorate at CMU.
+ The Carnegie Plan was initiated in 1900.
+ The first IBM computer arrived at CMU campus in 1956.
+ The merger between Carnegie Tech and the Mellon Institute occurred in 1967.
+ The context does not provide information on the locations of CMU campuses outside of Pittsburgh.
+ I don't have access to that information in the context provided.
+ I don't know. The context does not provide the information you are looking for.
+ Handlebars for a go-kart or a lawn mower.
+ Sweepstakes Races or Carnegie Mellon University Buggy Races
+ I don't have access to information about the number of different countries represented by CMU students. The context only provides information about specific courses and their instructors.
+ I don't know. The context does not provide the information you are asking for.
+ I don't have access to the current rankings of CMU's college of engineering by US News and World Report 2022 in this context.
+ I don't know who created the first smile in an email and when.
+ Professor Louis von Ahn is not explicitly mentioned in the provided context. Therefore, I cannot determine what he invented based on this information.
+ I cannot determine the exact year from the provided context.
+ Bjorndahl wrote The Last Lecture along with Randy Pausch. (Note: The context does not provide information about the last lecture specifically, but I'm assuming you meant to ask about the instructor of the context provided.)
+ I don't know. The context does not provide information about downloads for the app invented by Professor Von Ahn.
+ The context does not provide information about when the Kiltie band began.
+ The Kiltie Band was formed by seven students in 1908.
+ Rehearsals during football season happen on Mondays and Thursdays from 5:30 p.m.-7:30 p.m., and before home games at 9:30-11:00 a.m.
+ The first rehearsal of the Kiltie Band is on the first day of class (Monday) at 5:30 p.m. in the CUC Studio Theater.
+ Steranka, Thompson, or Gorton (one of them is the Kiltie Band director)
+ I don't know. The context does not provide information about the student survey and Scotty being CMU's mascot.
+ I don't know when the official Scotty costume was unveiled.
+ The Computer Science Department at Carnegie Mellon University was established in 1965, and the School of Computer Science was formed on Dec. 22, 1988.
+ I don't have the information to answer that question.
+ I don't know when the logic theorist was designed. The context only provides information about university courses.
+ The context does not provide information about who designed the first system capable of continuous speech recognition.
+ Software Engineering Graduate Reading & Research
+ I don't have information about the first AI program in this context.
+ The course number for MS AII students to take in summer before entering CMU is 99519.
+ The course number for the MS-AII capstone project is 49791.
+ MS AII students should take 6.0 units minimum for Instructor Dai's Applied AI course.
+ The course number for the MS AII students' summer internship is 14797.
+ The Graduate Student Organization advocating for diverse interests at CMU is not explicitly mentioned in the context.
+ The context does not specify a required course for MS AII students to be eligible for course 11695 (AI Engineering).
+ The context does not provide information on the QPA (Qualitative Point Average) required for academic probation in MS AII (Master of Science in Architecture Independent Study).
+ The MS AII program-specific courses open only to MS AII students are "MSAII Program Capstone" (11699) and "AI Venture Studio" (11681).
+ I cannot determine from the provided context how many core courses in the MS AII program cannot be taken by a student in the MCDS program.
+ MS AII students should complete 36.0 units of knowledge area courses.
+ Courses carrying more than 12.0 units are not provided as an answer since the question asks for the number of units that are not approved as electives for MS AII students exceeding this value.
+ The instructor of the Career & Professional Development for Engineering Masters Students course is Foy.
+ MS AII is not defined in the provided context. It appears to be an abbreviation not related to any of the given course information.
+ Sadeh
+ Sadeh (Assuming this is the name of the dean in the context provided)
+ Instructor Green's course number is 69155.
+ One instructor, Wolk, teaches the course titled "Navigating the Practical Realities of the Film Industry" in Fall 2023.
+ I don't know. The context does not provide information about course 70345.
+ The context provided does not include information about course number 93851. Therefore, I cannot provide an answer to the question.
+ The course with the most number of units is "Information Networking Thesis" taught by Instructor Tsamitis, with a total of 6-42 units.
+ I don't see any information provided about course 14832 in the context you've given.
+ Two courses.
+ The context does not provide information about which department Morency teaches under. Therefore, I cannot answer that question with the given context.
+ Language Technologies Institute
+ Zimmerman takes classes in the building ' MM 312'.
+ I don't know. Zimmerman's instructors or classes are not mentioned in the context provided.
+ Ramakrishnan does not teach any course mentioned in the context alone in San Jose.
+ Instructor Sherry's "Networking and the Internet" course (section Lec) does not end at 11:50 AM. It ends at 1:20 PM instead.
+ I don't see a mention of an instructor named Demirkoparan in the context provided.
+ The LTI department does not offer a course with the given course number (11935) in DH 2315, according to the provided context.
+ The course with the most units taught by Shamos is not provided in the context.
+ Two departments: Information Systems Program and Business Administration.
+ Neubig teaches 1-36 units of 'Tepper PhD' in Spring 2024 under Business Administration, but the exact number of units for this instructor is not provided in the context.
+ The context does not specify how many units worth of classes ending at 1:50 pm Neubig teaches.
+ The department for a twelve unit course at WEH 4707 that ends at 3:20 pm is not provided in the context.
+ Based on the context provided, there is only one "Introduction to Deep Learning" course (11685 in Spring 2024, section A) that does not start with a number "11".
+ I don't have sufficient information to determine the exact number of research and technical staff at LTI from the given context.
+ The context does not provide information about the most common office location for faculty members at LTI.
+ I don't see any information provided about the number of affiliated faculty of LTI located in Baker or Baker-Porter Hall.
+ Pittsburgh, Pennsylvania (Two instructors teach there: Reinhart for Machine Learning II and Ostlund for Python Programming I)
+ Marcellino's email is not provided in the context.
+ I don't know. The context does not provide the phone number for Instructor Shah of the Artificial Intelligence for Future Markets course.
+ The context does not provide information about the location of Instructor Sudbury's office for course number 11-711.
+ Instructor Shourideh for course TEP 1403 teaches in building TEP 2111 on Tuesdays from 0400PM to 0545PM.
+ There is no common room number for staff across different buildings mentioned in the context.
+ The closest office to room TCS 350 is likely that of instructor Richards.
+ The context does not provide information about Yonatan Bisk's availability outside of his listed courses.
+ I don't have the information for the phone number of Professor Shah related to AI drug discovery.
+ I cannot determine that from the given context.
+ I don't know. None of the provided context indicates that any adjunct faculty member works at Google.
+ The authors of "DataFinder Scientific Dataset Recommendation from Natural Language Descriptions" are Lindia Tjuatja, Emmy Liu, L. Levin, and Graham Neubig.
+ The paper titled "Why do Nearest Neighbor Language Models Work?" was published at the Annual International ACM SIGIR Conference on Research and Development in Information Retrieval. (Year: 2023)
+ The papers "Queer In AI A Case Study in Community-Led Participatory AI" by Gormley, Bertsch, Uri, Matthew R and Neubig were published in the venue 'arXiv.org'. The other paper with some of the same authors, "An Information Decomposition Framework" was published in the Annual Meeting of the Association for Computational Linguistics (ACL).
+ Bertsch, Uri, Matthew R published a paper with Hauptmann in ' Large-Scale Multi-Media Analysis'.
+ Bertsch, Gormley, and Neubig published "Towards Countering Essentialism through Social Bias Reasoning" without Uri Alon (as per the given context).
+ FAHIM FAISAL, Alissa Ostapenko, Genta Indra Winata, Alham Fikri Aji, Samuel Cahyawijaya, Yulia Tsvetkov, Antonios Anastasopoulos.
+ I don't know. The context does not provide information about the number of papers authored by Graham Neubig in 2023.
+ Chenyan Xiong is the author who did not publish any other paper in 2023, according to the given context.
+ Garcia Bosch authored a paper on Plastic Litter. The number of papers he authored in total in 2023 is not provided in the context.

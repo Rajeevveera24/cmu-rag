@@ -1,0 +1,90 @@
+ You don't know who founded the world's largest steel producing company from these contexts.
+ The given context does not mention any information related to who received the first doctorate at CMU.
+ You don't know the context about the Carnegie Plan. It doesn't mention any details regarding its initiation among these courses.
+ The given context does not mention the arrival of an IBM computer to the CMU campus.
+ Carnegie Tech and the Mellon Institute merged to form Carnegie Mellon University in 1967.
+ The provided context does not mention any CMU campuses outside of Pittsburgh.
+ You don't have the information about when the school of computer science was opened in these contexts.
+ Don't know.
+ Attachment used for propelling a buggy forward is called a "push cart" or a "pull buggy frame." However, the context provided doesn't discuss such specific terms.
+ Buggy races are also known as soapbox derby or soapbox car racing.
+ The given context does not mention the number of different countries represented by CMU students.
+ You don't know. The provided context does not include information about the percentage of women among first-year computer science students at CMU in 2019.
+ The given context does not mention the rank of CMU's college of engineering in the world according to US News and World Report 2022.
+ You don't know who created the first smile in an email and when from these contexts.
+ You don't know who Louis von Ahn is from these course details. He was not mentioned in the provided context.
+ This context doesn't mention when Carnegie Mellon University awarded the first degree in drama.
+ Jeffrey Zarr wrote the last lecture along with Randy Pausch.
+ You don't have enough information to determine how many downloads the app invented by Professor Von Ahn has in 12 months without context about that specific application or its download statistics.
+ The Kiltie Band began in 1908.
+ The Kiltie Band first formed with seven students in 1908.
+ Context doesn't mention Kiltie band rehearsals or football season.
+ The provided context does not mention any details about the Kiltie band or its rehearsals.
+ Jeremy Olisar is the Kiltie Band director.
+ You don't know.
+ The context provided does not mention an official Scotty costume unveiling or a related date.
+ Context doesn't mention the exact establishment date of the Computer Science department.
+ The robotics institute was created in 1979.
+ The given context does not mention the design or creation of a logic theorist.
+ The text provided doesn't mention the designer of the first system capable of continuous speech recognition.
+ James Golsing is not mentioned in the provided context.
+ You don't know the name of the first AI program from these contexts.
+ The course number for the mentioned course is 99519.
+ The course number for the capstone project for MS-AII students is 49791.
+ The context provided does not mention minimum elective units for MS AII students.
+ The course number is 49793.
+ Graduate Student Government (GSG) at Carnegie Mellon University advocates for diverse interests of all graduate students.
+ There isn't any mentioned required course for MS AII students to be eligible for taking course 11695 in the provided context.
+ The context provided does not mention the QPA or academic probation details for students in MS AII.
+ This context doesn't mention the number of core courses in the MS AII program or their accessibility for only MS AII students.
+ The provided context does not mention any core courses specific to the MS AII or MCDS programs.
+ The given context does not mention the number of units or knowledge area courses for MS AII students.
+ Courses carrying more than 99 units are not approved as electives for MS AII students (assuming 'AII' refers to Architecture and Interior Design). The context provided doesn't specifically mention this but states that the courses mentioned have 0-99 unit values.
+ MS AII students should consult with an academic advisor or relevant department staff to discuss their course selection prior to each semester. The provided context does not mention specific individuals for this purpose.
+ MS AII is not mentioned in the provided context.
+ The context provided doesn't mention the director of the MS AII program.
+ The given context does not mention the dean of the school of computer science.
+ You don't have Instructor Green's course numbers mentioned in this context.
+ You don't have the information about an instructor teaching a course titled "Navigating the Practical Realities of the Film Industry" in Fall 2023.
+ For course 70345, the given context does not mention its value or units.
+ 3.0 units
+ The given context does not provide details about all courses offered by the Information Networking Institute. However, in the mentioned courses with specific unit counts, the course titled 'Special Topics Thematic Development-based Project' has the highest number of units (36.0).
+ The given context does not mention course 14832 or its schedule.
+ You don't have enough information about Professor Neubig's courses from these contexts to determine how many unique courses he teaches.
+ Morency teaches under the department of Language Technologies Institute.
+ Language Technologies Institute
+ Zimmerman takes classes in buildings such as MM 312, CFA 214, DNM DNM, and TEP 2702, all located in Pittsburgh.
+ The context does not mention the building where Zimmerman takes classes with Musuraca.
+ Ramakrishnan teaches course number 18797, titled 'Machine Learning for Signal Processing', in Fall 2023 at San Jose.
+ This context does not mention any specific course taught by Feinberg that does not end at 11:50 AM.
+ Demirkoparan's courses are not mentioned in the given context.
+ The context provided doesn't mention a specific course taught in DH 2315 by LTI department.
+ Shamos' course information is not mentioned in the provided context. However, the given courses are Independent Studies and have varying unit options: 3, 6, 9, or 12 units.
+ Across two departments: Software & Societal Systems and Language Technologies Institute.
+ The given context does not specify how many units Neubig teaches at TEP 1403 in Spring 2024.
+ You don't know the specific time of Neubig's classes from these contexts.
+ You didn't provide any information about a twelve unit course at WEH 4707 ending at 3:20 pm.
+ You don't have enough information to know how many courses with this title don't have a number starting with 11. These details are for only one specific instance of the course taught by Ramakrishnan Singh, but they don't provide data on other possible offerings.
+ This context does not mention the number of research and technical staff at LTI.
+ The context provided does not specifically mention the most common office location for faculty members at LTI.
+ The provided context does not mention Baker or Baker-Porter Hall or their affiliation with LTI in terms of faculty members.
+ The given context does not mention any second most common office location among LTI faculty.
+ The given context does not provide information about any faculty member's email related to the mentioned location.
+ The given context does not mention a phone number for any instructor or their courses.
+ The context provided does not mention an office location for instructors.
+ You didn't provide any information about a course titled 'TEP 1403' being taught on Tuesday at 12:30 PM in Spring 2024.
+ The context provided does not mention any staff room numbers shared between different buildings.
+ The context provided does not mention any office location.
+ Yonatan Bisk's schedule is not mentioned in the given context.
+ Don't know the phone number of faculty interested in AI drug discovery and LLMs from the given context.
+ John Friday
+ The context provided doesn't mention any Google-related adjunct faculty member.
+ Lindia Tjuatja, Emmy Liu, L. Levin, Graham Neubig
+ International Conference on the Theory of Information Retrieval (ICTIR)
+ Gormley, Bertsch, Uri, Matthew R and Neubig did not publish together in any context provided above. The contexts discussed different papers with various authors without including them all together.
+ The context provided does not mention any papers or their authors related to Bertsch, Uri, Matthew R, and the instructors of courses 11711 and 10601.
+ Bertsch, Gormley, and Neubig (along with other authors) published 'A Gold Standard Dataset for the Reviewer Assignment Problem'. Uri Alon is not mentioned in the context provided.
+ Emmy Liu was the first author. The context provided doesn't mention a second author for any paper with her as the first one.
+ I don't know.
+ Wenzheng Zhang, Chenyan Xiong, K. Stratos, Arnold Overwijk published "Unsupervised Dense Retrieval Training with Web Anchors" in 2023. If you're asking about an author not publishing any other paper that year, none of the mentioned authors are specifically noted to have done so within these contexts.
+ These contexts do not mention any specific person who authored a paper on Plastic Litter or their total papers in 2023.

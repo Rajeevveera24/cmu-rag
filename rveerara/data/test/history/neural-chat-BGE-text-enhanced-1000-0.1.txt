@@ -1,31 +1,31 @@
- Mittal founded the world's largest steel producing company (ArcelorMittal).
- John Arbuthnot Bigelow received the first doctorate from Carnegie Mellon University (then Carnegie Tech) in 1900.
- The Carnegie Plan initiation is not mentioned in the given context.
- The given context doesn't mention the arrival date of the first IBM computer at CMU.
+ Mukesh Ambani founded ArcelorMittal, now the world's largest steel producer (not original company).
+ John P. Griesemer received the first doctorate from Carnegie Mellon University (CMU) in 1973.
+ The Carnegie Plan initiation is unspecified in this context, but it refers to Andrew Carnegie's philanthropy starting around 1901.
+ I don’t know the exact date of the first IBM computer's arrival at CMU campus without referring to specific sources.
  Carnegie Tech merged with the Mellon Institute in 1967 to form Carnegie Mellon University.
- CMU has a campus in Qatar (Education City), but otherwise, their other locations are primarily research centers and off-site facilities around the world, not traditional campuses.
- The given context does not provide information on when a School of Computer Science was opened.
- William W. Symouz won the Turing Award from Carnegie Mellon University in 1975.
- A structure for this purpose isn't explicitly named, but people commonly refer to it as a "pull-behind buggy" or "hand-propelled buggy." The specific mechanism used varies and may include a wheeled platform or similar device.
- Buggy races can also be called desert racing or off-road motorsports.
- We cannot provide an exact number without specific context or recent data from Carnegie Mellon University (CMU).
- We don't have that specific statistic, but for context, in 2018, it was around 24% at Carnegie Mellon University.
- US News and World Report 2022 ranking not mentioned.
- Craig Jasper created the first smiley face, ":)", in an email in 1982.
- Professor Louis von Ahn invented CAPTCHA and crowd-sourcing projects like reCAPTCHA, Word Lens, and ESP Games.
- Carnegie Mellon University awarded its first degree in drama in 1952.
- Jeffrey Zarr and Eric Evans co-wrote with Randy Pausch.
- Unknown
- The context provided doesn't give information about the Kiltie Band's beginning.
- The given context does not provide information on how many students first formed the Kiltie band.
- The provided context doesn't give details about the specific days for Kiltie band rehearsals during football season.
- The given text does not provide information about the location of the first Kiltie band rehearsal.
- The text does not provide information about the Kiltie Band's director.
- This information is not provided; we don't know the percentage without knowing the exact survey results.
- The context provided does not give any information about an official Scotty costume or its unveiling date.
- The context doesn't provide information about when a Computer Science department was established.
- The context provided doesn't mention a specific robotics institute or its creation date.
- The context provided doesn't mention anything about the Logic Theorist or its design date.
- Douglas Engelbart and Alan K. Pentland designed the first practical continuous speech recognition system, called DECSYS I, in the late 1960s.
- James Golsing is not mentioned in this context. He could be a person with different achievements, but without proper context, I can't determine what he developed.
- The first AI program is considered to be Turing's Computing Machine, but it didn't have a specific name.
+ CMU has campuses in Qatar (Education City) and Silicon Valley (Stanford Research Park).
+ The text doesn't provide information on when a school of computer science was opened.
+ Herbert Simon from CMU won the Turing Award in 1975.
+ A structurally-attached accessory for this purpose is called a "push cart" or "tow bar."
+ Buggy races are also called desert racing or off-road motor sports.
+ The given context doesn't provide information about the number of different countries represented by CMU students.
+ In 2019, about 23% of Carnegie Mellon University's first-year computer science students were women.
+ US News and World Report 2022 didn't mention global rankings for Carnegie Mellon University's College of Engineering.
+ Craig Jozwiak created the first smiley face, a colon and two parentheses, in an email in 1982.
+ Professor Louis von Ahn invented CAPTCHAs and projects like reCAPTCHA, crowd-sourcing human effort for AI tasks.
+ Carnegie Mellon University awarded its first degree in drama in 1962.
+ Jeffrey Zarr and Eric Gillespie co-wrote with Randy Pausch.
+ No information given on download numbers for Professor Von Ahn's app within 12 months.
+ The context provided does not give information on when the Kiltie Band began.
+ The given context doesn't provide any information about the number of students who first formed the Kiltie band, so we don't know.
+ The given context does not provide information on Kiltie band rehearsal days during football season.
+ The context provided does not give information about the location of the first Kiltie band rehearsal.
+ The context provided doesn't mention who the Kiltie Band director is.
+ No information provided on the survey results or percentage for Scotty as CMU's mascot.
+ I don't know the exact date for the unveiling of the official Scotty costume.
+ Computer science department establishment dates vary by institution; check individual ones.
+ The given context doesn't provide information about a robotics institute creation date.
+ The logic theorist design details don't explicitly state a release date, but it was developed during the early 1960s.
+ Kenneth Langley and Martin Newell designed the first continuous speech recognition system in 1968.
+ James Gosling developed Java programming language.
+ The first known AI program is ALPAC, created by Joseph Weizenbaum in 1963.

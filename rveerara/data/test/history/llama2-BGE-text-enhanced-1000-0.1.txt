@@ -1,31 +1,31 @@
-I don't know.
- The first doctorate was awarded to John Markoff in 1956 at Carnegie Mellon University.
-The Carnegie Plan was initiated in 1908.
- The first IBM computer arrived on the Carnegie Mellon University (CMU) campus in 1957.
+
 I don't know the answer to your question.
- CMU has multiple campuses outside of Pittsburgh, including:  * Main Campus in Pittsburgh, Pennsylvania * Duquesne University in Pittsburgh, Pennsylvania * School of Medicine in Pittsburgh, Pennsylvania * Greensburg campus in Greensburg, Pennsylvania * Johnstown campus in Johnstown, Pennsylvania * Monroeville campus in Monroeville, Pennsylvania 
-I don't know the exact date when the school of computer science was opened.
+ The Carnegie Plan was initiated in 1908.
+I don't know the exact date when the first IBM computer arrived at Carnegie Mellon University (CMU).
 I don't know the answer to your question.
-Pushing handle
-Sure! The answer to the question is:  Buggy races are also known as kart racing or go-kart racing.
-I don't know the exact number of countries that CMU students represent.
+ CMU has multiple campuses outside of Pittsburgh:  * Main campus in Lawrenceville, Philadelphia * Monroeville campus in Monroeville * Greensburg campus in Greensburg * Johnstown campus in Johnstown 
+I'm not able to provide an answer to that question based on the provided context.
+I don't know the answer to your question. The context you provided does not provide enough information to determine who from Carnegie Mellon University (CMU) was awarded the Turing Award in 1975. Can you provide more context or clarify the question?
+ Question: What is the name of the structure attached to a buggy that a person pushes to propel that buggy forward?  Answer: Push handle.
+ Buggy races are also known as karts or go-karts.
+I don't know the exact number of different countries that Carnegie Mellon University (CMU) students represent, as I don't have access to up-to-date student demographic information. However, I can tell you that CMU is a global university with students from over 100 countries around the world.
 I don't know the percentage of CMU computer science first-year students who were women in 2019.
-Rank #6 in the world (US News and World Report 2022)
-I don't know the answer to that question.
- Professor Louis von Ahn is known for his work in developing the concept of "crowdsourcing."
+According to US News and World Report's 2022 rankings, the Carnegie Mellon University College of Engineering is ranked #6 in the world.
+I don't know who created the first smile in an email or when it was created.
+ Professor Louis von Ahn is known for inventing several things, including:  1. CAPTCHA: a challenge-response test used to determine whether the user is a human or a computer. 2. RECAPTCHA: an improved version of CAPTCHA that uses images instead of text. 3. SPAMfighter: a program that helps prevent spam emails by analyzing the content of emails and identifying potential spam messages. 4. ADAPTIV: a machine learning algorithm used to improve the accuracy of image recognition systems.  I hope this helps! Let me know if you have any other questions.
  CMU awarded its first degree in drama in 1935.
+I don't know.
+I don't know the answer to that question.
+I don't know the answer to your question. The information you provided does not provide enough context for me to determine when the kiltie band began. Can you provide more details or clarify the question?
+I'm not able to retrieve information about the Kiltie band or its members. I'm just an AI and do not have access to external information or databases. I can only provide answers based on the information provided in the context you provide. If you don't know the answer, please let me know and I will do my best to help.
+I'm just an AI, I don't have access to real-time information about Kiltie band rehearsal schedules. However, based on the context provided, I can tell you that Kiltie band rehearsals are likely to happen during non-football season days.
+I'm just an AI, I don't have access to real-time information about the current location or schedule of the Kiltie band. Therefore, I cannot provide the answer to your question. I'm just an AI and do not have access to specific information about the Kiltie band's rehearsals or locations.
 I don't know the answer to your question.
-I don't know the exact number of downloads for the app invented by Professor Von Ahn in 12 months.
-I'm not sure when the kiltie band began.
-I don't know the answer to your question.
-I'm just an AI, I don't have access to real-time information about the Kiltie band's rehearsal schedule. However, based on the context provided, I can infer that the rehearsals happen during football season. Please note that I don't know the specific days or times of the rehearsals.
-I'm just an AI, I don't have access to real-time information or specific details about the Kiltie band's rehearsals. However, based on the context you provided earlier, I can infer that the first rehearsal of the Kiltie band is likely to be held at a specific location, such as a band hall or a school auditorium. Unfortunately, I don't have access to this information and cannot provide a definitive answer to your question.
-I don't know the answer to your question.
-I don't know the percentage of students who voted for Scotty the Scottish terrier to be Carnegie Mellon University's (CMU) mascot.
-I don't know the answer to your question. The information you provided does not contain any details about when the official Scotty costume was unveiled.
+I don't know the percentage of students who voted for Scotty the Scottish terrier to be Carnegie Mellon University's mascot.
+I don't know the answer to your question. The information you provided does not provide enough context for me to determine when the official Scotty costume was unveiled. Can you provide more details or context?
 I don't know the answer to your question. The computer science department was not mentioned in the provided context.
-I don't know the answer to your question. The information you provided does not contain any details about when the robotics institute was created. Can I help you find the answer in a different way?
-I don't know when the logic theorist was designed.
- The first system capable of continuous speech recognition was designed by Hewlett-Packard in the 1970s.
- James Gosling developed Java, a popular programming language.
- The first AI program was called "Logical Theorist" (LTP).
+The robotics institute was created in 1978.
+I don't know the answer to your question.
+ The first system capable of continuous speech recognition was designed by Dr. John F. Mitchell and his team at Carnegie Mellon University in the early 1970s.
+ James Gosling developed Java programming language.
+ The first AI program was called "Logical Theorist" or "LTP".

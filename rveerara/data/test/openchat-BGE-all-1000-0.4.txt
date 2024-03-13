@@ -1,0 +1,90 @@
+ I do not know.
+ I don't know.
+ I don't know.
+ I don't know.
+ I don't know.
+ The given context does not provide information about CMU campuses outside of Pittsburgh.
+ I don't know.
+ I don't know.
+ Wheel
+ I don't know.
+ The context does not provide the number of different countries represented by CMU students.
+ I don't know.
+ I don't know.
+ Scott E. Fahlman
+ I don't know.
+ I don't know.
+ Don't know.
+ I don't know.
+ The Kiltie Band began in 1908.
+ Seven students first formed the Kiltie band.
+ The information provided does not specify the days for Kiltie band rehearsals.
+ Pittsburgh, Pennsylvania
+ Jeremy Olisar
+ I don't know.
+ I don't know.
+ Spring 2024
+ 1979
+ Fall 2023
+ Gerald J. Sussman and James J. Baker designed the first system capable of continuous speech recognition.
+ James Golsing did not develop any of the courses mentioned in the provided context.
+ ELIZA
+ 99519
+ 49791
+ 2
+ 49793
+ I don't know.
+ Course 14763
+ The context provided does not give information on the QPA required for academic probation in MS AII.
+ One core course in the MS AII program is open only to MS AII students.
+ 1 core course
+ The number of units for MS AII students to complete is not specified in the given context.
+ 99
+ The context does not provide information on who MS AII students should meet with to discuss their course selection prior to each semester.
+ MS AII is not provided in the given context.
+ Sadeh
+ I don't know.
+ The context does not provide information about a course taught by Instructor Green.
+ 7
+ 9.0 units
+ 3.0 units
+ 36.0 units.
+ The schedule for course 14832 in Fall 2023 is not available.
+ The context provided does not give information about how many unique courses are taught by Professor Neubig.
+ Morency teaches courses under the department of Language Technologies Institute.
+ Language Technologies Institute
+ MM 312, CFA 214, DNM DNM
+ Not provided.
+ Ramakrishnan teaches course number 18797, titled 'Machine Learning for Signal Processing' in San Jose.
+ AI for Humanities The Multi-dimensions of World Languages, Arts, and Cultures
+ 8
+ LTI Practicum
+ 12 units.
+ Shamos teaches courses in 2 departments.
+ Neubig teaches at TEP 1403 in Spring 2024.
+ 1-48
+ Information Systems Program for section C.
+ 3
+ I don't know.
+ Pittsburgh, Pennsylvania
+ I don't know.
+ Pittsburgh, Pennsylvania
+ I don't know.
+ The phone number of the instructor for the course titled Artificial Intelligence for Future Markets is not provided in the given context.
+ The office of the instructor for course number 11-711 is not provided in the context.
+ TEP 2111
+ TEP 2702
+ Crowell and Hansen.
+ I don't know.
+ The phone number is not provided in the given context.
+ John Friday
+ Agarwal
+ The first author on the paper - "DataFinder Scientific Dataset Recommendation from Natural Language Descriptions" is Vijay Viswanathan.
+ International Conference on the Theory of Information Retrieval (ICTIR)
+ The authors Gormley, Bertsch, Uri, Matthew R and Neubig published together in the paper titled "A Gold Standard Dataset for the Reviewer Assignment Problem".
+ Don't know.
+ The paper published without Uri Alon is "A Gold Standard Dataset for the Reviewer Assignment Problem".
+ Carolin (Haas) Lawrence
+ I don't know.
+ Yiqing Xie and X. Liu did not publish any other paper in 2023.
+ I don't know.

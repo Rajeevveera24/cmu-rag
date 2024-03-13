@@ -1,0 +1,770 @@
+ F1Tenth Autonomous Racing
+ 11667
+ Fall 2024 semester begins in September 2024.
+ 3
+ TAP does not appear in any of the provided context.
+ The context provided does not mention the "ACL 60/60 evaluation sets" or their purpose.
+ Summer 2024 is not in the provided context. Please provide more information about the Mini-5 classes for summer 2024.
+ 54101
+ I don't know.
+ Section A
+ Yong-gang Fan
+ The conference is IEEE International Conference on Acoustics, Speech, and Signal Processing.
+ International Conference on Acoustics, Speech, and Signal Processing (ICASSP)
+ The provided context does not specify who used the first emoticon at CMU.
+ Don't know.
+ Imperfect machine-generated explanations help in correctly identifying subtly (non-)toxic content by +2.4% on hard toxic examples compared to expert-written human explanations which improve it by +7.2%.
+ Instructor
+ Independent Study
+ The size of the models in the SantaCoder paper is not specified.
+ Graduate Teaching II
+ In fall 2023, unit 02718 is taught by instructor Dolan, Apostolopoulos.
+ Unlimiformer
+ I don't know.
+ I don't know.
+ The context does not provide information about the Phi Beta Kappa Initiation Ceremony.
+ The context does not provide a deadline for Mini-1 drop and withdrawal grade assigned after this date in fall 2024.
+ Up to 2.0/3.8x decrease in memory consumption on single-/multi-GPU setups compared to other baseline meta learning algorithms.
+ I don't know.
+ Pittsburgh, Pennsylvania
+ ValuePrism is not mentioned in the provided context.
+ I don't know.
+ Do not know.
+ Inference-Time Policy Adapters (IPA)
+ In the paper "Inference-Time Policy Adapters (IPA): Tailoring Extreme-Scale LMs without Fine-tuning", IPA has shown significant improvements on five challenging text generation tasks, such as toxicity reduction and lexically constrained generation.
+ The answer cannot be determined from the given context.
+ Independent Study
+ Nicholas Carlini
+ Stewart
+ I don't know.
+ The MIIS-16 program is worth 1-12 units.
+ I don't know.
+ PhD students can use LTI's computer cluster for various research tasks related to natural language processing, generative AI, and other fields mentioned in the context provided.
+ Don't know.
+ Latin
+ I don't know.
+ I don't know.
+ SPAE is not mentioned in the given context.
+ The context provided does not contain information about a conference for "HomeRobot."
+ The context does not provide information about how many members of the National Academy of Sciences (NAS) are associated with Carnegie Mellon University.
+ I don't know.
+ I don't know.
+ Deadline for Mini-2 is not provided.
+ The year of publication is not available in the provided context.
+ The provided context does not give information about Carnegie Mellon University's discrimination policies.
+ The exact match achieved by gpt-3.5-turbo on the Squad dataset is not provided in the context.
+ Pittsburgh, Pennsylvania
+ Stephanie Kwolek
+ Independent Study
+ I don't know.
+ 36462, 47900, 46871, 57987, 45881, 57520, 21900, 45770
+ MSMARCOv1 passage retrieval dataset, TREC Deep Learning dataset, BEIR datasets.
+ David Garlan's office building and number are not provided in the given context.
+ There are four authors on the paper "Multimodal Fusion Interactions: A Study of Human and Automatic Quantification".
+ ICML is not mentioned in the provided context.
+ I don't know.
+ The paper Cross-Modal Fine-Tuning: Align then Refine was published in the "IEEE International Conference on Acoustics, Speech, and Signal Processing."
+ Frederking, Fried taught Advanced Natural Language Processing in Fall 2023.
+ Yes, a valid CMU ID is needed to make fitness reservations.
+ I don't know.
+ The course number for the Search Engines course is not provided in the given context.
+ The student has to pass 1-48 course units of graduate courses.
+ Independent Study
+ Summer 2024.
+ Jamie Callan
+ I don't know.
+ ICTIR is not mentioned in the provided context.
+ The context provided does not contain information about the ACL 60/60 evaluation dataset.
+ The context does not provide information about a benchmark used in the study.
+ Fall 2024
+ The title of course 17200 in Spring 2024 is "Independent Study".
+ Not available.
+ The phone number for CMU's office of Title IX initiatives is not provided in the given context.
+ 0.3% reduction in word error rates on LibriSpeech test-clean using proposed models with text augmentation training.
+ Carnegie Tech merged with Mellon Institute in 1967.
+ I don't know.
+ 412-268-5480
+ The WER achieved by the joint fine-tuning strategy in the Convoifilter paper is 14.5%.
+ The deadline to drop a Mini-2 course with a withdrawal grade assigned in Fall 2023 depends on the university's policy. Please contact your institution for specific deadlines.
+ No, LTI does not offer a specific course on text mining in the given context. However, it offers courses related to machine learning for text and graph-based mining and natural language processing.
+ The text does not provide information about any other physical campuses besides Pittsburgh.
+ E. Xing
+ I don't know.
+ Bartos
+ The given context does not provide any information about the WebArena benchmark or its test examples.
+ I don't know.
+ No.
+ A-LoL uses quality and toxicity filters to filter negative advantage (low-quality) data points during training.
+ The context does not provide information on when classes start after the winter break in Spring 2024.
+ I don't know.
+ The context does not provide information on whether there is a limit on the number of guests who can attend the main commencement ceremony.
+ I don't know.
+ 312 participants
+ ML-SUPERB
+ YourTTS model
+ The units for the Linguistics Lab and Meaning in Language Lab (Self Paced) are both 6.0 units.
+ Does not apply. The provided context is for the Spring 2024 semester, and the question asks about Summer 2024.
+ Instructor Mortensen, Oflazer works on recommender systems.
+ The Plan module in the PET framework translates a task description into a list of high-level sub-tasks.
+ Framework tax
+ 10880
+ Yonatan Bisk
+ Conference on Machine Translation (WMT)
+ Not mentioned.
+ I don't know.
+ Lisbon, Portugal.
+ Plan, Eliminate, and Track (PET) framework
+ The shows are on Wednesday, Thursday, and Friday nights at 7 PM.
+ The MIIS Capstone Planning Seminar is worth 10 credits.
+ The attention dot-product scores in the Unlimiformer approach are the returned kNN distances during cross-attention computation.
+ Diaz
+ I don't know.
+ I don't know.
+ The full name of the conference is the Conference on Empirical Methods in Natural Language Processing.
+ The mean confidence difference for the "he, she" gender-word pair in the paper "Language Models Get a Gender Makeover" was not provided in the context.
+ I don't know.
+ Not enough context provided to answer the question.
+ For additional information about the MIIS program, contact the Integrated Innovation Institute.
+ Don't know.
+ The deadline for adding, auditing, and tuition adjustment drop for Mini-3 is not provided in the given context.
+ Factually Augmented RLHF
+ The role of a chute flagger in the sweepstakes competition is not provided in the given context.
+ The improvement achieved by the PET framework on the AlfWorld instruction following benchmark is a significant 15% over SOTA for generalization to human goal specifications.
+ Not available in the provided context.
+ LTI PhD students should contact their department or school administration for office-related questions.
+ Western, White, college-educated, and younger populations.
+ Abraham
+ The reduction in word error rates achieved by the proposed models on LibriSpeech testother is 1.4%.
+ Ethan Chern, Zhiruo Wang, Sanjan Das, Bhavuk Sharma, Pengfei Liu, Graham Neubig
+ Yes, there is a YouTube channel for The Kiltie Band.
+ Not specified in the context.
+ The name of Yonatan Bisk's lab is not provided in the given context.
+ I don't know.
+ Don't know.
+ September 2, 2024.
+ Fried, Welleck
+ 11390, 11411, 11490, 11492, 11700
+ A
+ International Conference on Acoustics, Speech, and Signal Processing
+ 02500
+ 3 points absolute on ROUGE-L
+ The accuracy using SHAP reduction is not provided in the given context.
+ The two key factors addressed by CSurF are not provided in the given context.
+ Independent Study
+ The proposed approach is called "Regularizing Self-training for Unsupervised Domain Adaptation via Structural Constraints".
+ IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)
+ The course is worth 3, 6, 9, or 12 units.
+ I don't know.
+ The proposed learning objective to improve perceptual quality of speech is to formalize differences in perceptual quality by using domain knowledge of acoustic-phonetics, and develop a neural network estimator that can accurately predict non-differentiable temporal acoustic parameters across an utterance. This objective aims to optimize speech outputs to match the values of clean speech in these features, thereby enhancing the overall perceptual quality of the generated speech.
+ The context does not provide information about a buggy course or a sharp right-hand turn.
+ Instructor Hahl
+ Clara Na
+ The BartScore achieved by the CRL-COM (R) system from the paper Improving Factuality of Abstractive Summarization via Contrastive Reward Learning on the XSUM dataset is not provided in the given context.
+ FiT5 integrates information about paths between any pair of variables in the graph, general nonlinearity, and multi-dimensional continuous variables.
+ The context does not provide information about the number of units for course 17214.
+ I don't know.
+ Pittsburgh, Pennsylvania
+ MOSAIC
+ ChatGPT is especially disadvantaged for Low-Resource Languages (LRLs) and African languages.
+ Adversarial inputs can be used to attack multimodal models that allow users to provide images.
+ 1-48 units
+ arXiv.org
+ Not available.
+ Eric Nyberg and Teruko Mitamura teach "Introduction to Question Answering".
+ Holi celebration time is 2:30 PM-6:30 PM ET at Spring Carnival.
+ IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)
+ 1935
+ Pittsburgh, Pennsylvania
+ Shinji Watanabe
+ In fall 2023, the instructors for unit 02512 are Gajic, Shea, Anderson, Sleator, Hayes, Block, Brown, and Pino.
+ Taylor and Kosbie.
+ I don't know.
+ The results are not provided in the given context.
+ 2023
+ The cost to apply for the MLT program a week before the deadline is not provided in the given context.
+ I don't know.
+ Annual Meeting of the Association for Computational Linguistics, Annu Meet Assoc Comput Linguistics, Meeting of the Association for Computational Linguistics, ACL, Meet Assoc Comput Linguistics
+ The answer is not provided in the given context.
+ EmpathicStories
+ The context does not provide information on how many action types were included in the WebArena benchmark.
+ I don't know.
+ The paper does not provide the percentage accuracy for rhymes achieved by the autoencoder model on the evaluation suite.
+ 1-48 units
+ Yonatan Bisk
+ I don't know.
+ 1100AM
+ Amanda Bertsch
+ No
+ I don't know.
+ I don't know.
+ I don't know.
+ I don't know.
+ Deadline not provided.
+ September 16, 2023.
+ Chenyan Xiong
+ CLIP
+ Kohei Matsuura, Shinji Watanabe
+ Independent Study
+ The provided context does not mention any models offered by ESPnet-ST-v2.
+ Fall 2024 Convocation is not provided in the given context.
+ LTI programs with capstone requirements are not explicitly mentioned in the provided context. The acronyms for courses listed are 66504, 66505, and 49791.
+ The point of contact for Naval ROTC Commissioning ceremony is not provided in the given context.
+ The units for unit 02712 are not provided in the given context.
+ The answer is not provided in the given context.
+ Interspeech, Conference of the International Speech Communication Association
+ The information provided does not specify the opening dates for Semester & Mini-6 Faculty Course Evaluations in summer 2024.
+ Yonatan Bisk
+ I don't know.
+ Margaret Morrison College
+ Query rewriting does not enhance performance compared to original queries. This is due to topic switching in final dialogue turns and irrelevant topics being considered for query rewriting.
+ I don't know.
+ The context does not provide information on when the Semester & Mini-2 Faculty Course Evaluations will be open.
+ There are a total of 8 StuCo or Student Led Courses in Spring 2024.
+ FLARE benefits from being able to iteratively use a prediction of the upcoming sentence to anticipate future content. This allows it to make better decisions on when and what to retrieve across the course of the generation, leading to improved performance in long-form knowledge-intensive tasks.
+ I don't know.
+ 4
+ Singh
+ Masters Thesis I
+ The MOS-Q achieved by the MQTTS quantizer with a code size of 1024 on the VoxCeleb test set is not provided in the given context.
+ Pittsburgh, Pennsylvania.
+ The context provided does not contain information about the percentage of white families in the study "SHAP-based Prediction of Mother's History of Depression to Understand the Influence on Child Behavior".
+ Weight decay and FedNAR (Federated optimization with Normalized Annealing Regularization) are proposed loss functions in the Fairness Continual Learning approach.
+ Reasoning about the Unseen for Efficient Outdoor Object Navigation
+ The Pentathlon benchmark focuses on the inference stage of a model's lifecycle.
+ Tartans Got Talent show at the carnival is from 8:30 PM to 10:00 PM ET.
+ Emily Allaway
+ Semantic Pyramid AutoEncoder (SPAE)
+ For additional information about the MSAII program, contact the Instructor(s).
+ MSIAI
+ The process of exchanging pushers during the race is called "chaining."
+ POMDP stands for Partially Observable Markov Decision Process.
+ Ximing Lu, Faeze Brahman, Peter West
+ 1100 AM
+ The context provided does not contain information about the protected attributes that CMU does not use in deciding the admission of PhD students.
+ No, the information provided does not mention anyone from LTI working on the paper "Don't Take This Out of Context!: On the Need for Contextual Models and Evaluations for Stylistic Rewriting".
+ Democracy Day is not mentioned in the provided context. However, Instructor Thompson teaches course number 79189 titled 'Democracy and History Thinking Beyond the Self' in fall 2023. The course consists of 9.0 units and is taught on Fridays from 12:00 PM to 12:50 PM in the building BH 235B at Pittsburgh, Pennsylvania.
+ 1. Different input representation for predicting the next tokens 2. Approximate kNN search 3. The importance of softmax temperature for the kNN distribution
+ Fall 2023: Mini-1 classes begin on the first day of the semester.
+ The information provided does not specify the start date of the MLT application period for Fall 2024 admissions.
+ Up to 1.7x increase in throughput for single GPU setup.
+ Strubell, Sap
+ The BigCode project is not mentioned in the provided context.
+ The conference was not mentioned in the provided context.
+ Brain Research
+ Yes, LTI offers a course on ethics titled "Ethics and Leadership" in the Fall 2023 semester.
+ The answer is not provided in the given context.
+ COBRACORPUS
+ I don't know.
+ Mortensen, Oflazer
+ The Spearman Correlation of CodeBERTScore with human preference is not provided in the given context.
+ I don't know.
+ I don't know.
+ No, there are no authors of the paper Understanding Political Polarisation using Language Models: A dataset and method not from CMU in the provided context.
+ The conference is "Conference on Empirical Methods in Natural Language Processing".
+ HomeRobot is not mentioned in the provided context.
+ TR, 3:30 PM
+ The analysis in the paper includes 22 typologically diverse languages.
+ The main goal of event grounding is not mentioned in the given context.
+ Independence Day in summer 2024 is July 4th. The University's policy on class attendance for independent studies varies by instructor and specific course, so please consult with the respective instructor for details.
+ Jeremy Olisar
+ I don't know.
+ I don't know.
+ 11411
+ E. Xing
+ Don't know.
+ Masao Someki, N. Eng, Yosuke Higuchi, Shinji Watanabe, Soumi Maiti
+ The context provided does not contain any information about hybrid models or hedges. Therefore, I cannot answer the question based on the given context.
+ The human performance on the proposed benchmark was 78.24%.
+ I
+ I don't know
+ Dance/Light
+ The deadline for Mini-5 pass/no pass and withdrawal in summer 2024 is not provided in the context.
+ 4
+ The question does not provide information about the Institute for Software Research formation.
+ Pittsburgh, Pennsylvania
+ The context provided does not contain information about the creation of the Pittsburgh Supercomputing Center.
+ TBA
+ The course "Lean in a Lean and Six Sigma World" does not exist according to the provided context.
+ CMU LTI is located on a street in Pittsburgh, Pennsylvania.
+ I don't know
+ I don't know.
+ I don't know.
+ StarCoder and StarCoderBase
+ FLARE is not mentioned in the provided context.
+ StyleRF's solution to the three-way dilemma in 3D style transfer is performing style transformation within the feature space of a radiance field. This approach allows for accurate geometry reconstruction, high-quality stylization, and generalizability to arbitrary new styles.
+ The context provided does not contain information about the Center for Student Diversity and Inclusion Ceremony held on May 11, 2024.
+ Instructor
+ Independent Study
+ I don't know the events on May 10 as part of the Commencement program for 2024.
+ Wheels
+ The cost would depend on the specific program fees for MIIS and MSAII. I do not have this information.
+ I don't know.
+ The context provided does not include information about the Mini-3 course drop and withdrawal grade assignment for spring 2025.
+ I don't know.
+ GlobalBench currently covers datasets in 190 languages.
+ TASTE uses an attention sparsity method to better characterize user behaviors by modeling longer user-item interactions and reducing self-attention computations during encoding.
+ Value Kaleidoscope dataset
+ The HomeRobot OVMM benchmarks include two components: a simulation component with diverse curated object sets in multi-room home environments, and a real-world component providing a software stack for the low-cost Hello Robot Stretch.
+ Singh
+ The information provided does not include the deadline for adding, auditing, and tuition adjustment drop for the semester (deadline 1).
+ The name of Graham Neubig's lab is not provided in the given context.
+ I don't know.
+ The context does not provide information about the country.
+ I don't know.
+ I don't know.
+ I don't know.
+ Don't know.
+ SAMA showcases up to 2.0/3.8x decrease in memory consumption on single-/multi-GPU setups compared to other baseline meta learning algorithms.
+ Don't know.
+ I don't know.
+ The provided context does not include the deadline for adding, auditing, and tuition adjustment drop for Mini-6.
+ The context provided does not include information about when the Semester & Mini-2 Faculty Course Evaluations will be closed.
+ No
+ 15213, 15213, 15213, 15213
+ The given context does not provide information about SafeWalk's end time.
+ The information provided does not mention a course called Shop Skills 48104.
+ The provided context does not mention the elimination of a two-wheeled buggy.
+ No, I don't know if Yonatan is the last author on the plan, eliminate and track paper.
+ The year "Neural Mixed Effects for Nonlinear Personalized Predictions" is published in is 2023.
+ Smith and Bjorndahl
+ Annual Meeting of the Association for Computational Linguistics
+ The dataset used in "An Approach to Ontological Learning from Weak Labels" is DocumentNet and the ontology used is a four-level ontology.
+ I don't know.
+ Thomas Schaaf, Michael Mauldin, and Malihe Alikhani.
+ I don't know.
+ The context provided does not mention the PhD Academic Program Manager for the LTI PhD degree.
+ Lei Li
+ I don't know.
+ The survey investigated concerns about PLMs regarding environmental impact, equity, and impact on peer reviewing.
+ Rose and Ghani
+ Language Technology Institute
+ Independent Study
+ 80495
+ 45848, 57359, 11925, 14825, 14828
+ Alexander Rudnicky
+ The answer is not provided in the given context.
+ The reduction in word error rates achieved by the proposed models on Switchboard is 2.9% and 5.0%.
+ Jocelyn Shen, Maarten Sap, Pedro Colon-Hernandez, Hae Won Park, C. Breazeal
+ The two NLP tasks applied with the NLPositionality framework in the study are syntactic context understanding and word-level priors sensitivity.
+ 11797 does not provide any information related to units.
+ A retrieval-based approach (kNN-MT) was used for effective adaptation in the absence of training data from the target domain.
+ Fusion-in-T5 Unifying Document Ranking Signals for Improved Information Retrieval
+ Gennari
+ Deadline for withdrawing from a semester course with a withdrawal grade assigned depends on the institution's policy and is typically mentioned in their academic calendar. Please refer to your institution's academic calendar or contact them directly for specific details.
+ The context does not provide information about SCS CMU classes grading standards for maximum GPA.
+ The cost to apply for the MLT program on November 20th, 2023 is not provided in the context.
+ The proposed method shows improvement in both time-domain and time-frequency domain speech enhancement workflows.
+ The authors of "Rethinking Voice-Face Correlation: A Geometry View" are Xiang Li, Yandong Wen, Muqiao Yang, Jinglu Wang, Rita Singh, and B. Raj.
+ Pittsburgh
+ Zhenghao Liu
+ In spring 2024, the instructor for course 17313 is not mentioned in the provided context.
+ I don't know.
+ I don't know.
+ The TASTE algorithm was introduced in the paper titled "Text Matching Improves Sequential Recommendation by Reducing Popularity Biases".
+ The context provided does not mention the first three-wheeled buggy introduction.
+ I don't know.
+ None of the provided context mentions an application date of September 30th.
+ I don't know.
+ Contact Caitlin Korpus at ckorpus@andrew.cmu.edu or +1 412 268 7096.
+ The information provided does not include the MultiViz method or its four stages.
+ Last day of Mini-3 classes is not provided.
+ In spring 2024, Instructor Montgomery teaches course 15210.
+ Independent Study Breadth
+ 6
+ The course is worth 12 units.
+ Advantage-Leftover Lunch RL (A-LoL)
+ 4 datasets
+ I don't know.
+ GPT-3 text-davinci-003 performed best in "Syntax and Semantics Meet in the “Middle”: Probing the Syntax-Semantics Interface of LMs Through Agentivity".
+ No.
+ I don't know.
+ Deadline not provided.
+ 8 authors are on the paper "Pragmatic Inference with a CLIP Listener for Contrastive Captioning".
+ Independent Study
+ Instructor(s) generate ValuePrism's contextualized values.
+ I don't know.
+ The context does not provide information about a course taught by Lanni in Spring 2023.
+ Fall 2023
+ Jarvik, Willard
+ I don't know.
+ The context provided does not contain information about the formation of Human-Computer Interaction Institute.
+ The given context does not provide information on professors being on leave.
+ Vilém Zouhar
+ Does not provide relevant information.
+ I don't know.
+ I don't know.
+ The context does not provide information about the tennis court.
+ San Jose, California
+ Fall 2023
+ I don't know.
+ In 1965.
+ Instructor Stragar
+ One challenge of navigating in outdoor environments compared to indoor environments is that outdoor environments lack clear spatial delineations and are riddled with inherent semantic ambiguities.
+ Randy Pausch and Jeffrey Zaslow
+ Martelaro, Smailagic
+ Special Interest Group on Computational Morphology and Phonology Workshop, SIGMORPHON
+ I don't know.
+ The two courses are not provided in the context.
+ I don't know.
+ Instructor TBA.
+ The Mini-5 Final Exams take place in the Summer 2024 semester.
+ Robots should exist anywhere humans do indoors, outdoors, and even unmapped environments.
+ 6100
+ The context provided does not include information about the deadline for Mini-1 add, audit & tuition adjustment drop (deadline 1) in fall 2024.
+ The authors of the paper "NLPositionality: Characterizing Design Biases of Datasets and Models" are from various universities/institutes.
+ Seven people co-authored the paper "Learning to Ask Questions for Zero-shot Dialogue State Tracking".
+ The number of credits MCDS students must complete to graduate is not provided in the context.
+ The President's Reception in honor of CMU’s Doctoral Candidates will be held during the Campus Community Lunch.
+ I don't know.
+ I don't know.
+ 10 debiased training examples were used for fine-tuning the pre-trained model.
+ Annual Meeting of the Association for Computational Linguistics
+ I don't know.
+ The context does not provide information about credentials required to print something from an LTI printer.
+ Michael Mauldin, Madhavi Ganapathiraju, Thomas Schaaf, and Malihe Alikhani
+ F1 score
+ The conference is Conference on Empirical Methods in Natural Language Processing.
+ Collaborative BERT (CollBERT)
+ Independent Study
+ Yes
+ I don't know.
+ Summer 2024
+ SenteCon is not mentioned in the given context.
+ I don't know.
+ 0
+ Fall 2023
+ No information available.
+ The LTI prof who co-authored the paper titled "Self-Refine: Iterative Refinement with Self-Feedback" is not mentioned in the provided context.
+ 100 candidate documents
+ TEP 1403
+ SAMA showcases up to a 1.7x increase in throughput with multi-GPU setups in large-scale meta learning benchmarks.
+ The location of the courses taught by Affara in Summer 2024 is not provided in the given context.
+ May 12th is not provided in the given context.
+ The Kiltie Band began in 1908.
+ 1967
+ The context provided does not contain information about the four common domains of websites in the WebArena environment.
+ PaLM 2 and GPT 3.5
+ The KALE vocabulary semantic concepts perform better than the original lexical vocabulary in retrieval tasks.
+ I don't know.
+ SHAP stands for Shapley Additive exPlanations. It is a game-theoretic approach to explain the output of any machine learning model, which is used in predicting mother's history of depression and understanding its influence on child behavior.
+ Fall 2023
+ Aligned text models do not have a policy of refusing to answer any type of requests. The context provided does not give information about the restrictions or limitations for such models.
+ Yonatan Bisk is a Faculty member at the Language Technologies Institute.
+ Instructor Levin taught Human Language for Artificial Intelligence in the fall of 2023.
+ CSurF addresses sparse lexicon-based retrieval by directly bridging the surface form space and term semantics space in exact-match retrieval via contextualized surface forms (CSFs). It represents each query and document as a "bag-of-CSFs", expanding vocabulary with surface forms and representing term meaning with contextual semantic vectors. At retrieval time, it efficiently matches CSFs through learned surface forms and effectively scores via contextual semantic representations, leading to joint improvement in term match and term scoring.
+ SPAE does not appear in the provided context. Please provide the correct term or question.
+ 10 languages
+ The context provided does not mention any system submissions or the number of system submissions covered by GlobalBench.
+ I don't know.
+ The success rate of the best performing GPT-3.5 model is 14.41%.
+ The answer is not provided in the given context.
+ I don't know
+ best-case retrieval evaluation
+ The publication venue is not available.
+ Independent Study
+ All of the CFA Interdisciplinary classes start with the number 11920.
+ I don't know.
+ I don't know.
+ The provided context does not mention an Office Manager for LTI.
+ The answer cannot be provided without additional information.
+ SYNTACC is not mentioned in the provided context.
+ Independent Study
+ FACTORCL is not mentioned in the provided context.
+ Capstone Management Project I
+ Fall 2024 is not provided in the given context.
+ The paper that proposed style radiance fields is "StyleRF Zero-Shot 3D Style Transfer of Neural Radiance Fields".
+ I don't know.
+ The invention by Professor Luis von Ahn named Apple's 2013 app of the year was not mentioned in the provided context.
+ I don't know.
+ 03
+ The percentage accuracy for analogies achieved by the count-based model on the evaluation suite is not provided in the given context.
+ I don't know.
+ Yes, there are classes on April 11th, 2024.
+ MLT program is not mentioned in the provided context.
+ The units for unit 02402 in fall 2023 are 1-48.
+ The context provided does not mention the PaintSeg painting process. Therefore, I cannot answer the question based on the given information.
+ I don't know.
+ I don't know.
+ Thursday and Friday at 11:00 AM.
+ Shinji Watanabe
+ Not provided.
+ Temporal Acoustic Parameter Loss
+ Nyberg
+ It is fine-tuned on 35B Python tokens for creating StarCoder.
+ Social Psychology (course number 85241, section W) with Instructor Belanger
+ The reduction in word error rates achieved by the proposed models on CallHome is 5.0%.
+ The annual MOBOT race is not mentioned in the provided context.
+ Fall 2024 course registration start is not provided in the context.
+ The tldr of the paper "Multimodal Fusion Interactions: A Study of Human and Automatic Quantification" is not available.
+ Iyer
+ A
+ Conference on Empirical Methods in Natural Language Processing
+ I don't know.
+ The end-to-end task success rate of the best GPT-4-based agent is 14.41%, which is significantly lower than the human performance of 78.24%.
+ I don't know.
+ I don't know.
+ Capstone Project
+ I don't know.
+ I don't know.
+ Lingjing Kong
+ 10623
+ Dogwhistles are coded messages intended for a specific group of people to understand.
+ Two proposed subtasks for the DSTC11 automatic evaluation track are not mentioned in the given context.
+ The information provided does not indicate who the first dean of the School of Computer Science is.
+ Spring 2024
+ In Fall 2023, 11737 was not taught.
+ I don't know.
+ PaintSeg can work with in-context learning and free-form text generation.
+ Don't know.
+ In spring 2024, the instructors for course 17514 are not mentioned in the given context.
+ I don't know.
+ I don't know.
+ "The title of the paper by CMU researchers who invented CAPTCHAs is not provided in the given context."
+ Independent Study
+ I don't know.
+ Independent Study
+ The AV-SUPERB benchmark evaluates models for audio-visual representation learning in speech and audio processing tasks.
+ Morency teaches the Multimodal Machine Learning course this semester.
+ The context does not provide information about mailboxes and office supplies for LTI PhD students.
+ Michael Mauldin and Wenhe Liu
+ ORCA
+ Kline
+ Conference on Machine Translation, WMT, Conf Mach Transl
+ I don't know.
+ No
+ Don't know.
+ Xingbo Wang and P. Liang
+ The forward-backward algorithm in "Deriving Vocal Fold Oscillation Information from Recorded Voice Signals Using Models of Phonation" is the ADLES-VFT algorithm, which minimizes the error between the recorded waveform and the output of a joint model to estimate its parameters.
+ ML-SUPERB considers automatic speech recognition and language identification tasks in various languages.
+ The context does not provide information about the evaluation metrics reported on MSMARCO in the KALE paper.
+ I don't know.
+ The Gates Hillman Complex is not mentioned in the provided context. However, Carnegie Mellon University's zip code is 15213.
+ I don't know.
+ Beep-Boop
+ The success rate of the baseline in real-world component of HomeRobot OVMM benchmark is 20%.
+ I don't know.
+ Independent Study
+ I don't know.
+ The four categories of low-level acoustic descriptors used in the TAP loss are: frequency-related parameters, energy or amplitude-related parameters, spectral balance parameters, and temporal features.
+ False
+ Using random walks to estimate entity centrality on conversation entity graphs improves top precision answer passage ranking over competitive transformer-based baselines.
+ 3 people from CMU co-authored the paper.
+ Don't know.
+ The full name of the conference is Conference on Empirical Methods in Natural Language Processing (EMNLP).
+ I don't know.
+ One limitation of existing retrieval augmented LMs is that they employ a retrieve-and-generate setup that only retrieves information once based on the input.
+ MOSAIC
+ Reading and Research
+ The four knowledge-intensive tasks are not explicitly mentioned in the provided context.
+ I don't know.
+ In spring 2024, the instructors for course 15150 are not mentioned in the provided context.
+ The role of the mapping network in "Generating Images with Multimodal Language Models" is to translate hidden representations of text into the embedding space of the visual models, enabling strong text representations of the LLM to be leveraged for visual outputs.
+ The context does not provide information about who controls the vehicles via steering and braking systems in a buggy.
+ FiT5's performance was tested on Pentathlon benchmark.
+ Yes, there are no auditions to join The Kiltie Band. Membership is open to all members of the campus/community without audition.
+ The context provided does not include information about the current Associate Director of Athletics, Recreational Programs.
+ Modeling the conversation with entity graphs can be used to improve retrieval of answer passages for the current question by predicting each entity's centrality in the conversation and using random walks to estimate entity centrality on conversation entity graphs. This helps improve top precision answer passage ranking over competitive transformer-based baselines.
+ William Chen
+ May Mini-5 and Semester classes begin in Spring 2024.
+ The MOS-Q achieved by the HF-GAN on the VoxCeleb test set is not provided in the given context.
+ Lisbon, Portugal
+ 31 teams participated.
+ The DAE achieved by the CRL-COM (D) system from the paper is not available.
+ Sigma Chi
+ I don't know.
+ I don't know the exact date of Juneteenth observation. However, regarding class policy, if Juneteenth falls during a weekday, classes typically follow the university's holiday schedule and may be canceled or rescheduled.
+ The DialDoc 2023 shared task is about spoken language translation challenges in simultaneous and offline translation, automatic subtitling and dubbing, speech-to-speech translation, multilingual, dialect and low-resource speech translation, and formality control.
+ Ippolito, Xiong
+ Word Error Rate (WER)
+ I don't know.
+ Machine Learning for Text and Graph-based Mining
+ Round-robin scheduling.
+ The rehearsals for The Kiltie Band take place at CUC Studio Theater.
+ The multimodal capabilities of the proposed model in "Generating Images with Multimodal Language Models" include image retrieval, novel image generation, and generating text interleaved with retrieved images.
+ The two task families evaluated on the MOSAIC framework are object categorization and object-fetching tasks.
+ I don't know.
+ KALE uses a k-sparse projector to convert dense representations into a sparse set of entries from a latent vocabulary.
+ The MSAII handbook does not provide information about the associate dean for masters programs.
+ The context provided does not give information about the last day of classes for Mini-2, Semester, and Mini-2.
+ All of the LTI classes start with different numbers.
+ I don't know.
+ The provided context does not contain information about when Mini-4 faculty course evaluations close.
+ Not Available
+ Ting-Han Fan and Ta-Chung Chi
+ 6.0 units
+ In the beginning of the race, buggies move forward using a pusher who propels the buggy via a pushbar along one of the five hills of the buggy course.
+ I don't know.
+ Ethics course title is not given in the provided context.
+ I don't know.
+ I don't know.
+ 4
+ SenteCon improves predictive performance on downstream tasks by leveraging smaller, open-sourced models and creating a comprehensive framework called Toolink. It performs task-solving by first creating a toolkit and then integrating the planning and calling of tools through a chain-of-solving (CoS) approach.
+ The context provided does not contain information about under-served languages or GlobalBench.
+ Conference on Machine Translation
+ I don't know.
+ Instructor TBA and Instructor Shea are the instructors for course number 11667.
+ Malihe Alikhani, Michael Mauldin, and Thomas Schaaf
+ TR, 3:30 PM - 4:50 PM
+ I don't know.
+ The components of HomeRobot are not provided in the given context.
+ Evidence-Based Management
+ Watson
+ The semantic notion used as a case study in "Syntax and Semantics Meet in the “Middle”: Probing the Syntax-Semantics Interface of LMs Through Agentivity" is agentivity.
+ 48736, 48792
+ Course number - title; course number - title; ... 46974 - Financial Products and Markets
+ 02250
+ Do not know.
+ Not specified.
+ WavLabLM
+ 2023
+ Ghani and Smith co-taught On-Device Machine Learning last fall.
+ I don't know.
+ Independent Study
+ Information not provided.
+ Independent Study
+ The information provided does not mention the first Interfraternity Sweepstakes Race or its date.
+ Five people co-authored the paper COBRA Frames: Contextual Reasoning about Effects and Harms of Offensive Statements.
+ The answer cannot be found in the provided context.
+ International Conference on Multimodal Interaction
+ ChatGPT
+ FACTORCL is not mentioned in the given context, so I cannot answer where it is published.
+ The average performance improvement of Prompt2Model over gpt-3.5-turbo LLM is 20%.
+ Aerodynamic characteristics of a buggy are determined by its shape, size, and material.
+ The monoT5-3B ranker was 100x larger than the MiniLM ranker used in the InPars-Light study.
+ I don't know.
+ StarCoderBase is trained on 1 trillion tokens sourced from The Stack, a large collection of permissively licensed GitHub repositories.
+ I don't know.
+ The deadline for adding or dropping a Mini-3 course with tuition adjustment in spring 2024 is not provided in the context.
+ I don't know.
+ The information provided does not specify when the Spring 2025 course registration starts for sophomores.
+ I don't know.
+ Human Language for AI is worth 12.0 units.
+ Ion, Levin-Decanini
+ I don't know.
+ 22
+ I don't know.
+ GlobalBench
+ I don't know.
+ Don't know.
+ I don't know.
+ False
+ ESPnet-ST-v2 is not mentioned in the provided context.
+ The neural network estimator developed in the Paaploss paper predicts social decision-making behavior.
+ I don't know.
+ Independent Study Area
+ Don't know.
+ Hindi, Indonesian, Javanese, Kannada, Sundanese, Swahili, and Yoruba.
+ Taylor Berg-Kirkpatrick, Emma Strubell, Ravi Starzl
+ I don't know.
+ The paper "Extracting Training Data from Diffusion Models" shows that diffusion models memorize individual images from their training data and emit them at generation time. This makes diffusion models less private than prior generative models such as GANs.
+ In fall, Instructors Singh and Ramakrishnan taught the Introduction to Deep Learning course at LTI.
+ The title of course 17356 is "Independent Study".
+ 3
+ Carnegie Technical Schools and Mellon Institute merged together to form the current day Carnegie Mellon University.
+ I don't know.
+ Nyberg
+ Course number 18861
+ ML-SUPERB covers 143 languages.
+ Instructor Vavasis teaches "Ethics and Decision Making in Architecture" in Spring 2024.
+ Not applicable.
+ I don't know.
+ Soumi Maiti and Shinji Watanabe
+ https://github.com/pliang279/MultiViz
+ 09105
+ 1
+ Mid-Semester and Mini-3 grades due dates are not provided in the context.
+ The solution proposed in the BASS paper from Interspeech 2023 is to train summarization models on very long sequences in an incremental manner using block-wise modeling. This involves processing a portion of the input frames at a time and updating hypothesis summaries every block based on new acoustic information.
+ One mechanism that has been argued to be critical to language learning in young children is the ability to infer the mental states of other agents in social environments, coined Theory of Mind (ToM) by Premack & Woodruff (1978).
+ 3
+ The BERTScore achieved by BASS-adapt on the How-2 test set is not available in the provided context.
+ The provided context does not include information about the model used for early buggies in the 1930s.
+ The context does not provide information about which two LLMs were explored in the SPAE paper.
+ I don't know.
+ I don't know.
+ 9
+ Rodolfo M Vega
+ The most important feature in determining ChatGPT's relative ability to translate a language is its resource level.
+ The proposed approach in the paper "Rethinking Voice-Face Correlation: A Geometry View" is to reconstruct the 3D facial shape from voice using a voice-anthropometric measurement (AM)-face paradigm. This approach identifies predictable facial AMs from the voice and uses them to guide 3D face reconstruction, bypassing the need for semantic information.
+ MSMARCOv1 passage retrieval dataset, TREC Deep Learning dataset, BEIR datasets.
+ Callan
+ The Mini-4 classes begin on TBA.
+ No
+ ILL leverages expectation-maximization (EM) for modeling the imprecise label information, treating the precise labels as latent variables.
+ The provided context does not give information about the target duration of the LTI PhD program in months.
+ The context does not provide information about a voucher deadline for Mini-3.
+ Contact Instructor Willard.
+ Not specified in the provided context.
+ The Kiltie Band had their first official performance on November 25th, 1922.
+ I don't know.
+ The shared task "Language-Agnostic Transformers and Assessing ChatGPT-Based Query Rewriting for Multilingual Document-Grounded QA" focuses on document-grounded dialogue tasks in multiple languages.
+ Real-world data from YouTube and podcasts were used to train the TTS systems.
+ Martin Luther King Day is observed on the third Monday of January.
+ Rodolfo M Vega, Malihe Alikhani, and Ian Lane.
+ Advanced NLP is taught by Instructor Neubig in semester Spring 2024 under the category/department of Language Technologies Institute, for section A. The course is taught on Tuesdays and Thursdays from 1230PM to 0150PM at building TEP 1403, located in Pittsburgh, Pennsylvania.
+ Spring 2024
+ Shell
+ The context does not provide the information needed to determine when final grades are due for Fall 2023.
+ One limitation of lexical exact-match systems is the mismatch between lexical surface form and implicit term semantics.
+ Logan
+ The provided context does not mention specific benchmarks where SoftMatch has shown substantial improvements.
+ Instructor Ramakrishnan, Singh
+ The context does not provide information about the President's Graduates Toast for bachelor's students.
+ I don't know.
+ I don't know.
+ No, LTI does not offer a course on large language models according to the provided context.
+ The title for 11700 is not provided in the given context.
+ Named entity recognition, dependency parsing, and event argument extraction.
+ The eye gaze of both the tutor and the tutee has a significant impact on hedge prediction.
+ I don't know.
+ Liao Qu and X. Zou
+ Summer One/All 2023
+ Andrew Carnegie emigrated from Scotland to Pittsburgh in 1848.
+ Reciprocal rank is not mentioned in the provided context.
+ The proposed method for grounding pre-trained text-only language models to the visual domain is by keeping the language model frozen and finetuning input and output linear layers to enable cross-modality interactions. This allows the model to process and generate arbitrarily interleaved image-and-text data, and produce retrieved images, generated images, and generated text.
+ Independent Study Breadth
+ VAR
+ The information provided does not indicate if the university is open on January 15th 2024.
+ DALL-E 2, Imagen, Stable Diffusion
+ In fall 2023, the instructors for course 05430 are Dabbish and Ion, Levin-Decanini.
+ Fall Deans' Lists are typically posted in November.
+ KALE does not appear in the provided context.
+ I don't know.
+ Alon Lavie
+ I don't know.
+ I don't know.
+ The number of scenes included in the HomeRobot OVMM benchmark is not provided in the given context.
+ audio-visual speech recognition (AVSR), code-switched speech recognition (CS-ASR), and speech translation (ST).
+ I don't know.
+ Reciprocal rank is not mentioned in the provided context.
+ 2 authors.
+ I don't know.
+ All of the Integrated Innovation Institute classes in Summer 2024 start with the number 49.
+ The context does not provide information on which number all Civil & Environmental Engineering classes start with.
+ Spring 2024
+ I don't know.
+ I don't know.
+ The context provided does not give information about the previous name of Heinz College.
+ I don't know.
+ I don't know.
+ I don't know.
+ The context does not provide information about the two innovative designs of StyleRF.
+ The technique used by Pengi to leverage Transfer Learning is not mentioned in the provided context.
+ The real-world applicability of the proposed approach is demonstrated through effectiveness of the hierarchical loss against retrieve and re-rank baselines and aiding hierarchical discovery among unseen events.
+ The performance degradation of the progressively distilled model on the TSP-50 dataset is 0.019%.
+ Gongora-Svartzman
+ The provided context does not include information about when Spring Break will start in 2024.
+ Independent Study
+ The MLT program prepares students for careers in language technologies.
+ I don't know.
+ The MultiBench benchmark includes 10 modalities.
+ The MultiBench benchmark includes 15 datasets.
+ The computation offloaded to a k-nearest-neighbor (kNN) index in the Unlimiformer approach is the cross-attention computation.
+ The provided context does not mention any information about chalk or the Fitness Centre at the Jared L. Cohon University Center.
+ Token-and-Duration Transducer (TDT) architecture.
+ The effect of training speakers with a highly weighted ToM listener component is not mentioned in the provided context.
+ The context does not provide information on when the Spring 2024 grades are due for graduating students.
+ The BASS paper by Bhiksha Raj's group evaluates on the "Fall 2023" dataset.
+ The three aspects assessed by the holistic evaluation in MultiZoo & MultiBench are not provided in the given context.
+ Sean Welleck
+ I don't know.
+ I don't know.

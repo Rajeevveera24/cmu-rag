@@ -14,7 +14,7 @@ from langchain import hub
 from chromadb.errors import InvalidDimensionException
 
 DATABASE_PATH = '/home/raj/nlp/cmu-rag/chroma_vector_database/'
-MODEL_NAMES = ['tinyllama', 'llama2', 'gemma', 'mistral', 'neural-chat', 'openchat', 'everythinglm']
+MODEL_NAMES = ['llama2', 'mistral', 'neural-chat', 'openchat']
 VECTOR_STORE_DIRECTORIES = [DATABASE_PATH + embedding_name for embedding_name in MODEL_NAMES] # Not relevant anymore
 ANNOTATION_DIR = '/home/raj/nlp/cmu-rag/rveerara/system_outputs/'
 ANNOTATION_FILE = ANNOTATION_DIR + 'questions.txt'
@@ -162,9 +162,9 @@ def do_rag_in_chunks(vector_store_path=DATABASE_PATH+'bge-large-en-text-only',
 
 if __name__ == "__main__":
     # annotation_dir = '/home/raj/nlp/cmu-rag/rveerara/system_outputs/'
-    annotation_dir = '/home/raj/nlp/cmu-rag/rveerara/data/test/acads_lti/handbook/'
+    annotation_dir = '/home/raj/nlp/cmu-rag/rveerara/system_outputs/'
     q_file = annotation_dir + 'questions.txt'
-    a_file = annotation_dir + 'llama2-text-only-answers.txt'
+    a_file = annotation_dir + 'system_output_3.txt'
     # q_file, a_file = None, None
     # try:
     #     annotation_dir, q_file, a_file = parse_args()
@@ -178,17 +178,32 @@ if __name__ == "__main__":
     #     questions_file_name=q_file,
     #     answers_file_name=a_file)
     
-    for model in MODEL_NAMES:
-        print("Processing model: ", model)
-        do_rag_in_chunks(
-            embedding_model=get_hugging_face_embedding_model(),
-            model_name=model,
-            questions_file_name=q_file,
-            answers_file_name=annotation_dir+model+'-BGE-text-only-answers.txt',)
-        do_rag_in_chunks(
-            vector_store_path=DATABASE_PATH+'llama2-text-only',
-            embedding_model=OllamaEmbeddings(model='llama2'),
-            model_name=model,
-            questions_file_name=q_file,
-            answers_file_name=annotation_dir+model+'-LLAMA2-text-only-answers.txt',)
+    # embedding_chunk_sizes = [250, 500, 750, 1000, 1500, 2000]
+    # embeding_chunk_overlaps = [0.1, 0.2, 0.3, 0.4]
+    embedding_chunk_sizes = [1000]
+    embeding_chunk_overlaps = [0.2]
+    embedding = 'bge-all'
+    do_rag_in_chunks(
+                    vector_store_path='/home/raj/nlp/cmu-rag/chroma_vector_database/bge-text-enhanced-2000-0.4',
+                    embedding_model=get_hugging_face_embedding_model(),
+                    model_name='openchat',
+                    questions_file_name=q_file,
+                    answers_file_name=a_file,)
+    # for chunk_size in embedding_chunk_sizes:
+    #     for chunk_overlap in embeding_chunk_overlaps:
+    #         for model in MODEL_NAMES:
+    #             print("Processing model: ", model, "with chunk size: ", chunk_size, "and overlap: ", chunk_overlap)
+    #             vector_store_path = DATABASE_PATH+embedding+'-'+str(chunk_size)+'-'+str(chunk_overlap)
+    #             do_rag_in_chunks(
+    #                 vector_store_path=vector_store_path,
+    #                 embedding_model=get_hugging_face_embedding_model(),
+    #                 model_name=model,
+    #                 questions_file_name=q_file,
+    #                 answers_file_name=annotation_dir+model+'-BGE-all-' + str(chunk_size) + '-' + str(chunk_overlap) + '.txt',)
+    #             # do_rag_in_chunks(
+    #             #     vector_store_path=DATABASE_PATH+'llama2-text-only',
+    #             #     embedding_model=OllamaEmbeddings(model='llama2'),
+    #             #     model_name=model,
+    #             #     questions_file_name=q_file,
+    #             #     answers_file_name=annotation_dir+model+'-LLAMA2-text-only-answers.txt',)
     print("Done")

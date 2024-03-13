@@ -10,7 +10,7 @@ from langchain_community.embeddings import HuggingFaceBgeEmbeddings
 from chromadb.errors import InvalidDimensionException
 
 BASE_DIR = '/home/raj/nlp/cmu-rag/'
-BASE_DIR_TXT_FILES = '/home/raj/nlp/cmu-rag/data/documents/_Combined/'
+BASE_DIR_TXT_FILES = '/home/raj/nlp/cmu-rag/data/documents//_Combined_All_Files/'
 VECTOR_DATABASE_PATH = '/home/raj/nlp/cmu-rag/chroma_vector_database/'
 EMBEDDING_OPTIONS = ['llama2', 'everythinglm', 'mistral', 'neural-chat', 'openchat', 'BGE']
 
@@ -124,16 +124,16 @@ if __name__ == "__main__":
         encode_kwargs=encode_kwargs
     )
 
-    chunk_sizes = [250, 500, 750, 1000, 1500, 2000]
+    chunk_sizes = [750, 1000, 1250, 1500, 2000, 250, 500]
     chunk_overlaps = [0.1, 0.2, 0.3, 0.4]
     
     for chunk_size in chunk_sizes:
        for chunk_overlap in chunk_overlaps:
-           run(vector_store_path=VECTOR_DATABASE_PATH + 'bge-text-enhanced-' + str(chunk_size)+'-'+str(chunk_overlap), embedding_model=hf_bge_embedding_model, verbose=True, chunk_size=chunk_size, chunk_overlap=chunk_overlap)
+           run(vector_store_path=VECTOR_DATABASE_PATH + 'bge-all-' + str(chunk_size)+'-'+str(chunk_overlap), embedding_model=hf_bge_embedding_model, verbose=True, chunk_size=chunk_size, chunk_overlap=chunk_overlap)
             
-    for chunk_size in chunk_sizes:
-        for chunk_overlap in chunk_overlaps:
-            run(vector_store_path=VECTOR_DATABASE_PATH + 'llama2-text-enhanced-' + str(chunk_size)+'-'+str(chunk_overlap), embedding_model=OllamaEmbeddings(model = 'llama2'), verbose=True, chunk_size=chunk_size, chunk_overlap=chunk_overlap)
+    # for chunk_size in chunk_sizes:
+    #     for chunk_overlap in chunk_overlaps:
+    #         run(vector_store_path=VECTOR_DATABASE_PATH + 'llama2-text-enhanced-' + str(chunk_size)+'-'+str(chunk_overlap), embedding_model=OllamaEmbeddings(model = 'llama2'), verbose=True, chunk_size=chunk_size, chunk_overlap=chunk_overlap)
     
     print("Done")
     
