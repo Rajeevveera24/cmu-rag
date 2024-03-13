@@ -1,0 +1,90 @@
+Who founded the world's largest steel producing company ?
+Who was awarded the first doctorate at CMU ?
+When was the Carnegie Plan initiated ?
+When did the first IBM computer arrive to the CMU campus ?
+When did Carnegie Tech merge with the Mellon Institute ?
+Where are the CMU campuses outside of Pittsburgh located ?
+When was the school of computer science opened ?
+Who from CMU was awarded the turing award in 1975 ?
+What is the name of the structure attached to a buggy that a person pushes to propel that buggy forward ?
+What are buggy races also known as ?
+How many different countries do CMU students represent ?
+What percentage of CMU computer science first year students were women in 2019 ?
+What is the rank of the CMU's college of engineering in the world, according to US News and World Report 2022
+Who created the first smile in an email and when ?
+What did professor Louis von Ahn invent ?
+When did CMU award the first degree in drama ?
+Who wrote the last lecture along with Randy Pausch ?
+How many downloads dd the app invented by Professor Von Ahn have in 12 months ?
+When did the kiltie band begin ?
+How many students first formed the Kiltie band ?
+On which days do Kiltie band rehearsals happen during football season ?
+Where is the first rehearsal of the Kiltie band?
+Who is the Kiltie Band director ?
+What percentage of students surveyed voted for the Scottish terrier Scotty to be CMU's mascot ?
+When was the official Scotty costume unveiled ?
+When was the computer science department established ?
+When was the robotics institute created ?
+When was the logic theorist designed ?
+Who designed the first system capable of continuous speech recognition ?
+What did James Golsing develop ?
+What was the name of the first AI program ?
+What are the course numbers of the courses that MS AII students can take in the summer before entering CMU ?
+What is the course number of the capstone project for MS-AII students ?
+How many mininum elective units should MS AII students take ?
+What is the course number of the summer internship course that MS AII students must enroll in ?
+What organization advocates for the diverse interests of all graduate students at CMU ?
+Which course is required by MS AII students in order to be eligible to take course 11695 ?
+At what QPA will a student in MS AII be placed in academic probation ?
+How many core courses in the MS AII program are open only to MS AII students ?
+How many core courses in the MS AII program cannot be taken by a student in the MCDS program ?
+How many units of knowledge area courses should MS AII students complete ?
+Courses carrying more than how many units are not approved as electives for MS AII students ?
+Who should MS AII students meet with to disucss their course selection prior to each semester ?
+What is the full form of MS AII ?
+Who is the direcctor of the MS AII program ?
+Who is the dean of the school of computer science, according to the MS AII handbook ?
+What are the course numbers of the course taught by Instructor Green ?
+How many instructors teach the course titled "Navigating the Practical Realities of the Film Industry" in Fall 2023 ?
+How many units is course 70345 worth ?
+How many units is course number 93851 worth ?
+Which course offered by the Information Networking Institute has the most number of units ?
+On what days of the week is course 14832 offered in Fall 2023 ?
+How many unique courses are taught by Professor Neubig ?
+Under which department does Morency teach courses ?
+Which department offers courses whose course number starts with the number 11 ?
+In which buildings located in Pittsburgh does Zimmerman take classes ?
+IN which building does Zimmerman take classes with Musuraca ?
+Which course is taught by Ramakrishnan alone in San Jose ?
+What course taught by Feinberg does not end at 11:50 ?
+How many courses are taught by Demirkoparan in Pittsburgh ?
+Which course offered by the LTI department is taught in DH 2315 ?
+Which course taught by Shamos is worth the most units ?
+Across how many departments does Shamos teach courses ?
+How many units does Neubig teach at TEP 1403 in Spring 2024 ?
+How many units worth of classes ending at 1:50 pm does Neubig teach ?
+Which department offers a twelve unit course at WEH 4707 that ends at 3:20 pm ?
+How many course that start with the title  "Introduction to Deep Learning" do not have a course number starting with 11 ?
+How many research and technical staff does LTI have ?
+What is the most common office location for faculty members at LTI ?
+How many affiliated faculty of LTI are located in Baker or Baker-Porter Hall ?
+Which is the second most common office location among LTI faculty ?
+What is the email of the faculty member whose office is located at 6701 Gates & Hillman Centers ?
+What is the phone number of the instructor of the course titled Artficial Intelligence for Future Markets ?
+Where is the office of the instructor for course number 11-711 ?
+Where is the office of the instructor for the course taught in TEP 1403 at 12:30 on Tuesdays in Spring 2024 ?
+Which room number that is occupied by staff is also common between two different buildings ?
+WWhose office is likely closest to room TCS 350 ?
+At what time on Tuesdays during working hours is Yonatan Bisk not likely to be in his office ?
+WHat is the phone number of the faculty who is interested in AI drug discovery and LLMs located ?'
+Who would I say hello to if I called 412-268-1330 ?
+Which adjunct faculty member likely works at Google ?
+Who is the first author on the paper -  DataFinder Scientific Dataset Recommendation from Natural Language Descriptions ?
+In which conference was the paper titled "Why do Nearest Neighbor Language Models Work?" published ?
+Which paper did Gormley, Bertsch, Uri, Matthew R and Neubig publish together ?
+Which paper did Bertsch, Uri, Matthew R and the instructors of courses 11711 and 10601 publish together ?
+Which paper did Bertsch, Gormley and Neubig publish without Uri Alon ?
+Who was the second author in the paper where Emmy Liu was the first author ? 
+How many papers did Graham Neubig author in 2023 ?
+Which author of the paper titled " Unsupervised Dense Retrieval Training with Web Anchors" did not publish any other paper in 2023 ?
+Who authored a paper on Plastic Litter ? How many papers did this person author in total in 2023 ?
