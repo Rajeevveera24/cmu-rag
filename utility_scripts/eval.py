@@ -108,28 +108,30 @@ def rouge_score(prediction, ground_truths):
     rougel = max(s[2] for s in scores)
     return rouge1, rouge2, rougel
 
+def parse_args():
+    import argparse
+
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--gold", type=str, default="reference_answers.txt")
+    parser.add_argument("--file", type=str, default="llama2-text-only-answers.txt")
+
+    return parser.parse_args()
+
 if __name__ == "__main__":
+    args = parse_args()
+    gold, file = args.gold, args.file
 
-    file_gold, file_1, file_2 = 'reference_answers.txt', 'llama2-text-only-answers.txt', 'bge-large-en-text-only-answers.txt'
-
-    answer_files = ['gemma', 'llama2', 'mistral', 'neural-chat', 'openchat', 'tinyllama', 'everythinglm']
-    files_eval_1 = [f"{f}-BGE-text-only-answers.txt" for f in answer_files]
-    files_eval_2 = [f"{f}-LLAMA2-text-only-answers.txt" for f in answer_files]
-    files_eval = files_eval_1 + files_eval_2
-    # files_eval = ['llama2-text-only-answers.txt', 'bge-large-en-text-only-answers.txt']
-
-    with open(f"{FILE_DIR}/{file_gold}", 'r') as f:
+    with open(gold, 'r') as f:
         gold = f.readlines()
+    
+    gold = [x.strip() for x in gold]
     ground_truths = []
+    
     for g in gold:
         ground_truths.append([g_.strip() for g_ in g.split(';')])
-    gold = [x.strip() for x in gold]
 
-    scores_dict = {k : {} for k in files_eval}
-
-    for file in files_eval:
-        with open(f"{FILE_DIR}/{file}", 'r') as f:
-            sys = f.readlines()
+    with open(file, 'r') as f:
+        sys = f.readlines()
         sys = [x.strip() for x in sys]
 
         assert len(gold) == len(sys), f"Length of gold and sys do not match for {file} with {len(gold)} and {len(sys)} respectively."
@@ -152,18 +154,24 @@ if __name__ == "__main__":
             score_precision = precision_score(sys[i], ground_truths[i], normalize_fn=normalize_answer)
             scores_precision.append(score_precision)
         
-        scores_dict[file]["f1"] = 100 * round(np.mean(scores_f1), 3)
-        scores_dict[file]["rogue"] = 100 * round(np.mean(scores_rogue), 3)
-        scores_dict[file]["em"] =   round(np.mean(scores_em), 3) * 100
-        scores_dict[file]["recall"] =       round(np.mean(scores_recall), 3) * 100
-        scores_dict[file]["precision"] =            round(np.mean(scores_precision), 3)     * 100
-    
-        print(f"{file} mean f1 score: {scores_dict[file]['f1']}")
-        print(f"{file} mean rouge score: {scores_dict[file]['rogue']}")
-        print(f"{file} mean exact match score: {scores_dict[file]['em']}")
-        print(f"{file} mean recall score: {scores_dict[file]['recall']}")
-        print(f"{file} mean precision score: {scores_dict[file]['precision']}")
+        score_f1 = np.mean(scores_f1)
+        score_rogue = np.mean(scores_rogue)
+        score_em = np.mean(scores_em)
+        score_recall = np.mean(scores_recall)
+        score_precision = np.mean(scores_precision)
 
-        print()
+        score_f1 = 100 * round(score_f1, 2)
+        score_rogue = 100 * round(score_rogue, 2)
+        score_em = 100 * round(score_em, 2)
+        score_recall = 100 * round(score_recall, 2)
+        score_precision = 100 * round(score_precision, 2)
+
+
+        print(file)
+        print("\tF1: \t\t", score_f1)
+        print("\tRouge: \t\t", score_rogue)
+        print("\tEM: \t\t", score_em)
+        print("\tRecall: \t", score_recall)
+        print("\tPrecision: \t", score_precision)
 
     # print(scores_dict)
