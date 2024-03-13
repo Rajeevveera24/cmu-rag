@@ -90,4 +90,4 @@ chroma_vector_database/
 rveerara/data/test/*-answers.txt
 
 # Runner shell scripts - These will be constantly updated during the experimentation phase, so we can ignore them
-utility_scripts/run*.sh 
+utility_scripts/runner_scripts/
