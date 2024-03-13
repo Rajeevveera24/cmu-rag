@@ -65,7 +65,26 @@ MSAII Program Capstone 11699; 11699
 12.0; 12; twelve
 LTI; Language Technolgies Institute
 4; 4.0; Four
-
-
-
-
+12; 12.0; twelve
+Gates & Hillman; Gates Hillman Centers
+2; 2.0; two
+TCS Hall
+rstarzl@andrew.cmu.edu"
+412-268-8193; 4122688193; 412 268 8193
+5409 Gates & Hillman Centers
+5409 Gates & Hillman Centers
+5715
+Amber Visis; Amber Vivis TCS 357
+9:30 am to 11:00 am
+412-268-6355
+Jack Mostow; Mostow
+Lu Jiang; lujiang
+Vijay Viswanathan
+International Conference on Machine Learning, ICML, Int Conf Mach Learn
+Unlimiformer Long-Range Transformers with Unlimited Length Input
+Unlimiformer Long-Range Transformers with Unlimited Length Input
+MBR All the Way Down Modern Generation Techniques Through the Lens of Minimum Bayes Risk
+ Aditi Chaudhary
+ 38; thirty eight; thirtyeight; 38.0
+ X. Liu; Liu; X Liu
+ Shinji Watanabe 74; Watanabe 74

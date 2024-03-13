@@ -64,4 +64,27 @@ Across how many departments does Shamos teach courses ?
 How many units does Neubig teach at TEP 1403 in Spring 2024 ?
 How many units worth of classes ending at 1:50 pm does Neubig teach ?
 Which department offers a twelve unit course at WEH 4707 that ends at 3:20 pm ?
-How many course start with the title  "Introduction to Deep Learning" do not have a course number starting with 11 ?
+How many course that start with the title  "Introduction to Deep Learning" do not have a course number starting with 11 ?
+How many research and technical staff does LTI have ?
+What is the most common office location for faculty members at LTI ?
+How many affiliated faculty of LTI are located in Baker or Baker-Porter Hall ?
+Which is the second most common office location among LTI faculty ?
+What is the email of the faculty member whose office is located at 6701 Gates & Hillman Centers ?
+What is the phone number of the instructor of the course titled Artficial Intelligence for Future Markets ?
+Where is the office of the instructor for course number 11-711 ?
+Where is the office of the instructor for the course taught in TEP 1403 at 12:30 on Tuesdays in Spring 2024 ?
+Which room number that is occupied by staff is also common between two different buildings ?
+WWhose office is likely closest to room TCS 350 ?
+At what time on Tuesdays during working hours is Yonatan Bisk not likely to be in his office ?
+WHat is the phone number of the faculty who is interested in AI drug discovery and LLMs located ?'
+Who would I say hello to if I called 412-268-1330 ?
+Which adjunct faculty member likely works at Google ?
+Who is the first author on the paper -  DataFinder Scientific Dataset Recommendation from Natural Language Descriptions ?
+In which conference was the paper titled "Why do Nearest Neighbor Language Models Work?" published ?
+Which paper did Gormley, Bertsch, Uri, Matthew R and Neubig publish together ?
+Which paper did Bertsch, Uri, Matthew R and the instructors of courses 11711 and 10601 publish together ?
+Which paper did Bertsch, Gormley and Neubig publish without Uri Alon ?
+Who was the second author in the paper where Emmy Liu was the first author ? 
+How many papers did Graham Neubig author in 2023 ?
+Which author of the paper titled " Unsupervised Dense Retrieval Training with Web Anchors" did not publish any other paper in 2023 ?
+Who authored a paper on Plastic Litter ? How many papers did this person author in total in 2023 ?
