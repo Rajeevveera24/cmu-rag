@@ -1,30 +1,26 @@
-import os, time, argparse
-import chromadb
+import argparse
 
 from langchain_community.embeddings import OllamaEmbeddings
 from langchain_community.vectorstores import Chroma
-from langchain_core.prompts import PromptTemplate
 from langchain_core.output_parsers import StrOutputParser
 from langchain_community.llms import Ollama
-from langchain_core.runnables import RunnablePassthrough, RunnablePick
+from langchain_core.runnables import RunnablePassthrough
 from langchain_community.embeddings import HuggingFaceBgeEmbeddings
 
 from langchain import hub
 
 from chromadb.errors import InvalidDimensionException
 
-DATABASE_PATH = '/home/raj/nlp/cmu-rag/chroma_vector_database/'
-MODEL_NAMES = ['tinyllama', 'llama2', 'gemma', 'mistral', 'neural-chat', 'openchat', 'everythinglm']
-VECTOR_STORE_DIRECTORIES = [DATABASE_PATH + embedding_name for embedding_name in MODEL_NAMES] # Not relevant anymore
+VECTOR_DATABASES_DIR_PATH = '/home/raj/nlp/cmu-rag/chroma_vector_database/'
+VECTOR_STORE_DEFAULT = 'bge-500-0.2'
+EMMBEDDING_DEFAULT = 'bge'
 ANNOTATION_DIR = '/home/raj/nlp/cmu-rag/rveerara/system_outputs/'
-ANNOTATION_FILE = ANNOTATION_DIR + 'questions.txt'
-PROMPT_MESSAGE_LLAMA2 = """You are an assistant for question-answering tasks. Use the following pieces of retrieved context to answer the question. If you don't know the answer, just say that you don't know. Use as few words as possible and keep the answer concise. Do not mention the context in your response.
+QUESTIONS_FILE = ANNOTATION_DIR + 'questions.txt'
+ANSWERS_FILE = ANNOTATION_DIR + 'answers.txt'
+PROMPT_MESSAGE_LLAMA2 = """You are an assistant for question-answering tasks. Use the following pieces of retrieved context to answer the question. Use as few words as possible and keep the answer concise. Do not mention the context in your response.
     Question: {question} 
     Context: {context} 
     Answer:"""
-
-
-
 
 def load_vector_store(dir, embedding_model = OllamaEmbeddings()):
     try:
@@ -34,11 +30,11 @@ def load_vector_store(dir, embedding_model = OllamaEmbeddings()):
     return vector_store
 
 
-def create_chain(vector_store, model_name = 'llama2', prompt_message = PROMPT_MESSAGE_LLAMA2):
+def create_chain(vector_store, inference_model = Ollama(model='llama2'), prompt_message = PROMPT_MESSAGE_LLAMA2):
     
     rag_prompt_llama = hub.pull("rlm/rag-prompt-llama")
     rag_prompt_llama.messages[0].prompt.template = prompt_message
-    llm = Ollama(model = model_name)    
+    llm = inference_model
 
     def format_docs(docs):
         return "\n\n".join(doc.page_content for doc in docs)
@@ -54,7 +50,7 @@ def create_chain(vector_store, model_name = 'llama2', prompt_message = PROMPT_ME
     return qa_chain
 
 
-def get_questions(file_name = ANNOTATION_FILE):
+def get_questions(file_name = QUESTIONS_FILE):
     
     if not file_name.endswith('questions.txt'):
         raise ValueError("Invalid file name")
@@ -67,7 +63,7 @@ def get_questions(file_name = ANNOTATION_FILE):
     return questions
 
 
-def generate_answers(qa_chain, questions=get_questions()):
+def generate_answers(qa_chain, questions):
     if not questions:
         raise ValueError("No questions to answer")
     if not qa_chain:
@@ -104,6 +100,26 @@ def write_answers(answers, file_name, append = False):
     except Exception as e:
         raise Exception("Error writing answers to file: " + str(e))
 
+def do_rag_in_chunks(vector_store_path=VECTOR_DATABASES_DIR_PATH+VECTOR_STORE_DEFAULT,
+        embedding_model = None,
+        inference_model=Ollama(model='llama2'),
+        questions_file_name=QUESTIONS_FILE,
+        answers_file_name=ANSWERS_FILE,
+        append=False,
+        questions_to_process_at_once=50,):
+    if not embedding_model:
+        raise ValueError("Invalid embedding model")
+    vector_store = load_vector_store(vector_store_path, embedding_model)
+    qa_chain = create_chain(vector_store, inference_model=inference_model)
+    questions = get_questions(file_name=questions_file_name)
+    num_questions = len(questions)
+    for i in range(0, num_questions, questions_to_process_at_once):
+        questions_chunk = questions[i:min(i+questions_to_process_at_once, num_questions)]
+        answers = generate_answers(qa_chain, questions_chunk)
+        write_answers(answers, answers_file_name, append=True) if i > 0 else write_answers(answers, answers_file_name, append=append)
+        print(f"Processed {i+questions_to_process_at_once} questions out of {num_questions}")
+
+
 def get_hugging_face_embedding_model():
     model_name = "BAAI/bge-large-en"
     model_kwargs = {"device": "cuda"}
@@ -115,80 +131,49 @@ def get_hugging_face_embedding_model():
     )
     return hf
 
-def do_rag(vector_store_path=DATABASE_PATH+'bge-large-en',
-        embedding_model=get_hugging_face_embedding_model(),
-        model_name='llama2',
-        questions_file_name=ANNOTATION_DIR+'questions.txt',
-        answers_file_name=ANNOTATION_DIR+'answers.txt',
-        append=False):
-    vector_store = load_vector_store(vector_store_path, embedding_model)
-    qa_chain = create_chain(vector_store, model_name)
-    questions = get_questions(file_name=questions_file_name)
-    answers = generate_answers(qa_chain, questions)
-    write_answers(answers, answers_file_name, append=append)
-
-def do_rag_in_chunks(vector_store_path=DATABASE_PATH+'bge-large-en-text-only',
-        embedding_model=get_hugging_face_embedding_model(),
-        model_name='llama2',
-        questions_file_name=ANNOTATION_DIR+'questions.txt',
-        answers_file_name=ANNOTATION_DIR+'answers.txt',
-        append=False,
-        question_chunk_size=50,):
-    vector_store = load_vector_store(vector_store_path, embedding_model)
-    qa_chain = create_chain(vector_store, model_name)
-    questions = get_questions(file_name=questions_file_name)
-    num_questions = len(questions)
-    for i in range(0, num_questions, question_chunk_size):
-        questions_chunk = questions[i:min(i+question_chunk_size, num_questions)]
-        answers = generate_answers(qa_chain, questions_chunk)
-        write_answers(answers, answers_file_name, append=True) if i > 0 else write_answers(answers, answers_file_name, append=append)
-        print(f"Processed {i+question_chunk_size} questions out of {num_questions}")
-
-# def parse_args():
-#     parser = argparse.ArgumentParser(description="Get read and write file names")
-
-#     parser.add_argument('--dir', metavar='N', type=int, nargs='+',
-#                         help='an integer for the accumulator')
-#     parser.add_argument('--qf', metavar='N', type=int, nargs='+',
-#                         help='an integer for the accumulator')
-
-#     parser.add_argument('--af', dest='accumulate', action='store_const',
-#                         const=sum, default=max,
-#                         help='sum the integers (default: find the max)')
+def parse_arguments():
     
-#     args = parser.parse_args()
-#     return args.dir, args.qf, args.af
+    parser = argparse.ArgumentParser(description='RAG Chain')
+    parser.add_argument('--vector', type=str, default=VECTOR_DATABASES_DIR_PATH+VECTOR_STORE_DEFAULT, help='Path to the directory containing the vector store')
+    parser.add_argument('--embed', type=str, default=EMMBEDDING_DEFAULT, help='Embedding model to be used for loading embeddings')
+    parser.add_argument('--model', type=str, default='llama2', help='Model name to be used for read documents and generate answers')
+    parser.add_argument('--questions', type=str, default=QUESTIONS_FILE, help='Path to the file containing questions')
+    parser.add_argument('--answers', type=str, default=ANSWERS_FILE, help='Path to the file where answers will be written')
+    parser.add_argument('--append', type=bool, default=False, help='Append answers to the file')
+    
+    args = parser.parse_args()
+
+    return args
 
 
 if __name__ == "__main__":
-    # annotation_dir = '/home/raj/nlp/cmu-rag/rveerara/system_outputs/'
-    annotation_dir = '/home/raj/nlp/cmu-rag/rveerara/data/test/acads_lti/handbook/'
-    q_file = annotation_dir + 'questions.txt'
-    a_file = annotation_dir + 'llama2-text-only-answers.txt'
-    # q_file, a_file = None, None
-    # try:
-    #     annotation_dir, q_file, a_file = parse_args()
-    # except Exception as e:
-    #     print("Error parsing arguments: ", e)
-    #     print("Using default file names")
-    #     exit(1)
-    # do_rag_in_chunks(vector_store_path=DATABASE_PATH+'llama2-text-only',
-    #     embedding_model=OllamaEmbeddings(model='llama2'),
-    #     model_name='llama2',
-    #     questions_file_name=q_file,
-    #     answers_file_name=a_file)
+
+    print("Starting RAG Chain")
+
+    args = parse_arguments()
+    vector_store_path = args.vector
+    embedding_model_option = args.embed
+    model_name = args.model
+    questions_file_name = args.questions
+    answers_file_name = args.answers
+    append = args.append
+
+    embedding_model = get_hugging_face_embedding_model() if embedding_model_option == 'bge' else OllamaEmbeddings(model=embedding_model_option)
+    inference_model = Ollama(model=model_name)
     
-    for model in MODEL_NAMES:
-        print("Processing model: ", model)
-        do_rag_in_chunks(
-            embedding_model=get_hugging_face_embedding_model(),
-            model_name=model,
-            questions_file_name=q_file,
-            answers_file_name=annotation_dir+model+'-BGE-text-only-answers.txt',)
-        do_rag_in_chunks(
-            vector_store_path=DATABASE_PATH+'llama2-text-only',
-            embedding_model=OllamaEmbeddings(model='llama2'),
-            model_name=model,
-            questions_file_name=q_file,
-            answers_file_name=annotation_dir+model+'-LLAMA2-text-only-answers.txt',)
+    print("Starting RAG Chain with the following parameters:")
+    print(f"\tVector Store Path: {vector_store_path}")
+    print(f"\tEmbedding Model: {embedding_model.__class__.__name__}")
+    print((f"\tInference Model: {inference_model.__class__.__name__}") + (f" ({model_name})" if model_name else ""))
+    print(f"\tQuestions File: {questions_file_name}")
+    print(f"\tAnswers File: {answers_file_name}")
+    print(f"\tAppend: {append}")
+
+    do_rag_in_chunks(vector_store_path=vector_store_path,
+        embedding_model=embedding_model,
+        inference_model=inference_model,
+        questions_file_name=questions_file_name,
+        answers_file_name=answers_file_name,
+        append=append)
+    
     print("Done")
