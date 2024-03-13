@@ -76,7 +76,7 @@ As I worked alone on this assignment, I could not calculate an inter annotator a
 The RAG system was built on a GCP compute instance - n1-highmem-4 with 4 core CPU, 1 NVIDIA T4 GPU, 26 GB RAM, and 160 GB SSD. This influenced the choice of inference and embedding models.
 Langchain \cite{lang-chain} was used to build the embedder and retriever modules due to its ease of use and integrations available.
 \subsection{Embedding Models and Vector Store}
-I chose to use the bge-large-en-v1.5 BGE embedding model as it is an established model in the top 15 of the MTEB leader board. Further, the v1.5 model update embedding model: release bge-*-v1.5 embedding model alleviates the issue of the similarity distribution and has ehanced retrieval ability without instruction, compared to earlier bge models.
+I chose to use the bge-large-en-v1.5 BGE embedding model as it is an established model in the top 15 of the MTEB leader board. Further, the v1.5 model update embedding model: release bge-en-v1.5 embedding model alleviates the issue of the similarity distribution and has ehanced retrieval ability without instruction, compared to earlier bge models.
 \\
 I experimented with the chunk sizes for both embeddings to find out the which size fits best.
 I used recursive chunking for greater granularity and variety of text, varying the chunk overlap between 0.1 and 0.4 times the size of the chunk size to see what effect the overlap had on the retrieval results.  The embeddings were stored in a Chroma vector database due to its support for multiple formats and ease of use for a first time user.
@@ -86,117 +86,95 @@ I also evaluated llama2-7b embeddings and compared the two sets of embeddings to
 I used the following suite of open source models available with Ollama: llama2-7b, mistral, open-chat and neural-chat. I expected the 4 models to give different performances across the metrics measured while all being light weight enough to run locally with a reasonable infernce time.
 Among the 4 models, I expected to choose 2 for the final unseen test set submission, based on their relative peformance F1, recall and exact match. I did not expect any of these models to do very well at exact matching as they are all chat models.
 
-% The first line of the file must be
-% \begin{quote}
-% \begin{verbatim}
-% \documentclass[11pt]{article}
-% \end{verbatim}
-% \end{quote}
-
-% To load the style file in the review version:
-% \begin{quote}
-% \begin{verbatim}
-% \usepackage[review]{acl}
-% \end{verbatim}
-% \end{quote}
-% For the final version, omit the \verb|review| option:
-% \begin{quote}
-% \begin{verbatim}
-% \usepackage{acl}
-% \end{verbatim}
-% \end{quote}
-
-% To use Times Roman, put the following in the preamble:
-% \begin{quote}
-% \begin{verbatim}
-% \usepackage{times}
-% \end{verbatim}
-% \end{quote}
-% (Alternatives like txfonts or newtx are also acceptable.)
-
-% Please see the \LaTeX{} source of this document for comments on other packages that may be useful.
-
-% Set the title and author using \verb|\title| and \verb|\author|. Within the author list, format multiple authors using \verb|\and| and \verb|\And| and \verb|\AND|; please see the \LaTeX{} source for examples.
-
-% By default, the box containing the title and author names is set to the minimum of 5 cm. If you need more space, include the following in the preamble:
-% \begin{quote}
-% \begin{verbatim}
-% \setlength\titlebox{<dim>}
-% \end{verbatim}
-% \end{quote}
-% where \verb|<dim>| is replaced with a length. Do not set this length smaller than 5 cm.
-
 \section{Results}
 
-As shown in the table 1, the BGE embeddings gave better results than the llama2-7b embeddings across different inference models. The BGE embeddings had a higher F1 score, with a significant difference.
-Further, the BGE embeddings with the Openchat model gave the best results, with a 21.1\% F1 score. 
-\subsection{Comparison of Models}
+\subsection{Embedding Models}
+
+I compared performance across 2 embeddings to choose an embedding model - \textbf{bge-large-en-v1.5 and llama2-7b}. I used F1 score as the primary metric to compare the embeddings, along with recall, precision, rogue score and exact match. The results are shown in tables \ref{tab:accents} and \ref{tab:accents2}.
 \begin{table}
 \centering
-\begin{tabular}{lc}
-\hline
-\textbf{Embedding + Model} & \textbf{F1 Score \%}\\
-\hline
-\verb|Llama2 Embedding + Llama2| &  {5.6} \\
-\verb|Llama2 Embedding + Mistral| & {5.9} \\
-\verb|Llama2 Embedding + Open chat| & {7.8} \\ 
-\verb|BGE + Lllama2| & {11.6} \\ 
-\verb|BGE + Mistral| & {10.5} \\
-\verb|BGE + Openchat| & {21.1}  \\ 
-\hline
-\end{tabular}
-\caption{}
+  \begin{tabular}{ l c c r }
+  \hline
+    \textbf{Model} & \textbf{Chunk Size} & \textbf{F1 Score \%} & \textbf{Recall}\\
+    \hline
+    \verb|Llama2 | & 500 &  {5.6} & {} \\
+    \verb|Openchat | & 500 & {7.8}  & {}\\ 
+    \verb|Neural Chat | & 500 &{7.8}  & {}\\ 
+    \verb|Llama2 | & 1000 &  {5.6}  & {}\\
+    \verb|Openchat | & 1000 & {7.8} \ & {} \\ 
+    \verb|Neural Chat | & 1000 &{7.8}  & {}\\ 
+    \hline
+  \end{tabular}
+\caption{Evaluation results with Llama2 embeddings}
 \label{tab:accents}
 \end{table}
 
+\begin{table}
+  \centering
+    \begin{tabular}{ l c c r }
+    \hline
+      \textbf{Model} & \textbf{Chunk Size} & \textbf{F1 Score \%} & \textbf{Recall}\\
+      \hline
+      \verb|Llama2 | & 500 &  {5.6} & {} \\
+      \verb|Openchat | & 500 & {7.8}  & {}\\ 
+      \verb|Neural Chat | & 500 &{7.8}  & {}\\ 
+      \verb|Llama2 | & 1000 &  {5.6}  & {}\\
+      \verb|Openchat | & 1000 & {7.8} \ & {} \\ 
+      \verb|Neural Chat | & 1000 &{7.8}  & {}\\ 
+      \hline
+    \end{tabular}
+  \caption{Evaluation results with BGE embeddings}
+  \label{tab:accents2}
+  \end{table}
 
+  Which embedding was better across evaluation metrics, chunk sizes and models ?
+  Was one embeddings signifactly better than the other ?
 
-% Footnotes are inserted with the \verb|\footnote| command.\footnote{This is a footnote.}
+\subsection{Comparison of Models}
 
-% \subsection{Tables and figures}
+After selecting the embedding, I compared the performance of the 4 models across the same metrics as the embeddings. The results are shown in tables \ref{tab:tab3}.
+  
+\begin{table}
+  \centering
+    \begin{tabular}{ l c c r }
+    \hline
+      \textbf{Model} & \textbf{Chunk Size} & \textbf{Retriever} & \textbf{F1 Score \%} \\
+      \hline
+      \verb|Llama2 | & 500 &  {} & {} \\
+      \verb|Openchat | & 500 & {}  & {}\\ 
+      \verb|Neural Chat | & 500 &{}  & {}\\ 
+      \verb|Llama2 | & 1000 &  {}  & {}\\
+      \verb|Openchat | & 1000 & {} \ & {} \\ 
+      \verb|Neural Chat | & 1000 &{}  & {}\\ 
+      \hline
+    \end{tabular}
+  \caption{Evaluation results with Llama2 embeddings}
+  \label{tab:tab3}
+  \end{table}
 
-% See Table~\ref{tab:accents} for an example of a table and its caption.
-% \textbf{Do not override the default caption sizes.}
-
-% \begin{table}
-% \centering
-% \begin{tabular}{lc}
-% \hline
-% \textbf{Command} & \textbf{Output}\\
-% \hline
-% \verb|{\"a}| & {\"a} \\
-% \verb|{\^e}| & {\^e} \\
-% \verb|{\`i}| & {\`i} \\ 
-% \verb|{\.I}| & {\.I} \\ 
-% \verb|{\o}| & {\o} \\
-% \verb|{\'u}| & {\'u}  \\ 
-% \verb|{\aa}| & {\aa}  \\\hline
-% \end{tabular}
-% \begin{tabular}{lc}
-% \hline
-% \textbf{Command} & \textbf{Output}\\
-% \hline
-% \verb|{\c c}| & {\c c} \\ 
-% \verb|{\u g}| & {\u g} \\ 
-% \verb|{\l}| & {\l} \\ 
-% \verb|{\~n}| & {\~n} \\ 
-% \verb|{\H o}| & {\H o} \\ 
-% \verb|{\v r}| & {\v r} \\ 
-% \verb|{\ss}| & {\ss} \\
-% \hline
-% \end{tabular}
-% \caption{Example commands for accented characters, to be used in, \emph{e.g.}, Bib\TeX{} entries.}
-% \label{tab:accents}
-% \end{table}
+How do the models comapre across evaluation metrics, chunk sizes and models ?
+Was one model signifactly better than the rest ?
 
 \section{Analysis}
+The annotations contained questions that required different types and numbers of documents to answer them. For example, most questions from the history category could be found from the context within one document. Similarly, questions from the schedules category that simply asked where or when a class was held were expected to be easier for the RAG system.
+Questions from the LTI faculty and LTI research categories were also of two types - ones whose answers could be found within one document or ones that needed collection of information from multiple documents. By document, I refer to the chunked documents here.
+Questions such as \textit{Which author of the paper titled " Unsupervised Dense Retrieval Training with Web Anchors" did not publish any other paper in 2023 ?} required information from all documents corresponding to LTI papers. This question was not expected to be answere correctly by any of the baseline models.
+I categorized the question based on a hypothetical difficulty level, in terms of how many documents would be needed to capture the answer, and evaluated the peformance of the models I tsted across these difficulty levels. The results of this evaluation are given below.
+\subsection{Single Document Questions}
+
+\subsection{Simple Multi Document Questions}
+
+\subsection {Complex Multi Document Questions}
+\section{Conclusion}
+
 
 \clearpage
 \section*{Acknowledgements}
-
-\textbf{Sudeep Agarwal sudeepag@andreew.cmu.edu} \textit{contributed to the scraping of raw data for academic calendar schedule, LTI faculty and LTI faculty research}
+I acklowledge the contributions of the following people to this assignment and report:
 \\
-\textbf{Hugo C hcontant@andrw.cmu.edu} \textit{contributed to the scraping of raw data for Kiltie band, Scottie and Tartans}
+\textbf{Sudeep Agarwal (sudeepag@andreew.cmu.edu)} \textit{contributed to the scraping of raw data for academic calendar schedule, LTI faculty and LTI faculty research}
+\\
+\textbf{Hugo C (hcontant@andrw.cmu.edu)} \textit{contributed to the scraping of raw data for Kiltie band, Scottie and Tartans}
 
 \bibliography{custom}
 
