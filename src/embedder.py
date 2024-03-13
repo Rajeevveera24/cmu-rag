@@ -123,8 +123,8 @@ if __name__ == "__main__":
     vector_store_path = args.vector
     embedding_model_option = args.embed
     verbose = args.verbose
-    chunk_size = args.chunk_size
-    chunk_overlap = args.chunk_overlap
+    chunk_size = int(args.chunk_size)
+    chunk_overlap = float(args.chunk_overlap)
 
     vector_store_path = vector_store_path + '-' + str(chunk_size) + '-' + str(chunk_overlap)
 
