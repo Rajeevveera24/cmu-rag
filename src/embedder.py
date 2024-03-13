@@ -126,7 +126,6 @@ if __name__ == "__main__":
     chunk_size = args.chunk_size
     chunk_overlap = args.chunk_overlap
 
-    vector_store_path = vector_store_path + '/' if vector_store_path[-1] != '/' else vector_store_path
     vector_store_path = vector_store_path + '-' + str(chunk_size) + '-' + str(chunk_overlap)
 
     embeding_model = get_bge_embedding_model() if embedding_model_option == 'bge' else OllamaEmbeddings(model=embedding_model_option)
