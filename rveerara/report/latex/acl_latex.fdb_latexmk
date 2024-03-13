@@ -1,14 +1,14 @@
 # Fdb version 3
-["bibtex acl_latex"] 1710288879 "acl_latex.aux" "acl_latex.bbl" "acl_latex" 1710288880
+["bibtex acl_latex"] 1710301682 "acl_latex.aux" "acl_latex.bbl" "acl_latex" 1710301683
   "./acl_natbib.bst" 1710256590 47709 d9d0ab22329e3318a3d1b2ae6abaab62 ""
-  "acl_latex.aux" 1710288880 2504 0224c49389f6c4b8864cd361f1fab5df "pdflatex"
-  "custom.bib" 1710282763 2333 6bbbb176aa94fa5a9b471c1e649d5832 ""
+  "acl_latex.aux" 1710301683 2809 95d85401b04f7faad352c8b366416a4c "pdflatex"
+  "custom.bib" 1710301545 2514 1f2961123988e4ea6a11f0ed37d15598 ""
   (generated)
   "acl_latex.bbl"
   "acl_latex.blg"
-["pdflatex"] 1710288879 "/home/raj/Documents/cmu/sem2/anlp/assignments/cmu-rag/rveerara/report/latex/acl_latex.tex" "acl_latex.pdf" "acl_latex" 1710288880
+["pdflatex"] 1710301682 "/home/raj/Documents/cmu/sem2/anlp/assignments/cmu-rag/rveerara/report/latex/acl_latex.tex" "acl_latex.pdf" "acl_latex" 1710301683
   "/etc/texmf/web2c/texmf.cnf" 1694625654 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/raj/Documents/cmu/sem2/anlp/assignments/cmu-rag/rveerara/report/latex/acl_latex.tex" 1710288877 9354 01e21342afa0e8c33fd3c6c99a13a349 ""
+  "/home/raj/Documents/cmu/sem2/anlp/assignments/cmu-rag/rveerara/report/latex/acl_latex.tex" 1710301680 10222 19b0bdbbf0c9961aff1b639f46a4707b ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/inconsolata/i4-t1-0.enc" 1558214095 7631 5169ff1acd97ff1c4ab83563c99f96f4 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -19,6 +19,7 @@
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/times/ptmr8t.tfm" 1136768653 6672 e3ab9e37e925f3045c9005e6d1473d56 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/times/ptmri8r.tfm" 1136768653 4640 532ca3305aad10cc01d769f3f91f1029 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/times/ptmri8t.tfm" 1136768653 6944 94c55ad86e6ea2826f78ba2240d50df9 ""
+  "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm" 1136768653 1528 abec98dbc43e172678c11b3b9031252a ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1136768653 1524 4414a8315f39513458b80dfc63bff03a ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm" 1136768653 1512 f21f83efb36853c0b70002322c1ab3ad ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm" 1136768653 1520 eccf95517727cb11801f4f1aee3a21b4 ""
@@ -115,10 +116,10 @@
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1695152667 4073795 a82a847ac97773bf4a607ab050efa3a1 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1694625669 1435973 ec0676a4bf0f14221d9323139e033af9 ""
   "acl.sty" 1710256590 11830 360307abc31eed6cc9974bc28f44bcc3 ""
-  "acl_latex.aux" 1710288880 2504 0224c49389f6c4b8864cd361f1fab5df "pdflatex"
-  "acl_latex.bbl" 1710288879 348 2b2f282bf8f899bcbb1f3ae7de00c2ef "bibtex acl_latex"
-  "acl_latex.out" 1710288880 1906 1be9c46b7215f76bf19873c81416cc56 "pdflatex"
-  "acl_latex.tex" 1710288877 9354 01e21342afa0e8c33fd3c6c99a13a349 ""
+  "acl_latex.aux" 1710301683 2809 95d85401b04f7faad352c8b366416a4c "pdflatex"
+  "acl_latex.bbl" 1710301682 534 25e591712856c817dea2ec02f9e3f10f "bibtex acl_latex"
+  "acl_latex.out" 1710301683 1886 48f0c184a581640e9f44007262267ea6 "pdflatex"
+  "acl_latex.tex" 1710301680 10222 19b0bdbbf0c9961aff1b639f46a4707b ""
   (generated)
   "acl_latex.aux"
   "acl_latex.log"

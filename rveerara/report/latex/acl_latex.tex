@@ -67,13 +67,14 @@ The academic calendars for 2022-23 and 2023-24 were downloaded as PDFs and parse
 A total of 115 test annotation pairs were created manually - 31 for the history and events category, 15 for the LTI program handbook category, 30 for the CMU courses category, 20 for the LTI faculty category, and 19 for the LTI faculty research category.
 This split covered the different types of data collected, and the different types of questions that could be asked on them. No train annotations were created, since there was no fine tuning or few shot prompting being performed. The annotations were used to select the best models and embeddings.
 All the reference answers were kept down to 5 words with multiple variations being accepted (eg - 11711; 11-711; 11711 course; 11-711 course; 11711 course at CMU; 11-711 course at CMU etc). Reference answers were kept as short as possible with the goal of selecting a model that gave concise answers (to maintain the F1 score), while maintaining recall.
-\\ How did you estimate the quality of your annotations? (IAA)
+This likely resulted in low f1 scores, but the idea behind this is to select a model that is concise.
+As I worked alone on this assignment, I could not calculate an inter annotator agreement score.
 
 \section{Model Details}
 
 \subsection{Constraints}
 The RAG system was built on a GCP compute instance - n1-highmem-4 with 4 core CPU, 1 NVIDIA T4 GPU, 26 GB RAM, and 160 GB SSD. This influenced the choice of inference and embedding models.
-Langchain was used to build the embedder and retriever modules due to its ease of use and integrations available.
+Langchain \cite{lang-chain} was used to build the embedder and retriever modules due to its ease of use and integrations available.
 \subsection{Embedding Models and Vector Store}
 I chose to use the bge-large-en-v1.5 BGE embedding model as it is an established model in the top 15 of the MTEB leader board. Further, the v1.5 model update embedding model: release bge-*-v1.5 embedding model alleviates the issue of the similarity distribution and has ehanced retrieval ability without instruction, compared to earlier bge models.
 \\
@@ -126,7 +127,27 @@ Among the 4 models, I expected to choose 2 for the final unseen test set submiss
 % where \verb|<dim>| is replaced with a length. Do not set this length smaller than 5 cm.
 
 \section{Results}
-\subsection{Comparison of Embeddings}
+
+As shown in the table 1, the BGE embeddings gave better results than the llama2-7b embeddings across different inference models. The BGE embeddings had a higher F1 score, with a significant difference.
+Further, the BGE embeddings with the Openchat model gave the best results, with a 21.1\% F1 score. 
+\subsection{Comparison of Models}
+\begin{table}
+\centering
+\begin{tabular}{lc}
+\hline
+\textbf{Embedding + Model} & \textbf{F1 Score \%}\\
+\hline
+\verb|Llama2 Embedding + Llama2| &  {5.6} \\
+\verb|Llama2 Embedding + Mistral| & {5.9} \\
+\verb|Llama2 Embedding + Open chat| & {7.8} \\ 
+\verb|BGE + Lllama2| & {11.6} \\ 
+\verb|BGE + Mistral| & {10.5} \\
+\verb|BGE + Openchat| & {21.1}  \\ 
+\hline
+\end{tabular}
+\caption{}
+\label{tab:accents}
+\end{table}
 
 
 
