@@ -98,7 +98,7 @@ def parse_arguments():
     parser = argparse.ArgumentParser(description='Embedder')
     parser.add_argument('--docs', type=str, default=BASE_DIR_TXT_FILES, help='Path to the directory containing text files')
     parser.add_argument('--vector', type=str, default=VECTOR_DATABASE_PATH + 'bge', help='Path to the directory where the vector store will be stored')
-    parser.add_argument('--embed', type=str, default='llama2', help='Embedding model to be used for creating embeddings')
+    parser.add_argument('--embed', type=str, default='bge', help='Embedding model to be used for creating embeddings')
     parser.add_argument('--verbose', type=bool, default=True, help='Verbose mode')
     parser.add_argument('--chunk_size', type=str, default=500, help='Chunk Size for splitting documents into smaller chunks')
     parser.add_argument('--chunk_overlap', type=str, default=0.2, help='Chunk Overlap for splitting documents into smaller chunks')
