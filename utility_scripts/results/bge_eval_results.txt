@@ -1,0 +1,48 @@
+/home/raj/nlp/cmu-rag/rveerara/data/test/openchat-bge-1000-0.2-answers.txt
+        F1:              10.0
+        Rouge:           8.0
+        EM:              2.0
+        Recall:          25.0
+        Precision:       8.0
+/home/raj/nlp/cmu-rag/rveerara/data/test/neural-chat-bge-1000-0.2-answers.txt
+        F1:              7.000000000000001
+        Rouge:           5.0
+        EM:              1.0
+        Recall:          22.0
+        Precision:       5.0
+/home/raj/nlp/cmu-rag/rveerara/data/test/llama2-bge-1000-0.2-answers.txt
+        F1:              6.0
+        Rouge:           4.0
+        EM:              0.0
+        Recall:          22.0
+        Precision:       4.0
+/home/raj/nlp/cmu-rag/rveerara/data/test/mistral-bge-1000-0.2-answers.txt
+        F1:              7.000000000000001
+        Rouge:           5.0
+        EM:              1.0
+        Recall:          21.0
+        Precision:       5.0
+/home/raj/nlp/cmu-rag/rveerara/data/test/openchat-bge-1000-0.3-answers.txt
+        F1:              11.0
+        Rouge:           7.000000000000001
+        EM:              2.0
+        Recall:          26.0
+        Precision:       8.0
+/home/raj/nlp/cmu-rag/rveerara/data/test/neural-chat-bge-1000-0.3-answers.txt
+        F1:              7.000000000000001
+        Rouge:           5.0
+        EM:              2.0
+        Recall:          22.0
+        Precision:       5.0
+/home/raj/nlp/cmu-rag/rveerara/data/test/llama2-bge-1000-0.3-answers.txt
+        F1:              7.000000000000001
+        Rouge:           5.0
+        EM:              0.0
+        Recall:          26.0
+        Precision:       4.0
+/home/raj/nlp/cmu-rag/rveerara/data/test/mistral-bge-1000-0.3-answers.txt
+        F1:              6.0
+        Rouge:           4.0
+        EM:              1.0
+        Recall:          22.0
+        Precision:       4.0
