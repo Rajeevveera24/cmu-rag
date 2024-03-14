@@ -1,48 +1,111 @@
-/home/raj/nlp/cmu-rag/rveerara/data/test/openchat-llama2-1000-0.2-answers.txt
-        F1:              8.0
-        Rouge:           5.0
-        EM:              1.0
-        Recall:          15.0
-        Precision:       6.0
-/home/raj/nlp/cmu-rag/rveerara/data/test/neural-chat-llama2-1000-0.2-answers.txt
-        F1:              4.0
-        Rouge:           3.0
-        EM:              0.0
-        Recall:          14.000000000000002
-        Precision:       3.0
-/home/raj/nlp/cmu-rag/rveerara/data/test/llama2-llama2-1000-0.2-answers.txt
-        F1:              6.0
-        Rouge:           4.0
-        EM:              0.0
-        Recall:          24.0
-        Precision:       4.0
-/home/raj/nlp/cmu-rag/rveerara/data/test/mistral-llama2-1000-0.2-answers.txt
-        F1:              7.000000000000001
-        Rouge:           6.0
-        EM:              1.0
-        Recall:          23.0
-        Precision:       5.0
-/home/raj/nlp/cmu-rag/rveerara/data/test/openchat-llama2-1000-0.3-answers.txt
-        F1:              8.0
-        Rouge:           5.0
-        EM:              1.0
-        Recall:          19.0
-        Precision:       6.0
-/home/raj/nlp/cmu-rag/rveerara/data/test/neural-chat-llama2-1000-0.3-answers.txt
-        F1:              5.0
-        Rouge:           4.0
-        EM:              0.0
-        Recall:          16.0
-        Precision:       3.0
-/home/raj/nlp/cmu-rag/rveerara/data/test/llama2-llama2-1000-0.3-answers.txt
-        F1:              8.0
-        Rouge:           6.0
-        EM:              0.0
-        Recall:          25.0
-        Precision:       5.0
-/home/raj/nlp/cmu-rag/rveerara/data/test/mistral-llama2-1000-0.3-answers.txt
-        F1:              7.000000000000001
-        Rouge:           5.0
-        EM:              1.0
-        Recall:          24.0
-        Precision:       5.0
+/home/raj/nlp/cmu-rag/rveerara/data/test/llama2-llama2-1000-0.2-answers.txt /home/raj/nlp/cmu-rag/rveerara/data/test/llama2-bge-1000-0.2-answers.txt
+Win ratio: sys1=0.193, sys2=0.206, tie=0.601
+(sys2 is superior with p value p=0.794)
+sys1 mean=6.086, median=6.000, 95% confidence interval=[3.000, 10.000]
+sys2 mean=6.109, median=6.000, 95% confidence interval=[3.000, 10.000]
+
+
+/home/raj/nlp/cmu-rag/rveerara/data/test/llama2-llama2-1000-0.3-answers.txt /home/raj/nlp/cmu-rag/rveerara/data/test/llama2-bge-1000-0.3-answers.txt
+Win ratio: sys1=0.573, sys2=0.081, tie=0.345
+(sys1 is superior with p value p=0.427)
+sys1 mean=7.504, median=7.000, 95% confidence interval=[4.000, 12.000]
+sys2 mean=6.821, median=7.000, 95% confidence interval=[4.000, 11.000]
+
+
+/home/raj/nlp/cmu-rag/rveerara/data/test/mistral-llama2-1000-0.2-answers.txt /home/raj/nlp/cmu-rag/rveerara/data/test/mistral-bge-1000-0.2-answers.txt
+Win ratio: sys1=0.161, sys2=0.240, tie=0.599
+(sys2 is superior with p value p=0.760)
+sys1 mean=7.012, median=7.000, 95% confidence interval=[3.000, 12.000]
+sys2 mean=7.090, median=7.000, 95% confidence interval=[3.000, 12.000]
+
+
+/home/raj/nlp/cmu-rag/rveerara/data/test/mistral-llama2-1000-0.3-answers.txt /home/raj/nlp/cmu-rag/rveerara/data/test/mistral-bge-1000-0.3-answers.txt
+Win ratio: sys1=0.564, sys2=0.119, tie=0.317
+(sys1 is superior with p value p=0.436)
+sys1 mean=7.245, median=7.000, 95% confidence interval=[3.000, 12.000]
+sys2 mean=6.359, median=6.000, 95% confidence interval=[3.000, 11.000]
+
+
+/home/raj/nlp/cmu-rag/rveerara/data/test/neural-chat-llama2-1000-0.2-answers.txt /home/raj/nlp/cmu-rag/rveerara/data/test/neural-chat-bge-1000-0.2-answers.txt
+Win ratio: sys1=0.067, sys2=0.832, tie=0.101
+(sys2 is superior with p value p=0.168)
+sys1 mean=4.302, median=4.000, 95% confidence interval=[2.000, 7.000]
+sys2 mean=7.129, median=7.000, 95% confidence interval=[3.000, 13.000]
+
+
+/home/raj/nlp/cmu-rag/rveerara/data/test/neural-chat-llama2-1000-0.3-answers.txt /home/raj/nlp/cmu-rag/rveerara/data/test/neural-chat-bge-1000-0.3-answers.txt
+Win ratio: sys1=0.101, sys2=0.796, tie=0.103
+(sys2 is superior with p value p=0.204)
+sys1 mean=4.876, median=5.000, 95% confidence interval=[2.000, 8.000]
+sys2 mean=7.428, median=7.000, 95% confidence interval=[3.000, 13.000]
+
+
+/home/raj/nlp/cmu-rag/rveerara/data/test/openchat-llama2-1000-0.2-answers.txt /home/raj/nlp/cmu-rag/rveerara/data/test/openchat-bge-1000-0.2-answers.txt
+Win ratio: sys1=0.122, sys2=0.794, tie=0.084
+(sys2 is superior with p value p=0.206)
+sys1 mean=7.774, median=8.000, 95% confidence interval=[3.000, 14.000]
+sys2 mean=10.746, median=11.000, 95% confidence interval=[5.000, 18.000]
+
+
+/home/raj/nlp/cmu-rag/rveerara/data/test/openchat-llama2-1000-0.3-answers.txt /home/raj/nlp/cmu-rag/rveerara/data/test/openchat-bge-1000-0.3-answers.txt
+Win ratio: sys1=0.162, sys2=0.770, tie=0.068
+(sys2 is superior with p value p=0.230)
+sys1 mean=7.824, median=8.000, 95% confidence interval=[3.000, 14.000]
+sys2 mean=11.428, median=11.000, 95% confidence interval=[6.000, 18.000]
+
+
+/home/raj/nlp/cmu-rag/rveerara/data/test/llama2-llama2-1000-0.2-answers.txt /home/raj/nlp/cmu-rag/rveerara/data/test/llama2-bge-1000-0.2-answers.txt
+Win ratio: sys1=0.587, sys2=0.276, tie=0.137
+(sys1 is superior with p value p=0.413)
+sys1 mean=23.561, median=24.000, 95% confidence interval=[12.000, 35.000]
+sys2 mean=22.335, median=22.000, 95% confidence interval=[12.000, 34.000]
+
+
+/home/raj/nlp/cmu-rag/rveerara/data/test/llama2-llama2-1000-0.3-answers.txt /home/raj/nlp/cmu-rag/rveerara/data/test/llama2-bge-1000-0.3-answers.txt
+Win ratio: sys1=0.321, sys2=0.549, tie=0.130
+(sys2 is superior with p value p=0.451)
+sys1 mean=25.433, median=25.000, 95% confidence interval=[14.000, 37.000]
+sys2 mean=26.450, median=27.000, 95% confidence interval=[16.000, 39.000]
+
+
+/home/raj/nlp/cmu-rag/rveerara/data/test/mistral-llama2-1000-0.2-answers.txt /home/raj/nlp/cmu-rag/rveerara/data/test/mistral-bge-1000-0.2-answers.txt
+Win ratio: sys1=0.679, sys2=0.191, tie=0.130
+(sys1 is superior with p value p=0.321)
+sys1 mean=22.761, median=22.000, 95% confidence interval=[12.000, 35.000]
+sys2 mean=20.675, median=21.000, 95% confidence interval=[11.000, 33.000]
+
+
+/home/raj/nlp/cmu-rag/rveerara/data/test/mistral-llama2-1000-0.3-answers.txt /home/raj/nlp/cmu-rag/rveerara/data/test/mistral-bge-1000-0.3-answers.txt
+Win ratio: sys1=0.638, sys2=0.201, tie=0.161
+(sys1 is superior with p value p=0.362)
+sys1 mean=23.532, median=23.000, 95% confidence interval=[13.000, 36.000]
+sys2 mean=21.833, median=22.000, 95% confidence interval=[11.000, 35.000]
+
+
+/home/raj/nlp/cmu-rag/rveerara/data/test/neural-chat-llama2-1000-0.2-answers.txt /home/raj/nlp/cmu-rag/rveerara/data/test/neural-chat-bge-1000-0.2-answers.txt
+Win ratio: sys1=0.047, sys2=0.936, tie=0.017
+(sys2 is superior with p value p=0.064)
+sys1 mean=13.543, median=13.000, 95% confidence interval=[6.000, 23.000]
+sys2 mean=22.077, median=22.000, 95% confidence interval=[11.000, 34.000]
+
+
+/home/raj/nlp/cmu-rag/rveerara/data/test/neural-chat-llama2-1000-0.3-answers.txt /home/raj/nlp/cmu-rag/rveerara/data/test/neural-chat-bge-1000-0.3-answers.txt
+Win ratio: sys1=0.127, sys2=0.837, tie=0.036
+(sys2 is superior with p value p=0.163)
+sys1 mean=15.683, median=15.000, 95% confidence interval=[7.000, 26.000]
+sys2 mean=22.144, median=22.000, 95% confidence interval=[11.000, 34.000]
+
+
+/home/raj/nlp/cmu-rag/rveerara/data/test/openchat-llama2-1000-0.2-answers.txt /home/raj/nlp/cmu-rag/rveerara/data/test/openchat-bge-1000-0.2-answers.txt
+Win ratio: sys1=0.017, sys2=0.976, tie=0.007
+(sys2 is superior with p value p=0.024)
+sys1 mean=14.934, median=15.000, 95% confidence interval=[6.000, 25.000]
+sys2 mean=26.154, median=26.000, 95% confidence interval=[13.000, 38.000]
+
+
+/home/raj/nlp/cmu-rag/rveerara/data/test/openchat-llama2-1000-0.3-answers.txt /home/raj/nlp/cmu-rag/rveerara/data/test/openchat-bge-1000-0.3-answers.txt
+Win ratio: sys1=0.091, sys2=0.882, tie=0.027
+(sys2 is superior with p value p=0.118)
+sys1 mean=17.478, median=17.000, 95% confidence interval=[9.000, 27.000]
+sys2 mean=26.545, median=26.000, 95% confidence interval=[15.000, 40.000]
+

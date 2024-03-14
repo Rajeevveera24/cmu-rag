@@ -1,0 +1,115 @@
+/home/raj/nlp/cmu-rag/rveerara/data/test/openchat-bge-500-0.1-answers.txt
+        F1:              14.000000000000002
+        Rouge:           12.0
+        EM:              7.000000000000001
+        Recall:          23.0
+        Precision:       12.0
+/home/raj/nlp/cmu-rag/rveerara/data/test/openchat-bge-500-0.2-answers.txt
+        F1:              15.0
+        Rouge:           13.0
+        EM:              7.000000000000001
+        Recall:          28.999999999999996
+        Precision:       12.0
+/home/raj/nlp/cmu-rag/rveerara/data/test/openchat-bge-500-0.3-answers.txt
+        F1:              12.0
+        Rouge:           9.0
+        EM:              2.0
+        Recall:          26.0
+        Precision:       10.0
+/home/raj/nlp/cmu-rag/rveerara/data/test/openchat-bge-500-0.4-answers.txt
+        F1:              12.0
+        Rouge:           8.0
+        EM:              6.0
+        Recall:          27.0
+        Precision:       10.0
+/home/raj/nlp/cmu-rag/rveerara/data/test/openchat-bge-750-0.1-answers.txt
+        F1:              12.0
+        Rouge:           8.0
+        EM:              4.0
+        Recall:          25.0
+        Precision:       9.0
+/home/raj/nlp/cmu-rag/rveerara/data/test/openchat-bge-750-0.2-answers.txt
+        F1:              12.0
+        Rouge:           9.0
+        EM:              6.0
+        Recall:          22.0
+        Precision:       10.0
+/home/raj/nlp/cmu-rag/rveerara/data/test/openchat-bge-750-0.3-answers.txt
+        F1:              12.0
+        Rouge:           9.0
+        EM:              4.0
+        Recall:          24.0
+        Precision:       10.0
+/home/raj/nlp/cmu-rag/rveerara/data/test/openchat-bge-750-0.4-answers.txt
+        F1:              13.0
+        Rouge:           9.0
+        EM:              6.0
+        Recall:          25.0
+        Precision:       11.0
+/home/raj/nlp/cmu-rag/rveerara/data/test/openchat-bge-1000-0.1-answers.txt
+        F1:              10.0
+        Rouge:           8.0
+        EM:              1.0
+        Recall:          26.0
+        Precision:       7.000000000000001
+/home/raj/nlp/cmu-rag/rveerara/data/test/openchat-bge-1000-0.2-answers.txt
+        F1:              11.0
+        Rouge:           9.0
+        EM:              2.0
+        Recall:          26.0
+        Precision:       8.0
+/home/raj/nlp/cmu-rag/rveerara/data/test/openchat-bge-1000-0.3-answers.txt
+        F1:              11.0
+        Rouge:           8.0
+        EM:              2.0
+        Recall:          27.0
+        Precision:       8.0
+/home/raj/nlp/cmu-rag/rveerara/data/test/openchat-bge-1000-0.4-answers.txt
+        F1:              9.0
+        Rouge:           6.0
+        EM:              1.0
+        Recall:          25.0
+        Precision:       6.0
+
+
+/home/raj/nlp/cmu-rag/rveerara/data/test/openchat-bge-750-0.2-answers.txt /home/raj/nlp/cmu-rag/rveerara/data/test/openchat-bge-500-0.2-answers.txt
+Win ratio: sys1=0.203, sys2=0.735, tie=0.062
+(sys2 is superior with p value p=0.265)
+sys1 mean=11.985, median=12.000, 95% confidence interval=[5.000, 20.000]
+sys2 mean=15.431, median=15.000, 95% confidence interval=[8.000, 24.000]
+
+
+/home/raj/nlp/cmu-rag/rveerara/data/test/openchat-bge-750-0.2-answers.txt /home/raj/nlp/cmu-rag/rveerara/data/test/openchat-bge-500-0.2-answers.txt
+Win ratio: sys1=0.169, sys2=0.795, tie=0.036
+(sys2 is superior with p value p=0.205)
+sys1 mean=22.510, median=22.000, 95% confidence interval=[12.000, 35.000]
+sys2 mean=29.326, median=29.000, 95% confidence interval=[18.000, 42.000]
+
+
+/home/raj/nlp/cmu-rag/rveerara/data/test/openchat-bge-750-0.3-answers.txt /home/raj/nlp/cmu-rag/rveerara/data/test/openchat-bge-500-0.3-answers.txt
+Win ratio: sys1=0.429, sys2=0.439, tie=0.132
+(sys2 is superior with p value p=0.561)
+sys1 mean=12.479, median=12.000, 95% confidence interval=[5.000, 21.000]
+sys2 mean=12.256, median=12.000, 95% confidence interval=[6.000, 20.000]
+
+
+/home/raj/nlp/cmu-rag/rveerara/data/test/openchat-bge-750-0.3-answers.txt /home/raj/nlp/cmu-rag/rveerara/data/test/openchat-bge-500-0.3-answers.txt
+Win ratio: sys1=0.282, sys2=0.651, tie=0.067
+(sys2 is superior with p value p=0.349)
+sys1 mean=24.005, median=24.000, 95% confidence interval=[13.000, 37.000]
+sys2 mean=26.577, median=26.000, 95% confidence interval=[16.000, 39.000]
+
+
+/home/raj/nlp/cmu-rag/rveerara/data/test/openchat-bge-400-0.2-answers.txt /home/raj/nlp/cmu-rag/rveerara/data/test/openchat-bge-500-0.2-answers.txt
+Win ratio: sys1=0.135, sys2=0.800, tie=0.065
+(sys2 is superior with p value p=0.200)
+sys1 mean=11.620, median=11.000, 95% confidence interval=[5.000, 19.000]
+sys2 mean=15.501, median=15.000, 95% confidence interval=[8.000, 25.000]
+
+
+/home/raj/nlp/cmu-rag/rveerara/data/test/openchat-bge-400-0.2-answers.txt /home/raj/nlp/cmu-rag/rveerara/data/test/openchat-bge-500-0.2-answers.txt
+Win ratio: sys1=0.228, sys2=0.725, tie=0.047
+(sys2 is superior with p value p=0.275)
+sys1 mean=24.815, median=25.000, 95% confidence interval=[14.000, 36.000]
+sys2 mean=29.375, median=29.000, 95% confidence interval=[17.000, 42.000]
+
