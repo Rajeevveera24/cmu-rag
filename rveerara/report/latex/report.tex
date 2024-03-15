@@ -32,8 +32,6 @@ This report summarizes the work done to build a stand alone Retrieval augmented 
 The system uses publicly available data to build a knowledge base, and LLama2-7b model to generate answers to questions.
 \end{abstract}
 
-\section{Introduction}
-
 \section{Data Creation}
 
 \subsection{Raw Data Collection}
@@ -64,12 +62,35 @@ The academic calendars for 2022-23 and 2023-24 were downloaded as PDFs and parse
 
 \subsection{Annotations}
 \subsubsection{Type and Quantity of Annotations}
-A total of 115 test annotation pairs were created manually - 31 for the history and events category, 15 for the LTI program handbook category, 30 for the CMU courses category, 20 for the LTI faculty category, and 19 for the LTI faculty research category.
+A total of 90 test annotation pairs were created manually - 31 for the history and events category, 15 for the LTI program handbook category, 21 for the CMU courses category, 14 for the LTI faculty category, and 9 for the LTI faculty research category.
 This split covered the different types of data collected, and the different types of questions that could be asked on them. No train annotations were created, since there was no fine tuning or few shot prompting being performed. The annotations were used to select the best models and embeddings.
 All the reference answers were kept down to 5 words with multiple variations being accepted (eg - 11711; 11-711; 11711 course; 11-711 course; 11711 course at CMU; 11-711 course at CMU etc). Reference answers were kept as short as possible with the goal of selecting a model that gave concise answers (to maintain the F1 score), while maintaining recall.
 This likely resulted in low f1 scores, but the idea behind this is to select a model that is concise.
-As I worked alone on this assignment, I could not calculate an inter annotator agreement score.
+\\The annotations canbe further classified into two categories based on the number of documents needed to answer the question - single document and multi document questions. This classification is used in the analysis section to evaluate the performance of the models across different types of questions.
 
+\subsubsection{Single Document Questions}
+\textbf{When was the Carnegie Plan initiated ?}
+\mdseries{This is a simple question whose answers can be found in one document alone. The document itself is distinct from other documents in that it is not a scheduler or a list, but a file containing some history facts in the form of sentences. I expected most models to get this answer correct, as long as the retriever was able to retrieve the correct documend among all the ones it retrieved.}
+\\
+\textbf{On which days do Kiltie band rehearsals happen during football season ?}
+\mdseries{This is a similar to the previous question and its answer can be found using a single document about the Kiltie band. The number of relevant documents here were greater than 2 since there were multiple mentions of the Kiltie band. But, the specific question is answered directly in the text.}
+\\
+\textbf{What is the course number of the capstone project for MS-AII students ?}
+\mdseries{This question differs from the previous two in that many more documents (chunks) would have an embedding similarity score close to this, and there are two possible documents that can answer this question - One is the relevant excerpt from the MS AII handbook and another is from the cmu course schedule file.}
+
+\subsubsection{Multi Document Questions}
+
+\textbf{Which paper did Bertsch, Uri, Matthew R and the instructors of courses 11711 and 10601 publish together ?}
+\mdseries{This is a hard question since at least 3 relevant documents need to be retrieved - The LTI papers chunk and two chunks from the course schedules.
+Since the schedules chunks were likely largely similar due to the number of overlapping words they had, the retriever would often retrieve the wrong set of documents.
+Even when the retriever retrieves the correct set of documents, the reranker might not rank the 3 documents needed at the top}
+
+\subsubsection{Annotation Quality Estimation}
+
+As I worked alone on this assignment, I measured inter annotator agreement by ranking all 90 questions twice - at different points in time. Each question was assigned a score of 1-4 based on difficulty, with 4 being reserved for the most difficult questions. I expected to see an agreement of 0.75 across all random samples.
+I did multiple random sampling with a sample size of 30, and the observed agreement varied between 0.67 and 0.97 and the average agreement scores after running random sampling for 100 iterations was 0.63, indicating moderate to substantial agreement across both sets of annotations.
+
+\clearpage
 \section{Model Details}
 
 \subsection{Constraints}
@@ -90,55 +111,59 @@ Among the 4 models, I expected to choose 2 for the final unseen test set submiss
 
 \subsection{Embedding Models}
 
-I compared performance across 2 embeddings to choose an embedding model - \textbf{bge-large-en-v1.5 and llama2-7b}. I used F1 score as the primary metric to compare the embeddings, along with recall, precision, rogue score and exact match. The results are shown in tables \ref{tab:accents} and \ref{tab:accents2}.
+I compared performance across 2 embeddings to choose an embedding model - \textbf{bge-large-en-v1.5 and llama2-7b}. Both embeddings were created with text documents with a chunk size of 1000. I used F1 score as the primary metric to compare the embeddings, along with recall. No embedding filter was used to rank the retrieved documents to feed to the model as context. The results are shown in tables \ref{tab:accents} and \ref{tab:accents2}. 
+The same set of parameters were used across all experiments for a fair comparison.
 \begin{table}
 \centering
   \begin{tabular}{ l c c r }
   \hline
-    \textbf{Model} & \textbf{Chunk Size} & \textbf{F1 Score \%} & \textbf{Recall}\\
+    \textbf{Model} & \textbf{Chunk overlap} & \textbf{F1 Score \%} & \textbf{Recall}\\
     \hline
-    \verb|Llama2 | & 500 &  {5.6} & {} \\
-    \verb|Openchat | & 500 & {7.8}  & {}\\ 
-    \verb|Neural Chat | & 500 &{7.8}  & {}\\ 
-    \verb|Llama2 | & 1000 &  {5.6}  & {}\\
-    \verb|Openchat | & 1000 & {7.8} \ & {} \\ 
-    \verb|Neural Chat | & 1000 &{7.8}  & {}\\ 
+    \verb|Llama2 | & 0.2   &  {7.35} & {18.13} \\
+    \verb|Openchat | &  0.2 & {11.81}  & {19.49}\\ 
+    \verb|Neural Chat | & 0.2  & {4.82}  & {13.39}\\ 
+    \verb|Llama2 | &  0.3 &  {6.72}  & {17.28}\\
+    \verb|Openchat | &  0.3 & {8.17} \ & {16.86} \\ 
+    \verb|Neural Chat | & 0.3 & {5.03}  & {16.06}\\ 
     \hline
   \end{tabular}
 \caption{Evaluation results with Llama2 embeddings}
 \label{tab:accents}
 \end{table}
 
-\begin{table}
-  \centering
-    \begin{tabular}{ l c c r }
-    \hline
-      \textbf{Model} & \textbf{Chunk Size} & \textbf{F1 Score \%} & \textbf{Recall}\\
+  In most cases, the BGE embedding proved superior, which was as expected. The low F1 scores are likely due to the models generating long answers, and the reference answers being short. The BGE embeddings were chosen for the final model.
+  In terms of signifance, using openchat with BGE embeddings proved superior to using llama2 embeddings across chunk overlaps and F1 and recall scores.
+  The most significant p-value for F1 scores was p=0.155, observed with the open chat model using embeddings with chunk overlap of 0.3.
+  As the p-value is greater than 0.05, we fail to reject the null hypothesis that the F1 scores across the two embeddings are the same, at the 95\% confidence level.
+  The results are not signifacant at p = 0.05 confidence level.
+
+  \begin{table}
+    \centering
+      \begin{tabular}{ l c c r }
       \hline
-      \verb|Llama2 | & 500 &  {5.6} & {} \\
-      \verb|Openchat | & 500 & {7.8}  & {}\\ 
-      \verb|Neural Chat | & 500 &{7.8}  & {}\\ 
-      \verb|Llama2 | & 1000 &  {5.6}  & {}\\
-      \verb|Openchat | & 1000 & {7.8} \ & {} \\ 
-      \verb|Neural Chat | & 1000 &{7.8}  & {}\\ 
-      \hline
-    \end{tabular}
+        \textbf{Model} & \textbf{Chunk overlap} & \textbf{F1 Score \%} & \textbf{Recall}\\
+        \hline
+        \verb|Llama2 | & 0.2 &  {5.72} & {24.38} \\
+        \verb|Openchat | & 0.2 & {10.89}  & {30.87}\\ 
+        \verb|Neural Chat | & 0.2 & {7.42}  & {22.19}\\ 
+        \verb|Llama2 | & 0.3 &  {7.60}  & {28.74}\\
+        \verb|Openchat | & 0.3 & {11.52} \ & {29.41} \\ 
+        \verb|Neural Chat | & 0.3 & {8.46}  & {23.25}\\ 
+        \hline
+      \end{tabular}
   \caption{Evaluation results with BGE embeddings}
   \label{tab:accents2}
   \end{table}
 
-  Which embedding was better across evaluation metrics, chunk sizes and models ?
-  Was one embeddings signifactly better than the other ?
-
 \subsection{Comparison of Models}
 
-After selecting the embedding, I compared the performance of the 4 models across the same metrics as the embeddings. The results are shown in tables \ref{tab:tab3}.
+I attempted to use the BGE embeddings and improve F1 score by adding reranking mechanisms. I compared the performance of the 3 models across the same metrics as the embeddings. The results are shown in tables \ref{tab:tab3}.
   
 \begin{table}
   \centering
     \begin{tabular}{ l c c r }
     \hline
-      \textbf{Model} & \textbf{Chunk Size} & \textbf{Retriever} & \textbf{F1 Score \%} \\
+      \textbf{Model} & \textbf{Retriever} & \textbf{F1 Score\%} \\
       \hline
       \verb|Llama2 | & 500 &  {} & {} \\
       \verb|Openchat | & 500 & {}  & {}\\ 
@@ -158,19 +183,22 @@ Was one model signifactly better than the rest ?
 \section{Analysis}
 The annotations contained questions that required different types and numbers of documents to answer them. For example, most questions from the history category could be found from the context within one document. Similarly, questions from the schedules category that simply asked where or when a class was held were expected to be easier for the RAG system.
 Questions from the LTI faculty and LTI research categories were also of two types - ones whose answers could be found within one document or ones that needed collection of information from multiple documents. By document, I refer to the chunked documents here.
-Questions such as \textit{Which author of the paper titled " Unsupervised Dense Retrieval Training with Web Anchors" did not publish any other paper in 2023 ?} required information from all documents corresponding to LTI papers. This question was not expected to be answere correctly by any of the baseline models.
-I categorized the question based on a hypothetical difficulty level, in terms of how many documents would be needed to capture the answer, and evaluated the peformance of the models I tsted across these difficulty levels. The results of this evaluation are given below.
+Questions such as \textit{Which author of the paper titled " Unsupervised Dense Retrieval Training with Web Anchors" did not publish any other paper in 2023 ?} required information from all documents corresponding to LTI papers. This question was not expected to be answered correctly by any of the baseline models.
+I categorized the question based on a hypothetical difficulty level during annotation creation, and evaluated the peformance of the models I tested across these difficulty levels. The results of this evaluation are given below.
 \subsection{Single Document Questions}
 \textbf{When was the Carnegie Plan initiated ?}
-\bfseries{}
-\textbf{}
-\bfseries{}
-\textbf{}
-\bfseries{}
+\mdseries{}
+\\
+\textbf{On which days do Kiltie band rehearsals happen during football season ?}
+\mdseries{}\\
+\textbf{What is the course number of the capstone project for MS-AII students ?}
+\mdseries{}
 
-\subsection{Simple Multi Document Questions}
+\subsection{Multi Document Questions}
 
-\subsection {Complex Multi Document Questions}
+\textbf{Which paper did Bertsch, Uri, Matthew R and the instructors of courses 11711 and 10601 publish together ?}
+\mdseries{}
+
 \section{Conclusion}
 
 
