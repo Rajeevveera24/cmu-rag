@@ -76,7 +76,7 @@ Where is the office of the instructor for the course taught in TEP 1403 at 12:30
 Which room number that is occupied by staff is also common between two different buildings ?
 WWhose office is likely closest to room TCS 350 ?
 At what time on Tuesdays during working hours is Yonatan Bisk not likely to be in his office ?
-WHat is the phone number of the faculty who is interested in AI drug discovery and LLMs located ?'
+WHat is the phone number of the faculty who is interested in AI drug discovery and LLMs ?'
 Who would I say hello to if I called 412-268-1330 ?
 Which adjunct faculty member likely works at Google ?
 Who is the first author on the paper -  DataFinder Scientific Dataset Recommendation from Natural Language Descriptions ?
