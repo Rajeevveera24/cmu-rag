@@ -1,3 +1,5 @@
+
+
 import argparse
 
 from langchain_community.embeddings import OllamaEmbeddings
@@ -5,7 +7,9 @@ from langchain_community.vectorstores import Chroma
 from langchain_core.output_parsers import StrOutputParser
 from langchain_community.llms import Ollama
 from langchain_core.runnables import RunnablePassthrough
+from langchain.retrievers.document_compressors import LLMChainFilter, EmbeddingsFilter, FlashrankRerank, DocumentCompressorPipeline, LLMChainExtractor
 from langchain_community.embeddings import HuggingFaceBgeEmbeddings
+from langchain.retrievers import ContextualCompressionRetriever
 
 from langchain import hub
 
@@ -30,7 +34,7 @@ def load_vector_store(dir, embedding_model = OllamaEmbeddings()):
     return vector_store
 
 
-def create_chain(vector_store, inference_model = Ollama(model='llama2'), prompt_message = PROMPT_MESSAGE_LLAMA2):
+def create_chain(vector_store, inference_model = Ollama(model='llama2'), prompt_message = PROMPT_MESSAGE_LLAMA2, embedding_model = OllamaEmbeddings()):
     
     rag_prompt_llama = hub.pull("rlm/rag-prompt-llama")
     rag_prompt_llama.messages[0].prompt.template = prompt_message
@@ -39,9 +43,21 @@ def create_chain(vector_store, inference_model = Ollama(model='llama2'), prompt_
     def format_docs(docs):
         return "\n\n".join(doc.page_content for doc in docs)
     
-    retriever = vector_store.as_retriever()
+    retriever = vector_store.as_retriever(search_kwargs={"k": 7})
+    embeddings_filter = EmbeddingsFilter(embeddings=embedding_model, similarity_threshold=0.65)
+
+    llm_compressor = LLMChainExtractor.from_llm(llm)
+
+    flashrankRerank = FlashrankRerank(top_n = 7)
+
+    pipeline_compressor = DocumentCompressorPipeline(transformers=[embeddings_filter, llm_compressor])
+
+    compression_retriever = ContextualCompressionRetriever(
+        base_compressor=pipeline_compressor, base_retriever=retriever
+    )
+
     qa_chain = (
-        {"context": retriever | format_docs, "question": RunnablePassthrough()}
+        {"context": compression_retriever | format_docs, "question": RunnablePassthrough()}
         | rag_prompt_llama
         | llm
         | StrOutputParser()
@@ -106,11 +122,11 @@ def do_rag_in_chunks(vector_store_path=VECTOR_DATABASES_DIR_PATH+VECTOR_STORE_DE
         questions_file_name=QUESTIONS_FILE,
         answers_file_name=ANSWERS_FILE,
         append=False,
-        questions_to_process_at_once=50,):
+        questions_to_process_at_once=200,):
     if not embedding_model:
         raise ValueError("Invalid embedding model")
     vector_store = load_vector_store(vector_store_path, embedding_model)
-    qa_chain = create_chain(vector_store, inference_model=inference_model)
+    qa_chain = create_chain(vector_store, inference_model=inference_model, embedding_model=embedding_model)
     questions = get_questions(file_name=questions_file_name)
     num_questions = len(questions)
     for i in range(0, num_questions, questions_to_process_at_once):
