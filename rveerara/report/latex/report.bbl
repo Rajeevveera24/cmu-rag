@@ -1,5 +1,11 @@
-\begin{thebibliography}{2}
+\begin{thebibliography}{5}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+
+\bibitem[{Compression()}]{contextual-compression}
+Lang Chain~Contextual Compression.
+\newblock \href
+  {'https://python.langchain.com/docs/modules/data_connection/retrievers/contextual_compression/'}
+  {[link]}.
 
 \bibitem[{Docs()}]{lang-chain}
 Lang~Chain Docs.
@@ -7,6 +13,20 @@ Lang~Chain Docs.
 \newblock \href
   {'https://python.langchain.com/docs/use_cases/question_answering/local_retrieval_qa'}
   {[link]}.
+
+\bibitem[{Docs(2024{\natexlab{a}})}]{embeddings_filter}
+Lang~Chain Docs. 2024{\natexlab{a}}.
+\newblock \href
+  {'https://python.langchain.com/docs/modules/data_connection/retrievers/contextual_compression/#embeddingsfilter'}
+  {Local retrieval qa}.
+\newblock LangChain.
+
+\bibitem[{Docs(2024{\natexlab{b}})}]{llm_chain_filter}
+Lang~Chain Docs. 2024{\natexlab{b}}.
+\newblock \href
+  {'https://python.langchain.com/docs/modules/data_connection/retrievers/contextual_compression/#llmchainfilter'}
+  {Local retrieval qa}.
+\newblock LangChain.
 
 \bibitem[{Neubig(2024)}]{assignment-github}
 Graham Neubig. 2024.

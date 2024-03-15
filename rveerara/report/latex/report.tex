@@ -109,9 +109,9 @@ Among the 4 models, I expected to choose 2 for the final unseen test set submiss
 
 \section{Results}
 
-\subsection{Embedding Models}
+\subsection{Embeddings}
 
-I compared performance across 2 embeddings to choose an embedding model - \textbf{bge-large-en-v1.5 and llama2-7b}. Both embeddings were created with text documents with a chunk size of 1000. I used F1 score as the primary metric to compare the embeddings, along with recall. No embedding filter was used to rank the retrieved documents to feed to the model as context. The results are shown in tables \ref{tab:accents} and \ref{tab:accents2}. 
+I compared performance across two embeddings to choose an embedding model - \textbf{bge-large-en-v1.5 and llama2-7b}. Both embeddings were created with text documents with a chunk size of 1000. I used F1 score as the primary metric to compare the embeddings, along with recall. No embedding filter was used to rank the retrieved documents to feed to the model as context. The results are shown in tables \ref{tab:accents} and \ref{tab:accents2}. 
 The same set of parameters were used across all experiments for a fair comparison.
 \begin{table}
 \centering
@@ -155,30 +155,18 @@ The same set of parameters were used across all experiments for a fair compariso
   \label{tab:accents2}
   \end{table}
 
-\subsection{Comparison of Models}
+\subsection{Comparison Between Models}
 
-I attempted to use the BGE embeddings and improve F1 score by adding reranking mechanisms. I compared the performance of the 3 models across the same metrics as the embeddings. The results are shown in tables \ref{tab:tab3}.
-  
-\begin{table}
-  \centering
-    \begin{tabular}{ l c c r }
-    \hline
-      \textbf{Model} & \textbf{Retriever} & \textbf{F1 Score\%} \\
-      \hline
-      \verb|Llama2 | & 500 &  {} & {} \\
-      \verb|Openchat | & 500 & {}  & {}\\ 
-      \verb|Neural Chat | & 500 &{}  & {}\\ 
-      \verb|Llama2 | & 1000 &  {}  & {}\\
-      \verb|Openchat | & 1000 & {} \ & {} \\ 
-      \verb|Neural Chat | & 1000 &{}  & {}\\ 
-      \hline
-    \end{tabular}
-  \caption{Evaluation results with Llama2 embeddings}
-  \label{tab:tab3}
-  \end{table}
-
-How do the models comapre across evaluation metrics, chunk sizes and models ?
-Was one model signifactly better than the rest ?
+I used the BGE embeddings and attempted to improve F1 score by adding \cite{contextual-compression}. I hypothesized that contextual compression \cite{contextual-compression} would 
+pick out the most relevant parts of the retrieved documents. I opted for an embeddings filter \cite{embeddings_filter} over an llm chain filter \cite{llm_chain_filter}, since it is faster. 
+I evaluated metrics on the same set of threee models as before. 
+All the compared models used an embedding chunk size of 500, as that gave marginal peformance improvements over a chunk size of 500 and Top-k sampling with k value of 15. 
+The results are shown in tables \ref{tab:tab1}.
+\\
+Among the three models, there was no significant difference in recall with most pair wise comparisons resulting in p values of 0.3 to 0.4, favoring Openchat.
+The F1 scores had more variation with Openchat outperforming the other two models in most cases.
+As seen in table \ref{tab:tab1}, the most significant p-value for F1 was observed between OpenChat and neural chat, with Openchat being significantly better than neural chat at the p=0.05 level.
+The performance difference between Openchat and LLama2 was not significant at the p=0.05 level.
 
 \section{Analysis}
 The annotations contained questions that required different types and numbers of documents to answer them. For example, most questions from the history category could be found from the context within one document. Similarly, questions from the schedules category that simply asked where or when a class was held were expected to be easier for the RAG system.
@@ -187,20 +175,53 @@ Questions such as \textit{Which author of the paper titled " Unsupervised Dense 
 I categorized the question based on a hypothetical difficulty level during annotation creation, and evaluated the peformance of the models I tested across these difficulty levels. The results of this evaluation are given below.
 \subsection{Single Document Questions}
 \textbf{When was the Carnegie Plan initiated ?}
-\mdseries{}
+\\
+\mdseries{Surprisingly, most of the basic models got this question wrong, and none of the models operation on top of a llama2 embedding vector store were able to get it right.
+Given that any model that is provided the answer somewhere in its context should get this question correct, I investigated the retriever to see if the relevant chunk was being retrieved.
+Using the BGE emneddings, the chunk was retrieved on occasion, but in general - almost no retriever got the right chunk. This is possibly because the question is generic in the sense 
+that it does not contain a unique structure in terms of what it is asking nor does it use any unique words. To deal with this type of queestion, a better retrieval mechanism is most likely needed.}
 \\
 \textbf{On which days do Kiltie band rehearsals happen during football season ?}
-\mdseries{}\\
+\\
+\mdseries{Unlike the previous question, most models got this question correct, since the question is specific to the Kiltie band and football.
+ The retreiver worked well possibly because there were few documents that contained information about the Kiltie band or football.
+ Since this was a very direct question, most models got it right, provided that the retriever retrieved the right chunk.}
+\\
 \textbf{What is the course number of the capstone project for MS-AII students ?}
-\mdseries{}
+\\
+\mdseries{
+  Most systems using the BGE embedding got this question right, while the ones using llama2 embeddings did not.
+  This is because using the BGE embeddings resulted in the correct chunk being retrieved, while using llama2 embeddings often did not.
+  The main reason for this could be that BGE creates much better sentence level embeddings and can thus match this query to the right chunk from the MS AII handbook documents.
+}
 
 \subsection{Multi Document Questions}
 
 \textbf{Which paper did Bertsch, Uri, Matthew R and the instructors of courses 11711 and 10601 publish together ?}
-\mdseries{}
+\\
+\mdseries{
+  Given that I was using sentence level embeddings, I did not expect any of the retrievers I built to retrieve all the documents relevant to this question.
+  This was indeed the case - no retriever retrieved all the correct documents needed to answer this question.
+  The only way to get this correct was if the retriever got all the documents of papers author by the people mentioned, and the reader subsequently 
+  made the correct guess about the paper's name. 
+  Questions similar to this one constituted ~30\% of the test set. I had attempted to develop retrievers that could deal with the complexity needed for these questions, but could not succeed in doing so.
+  None of the systems whose outputs I directly checked were able to answer this question correctly. 
+}
 
-\section{Conclusion}
-
+\begin{table}
+  \centering
+    \begin{tabular}{ l c c r }
+    \hline
+      \textbf{Models} & \textbf{Chunk overlap} &\textbf{F1 Scores\%} & \textbf{p}\\
+      \hline
+      \verb|Openchat, LLama2 | & 0.4 & 13.35, 9.64 & {0.15}\\
+      \verb|Openchat, Neural | & 0.4 & 13.35, 8.55 & {0.02}\\ 
+      \verb|Openchat, LLama2 | & 0.3 & 13.75, 8.47 & {0.13}\\
+      \verb|Openchat, Neural | & 0.3 & 13.75, 7.79 & {0.05}\\
+    \end{tabular}
+  \caption{Evaluation results with BGE embeddings and different models}
+  \label{tab:tab1}
+\end{table}
 
 \clearpage
 \section*{Acknowledgements}

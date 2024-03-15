@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.9.13)  14 MAR 2024 21:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.9.13)  14 MAR 2024 23:53
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -417,28 +417,45 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [3
 
-] [4] (./report.bbl) [5
+] [4]
+Overfull \hbox (67.2722pt too wide) in paragraph at lines 213--222
+ [][] 
+ []
+
+[5
+
+] (./report.bbl
+Underfull \hbox (badness 3312) in paragraph at lines 18--23
+[]\T1/ptm/m/n/10 (+20) Lang Chain Docs. 2024a.  [][]Lo-cal re-trieval qa[][].
+ []
+
+
+Underfull \hbox (badness 3168) in paragraph at lines 25--30
+[]\T1/ptm/m/n/10 (+20) Lang Chain Docs. 2024b.  [][]Lo-cal re-trieval qa[][].
+ []
+
+) [6
 
 
 ] (./report.aux)
 Package rerunfilecheck Info: File `report.out' has not changed.
-(rerunfilecheck)             Checksum: 3BA8D9CE0D9CBE66C2C2F1B24BBFAEC9;3002.
+(rerunfilecheck)             Checksum: 9BC6C4CDF2480FAAF6E7B8F519C39B04;2900.
  ) 
 Here is how much of TeX's memory you used:
- 13501 strings out of 480171
- 217472 string characters out of 5894489
- 548546 words of memory out of 5000000
- 31005 multiletter control sequences out of 15000+600000
- 514183 words of font info for 223 fonts, out of 8000000 for 9000
+ 13521 strings out of 480171
+ 217843 string characters out of 5894489
+ 548642 words of memory out of 5000000
+ 31013 multiletter control sequences out of 15000+600000
+ 514573 words of font info for 229 fonts, out of 8000000 for 9000
  59 hyphenation exceptions out of 8191
  75i,15n,77p,1079b,383s stack positions out of 5000i,500n,10000p,200000b,80000s
 pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist, replaced by a fixed one
 
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/inconsolata/i4-t1-0.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/inconsolata/Inconsolata-zi4r.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on report.pdf (5 pages, 82308 bytes).
+Output written on report.pdf (6 pages, 85643 bytes).
 PDF statistics:
- 157 PDF objects out of 1000 (max. 8388607)
- 140 compressed objects within 2 object streams
- 34 named destinations out of 1000 (max. 500000)
- 49313 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 174 PDF objects out of 1000 (max. 8388607)
+ 156 compressed objects within 2 object streams
+ 37 named destinations out of 1000 (max. 500000)
+ 49305 words of extra memory for PDF output out of 51595 (max. 10000000)
 

@@ -83,7 +83,32 @@ sys2 mean=23.252, median=23.000, 95% confidence interval=[13.000, 35.000]
 
 
 
+/home/raj/nlp/cmu-rag/rveerara/data/test/openchat-bge-rerank-500-0.4-answers.txt /home/raj/nlp/cmu-rag/rveerara/data/test/llama2-bge-rerank-500-0.4-answers.txt
+Win ratio: sys1=0.850, sys2=0.077, tie=0.073
+(sys1 is superior with p value p=0.150)
+sys1 mean=13.326, median=13.000, 95% confidence interval=[7.000, 21.000]
+sys2 mean=9.643, median=9.000, 95% confidence interval=[4.000, 16.000]
 
+
+/home/raj/nlp/cmu-rag/rveerara/data/test/openchat-bge-rerank-500-0.4-answers.txt /home/raj/nlp/cmu-rag/rveerara/data/test/neural-chat-bge-rerank-500-0.4-answers.txt
+Win ratio: sys1=0.983, sys2=0.003, tie=0.014
+(sys1 is superior with p value p=0.017)
+sys1 mean=13.376, median=13.000, 95% confidence interval=[7.000, 21.000]
+sys2 mean=8.554, median=8.000, 95% confidence interval=[4.000, 14.000]
+
+
+/home/raj/nlp/cmu-rag/rveerara/data/test/openchat-bge-rerank-500-0.3-answers.txt /home/raj/nlp/cmu-rag/rveerara/data/test/llama2-bge-rerank-500-0.3-answers.txt
+Win ratio: sys1=0.870, sys2=0.083, tie=0.048
+(sys1 is superior with p value p=0.130)
+sys1 mean=13.720, median=14.000, 95% confidence interval=[6.000, 23.000]
+sys2 mean=8.469, median=8.000, 95% confidence interval=[3.000, 15.000]
+
+
+/home/raj/nlp/cmu-rag/rveerara/data/test/openchat-bge-rerank-500-0.3-answers.txt /home/raj/nlp/cmu-rag/rveerara/data/test/neural-chat-bge-rerank-500-0.3-answers.txt
+Win ratio: sys1=0.945, sys2=0.029, tie=0.026
+(sys1 is superior with p value p=0.055)
+sys1 mean=13.803, median=14.000, 95% confidence interval=[7.000, 23.000]
+sys2 mean=7.785, median=8.000, 95% confidence interval=[3.000, 14.000]
 
 
 /home/raj/nlp/cmu-rag/rveerara/data/test/openchat-bge-rerank-500-0.4-answers.txt /home/raj/nlp/cmu-rag/rveerara/data/test/llama2-bge-rerank-500-0.4-answers.txt
