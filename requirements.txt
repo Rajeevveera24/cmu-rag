@@ -34,7 +34,7 @@ distro==1.9.0
 emoji==2.10.1
 exceptiongroup @ file:///home/conda/feedstock_root/build_artifacts/exceptiongroup_1704921103267/work
 executing @ file:///home/conda/feedstock_root/build_artifacts/executing_1698579936712/work
-fastapi==0.108.0
+fastapi==0.109.1
 fastapi-socketio==0.0.10
 filelock==3.13.1
 filetype==1.2.0
