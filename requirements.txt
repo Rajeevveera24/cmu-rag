@@ -160,7 +160,7 @@ python-engineio==4.9.0
 python-graphql-client==0.4.3
 python-iso639==2024.2.7
 python-magic==0.4.27
-python-multipart==0.0.7
+python-multipart==0.0.18
 python-socketio==5.11.1
 pytz==2024.1
 PyYAML==6.0.1
