@@ -138,7 +138,7 @@ portalocker==2.8.2
 posthog==3.4.2
 print-schema==1.1.1
 prompt-toolkit @ file:///home/conda/feedstock_root/build_artifacts/prompt-toolkit_1702399386289/work
-protobuf==4.25.3
+protobuf==4.25.8
 psutil @ file:///home/conda/feedstock_root/build_artifacts/psutil_1705722396628/work
 ptyprocess @ file:///home/conda/feedstock_root/build_artifacts/ptyprocess_1609419310487/work/dist/ptyprocess-0.7.0-py2.py3-none-any.whl
 pulsar-client==3.4.0
