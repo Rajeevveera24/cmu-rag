@@ -150,7 +150,7 @@ pydantic==2.6.1
 pydantic_core==2.16.2
 Pygments @ file:///home/conda/feedstock_root/build_artifacts/pygments_1700607939962/work
 PyJWT==2.8.0
-pypdf==4.0.2
+pypdf==6.0.0
 PyPDF2==3.0.1
 PyPika==0.48.9
 pyproject_hooks==1.0.0
