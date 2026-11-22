@@ -7,11 +7,11 @@ from langchain_community.vectorstores import Chroma
 from langchain_core.output_parsers import StrOutputParser
 from langchain_community.llms import Ollama
 from langchain_core.runnables import RunnablePassthrough
-from langchain.retrievers.document_compressors import LLMChainFilter, EmbeddingsFilter, FlashrankRerank, DocumentCompressorPipeline, LLMChainExtractor
+from langchain_classic.retrievers.document_compressors import LLMChainFilter, EmbeddingsFilter, FlashrankRerank, DocumentCompressorPipeline, LLMChainExtractor
 from langchain_community.embeddings import HuggingFaceBgeEmbeddings
-from langchain.retrievers import ContextualCompressionRetriever
+from langchain_classic.retrievers import ContextualCompressionRetriever
 
-from langchain import hub
+from langchain_classic import hub
 
 from chromadb.errors import InvalidDimensionException
 
